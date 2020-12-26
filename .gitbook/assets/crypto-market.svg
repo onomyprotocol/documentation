@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1200" style="enable-background:new 0 0 1000 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#6D6E71;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:20.3565px;}
+	.st5{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st6{font-size:18px;}
+	.st7{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5,5;}
+	.st8{font-size:21px;}
+	.st9{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:4.9893,4.9893;}
+	.st10{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.2299,5.2299;}
+	.st11{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:4.929,4.929;}
+	.st12{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:4.8677,4.8677;}
+	.st13{font-size:17.7727px;}
+	.st14{letter-spacing:11.79;}
+	.st15{letter-spacing:0.98;}
+	.st16{letter-spacing:10.81;}
+</style>
+<rect x="250" y="306.46" class="st0" width="500" height="592.86"/>
+<g>
+	<circle class="st1" cx="500" cy="306.46" r="62.5"/>
+	<rect x="447.51" y="299.96" class="st2" width="104.99" height="16"/>
+	<text transform="matrix(0.9605 0 0 1 489.501 314.4096)" class="st3 st4">BP</text>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="503.7" y1="222.3" x2="503.7" y2="171.65"/>
+		<g>
+			<polygon points="508.69,220.84 503.7,229.48 498.72,220.84 			"/>
+		</g>
+		<g>
+			<polygon points="508.69,173.11 503.7,164.48 498.72,173.11 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st1" d="M554.27,150h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+		C566.27,144.6,560.87,150,554.27,150z"/>
+	<rect x="451.28" y="118.54" class="st2" width="104.99" height="12.91"/>
+	<text transform="matrix(0.931 0 0 1 483.3533 131.3236)" class="st3 st6">Client</text>
+</g>
+<rect x="261.18" y="315.96" class="st2" width="54.51" height="19.38"/>
+<text transform="matrix(1 0 0 1 261.1763 328.7361)" class="st3 st6">Virtual</text>
+<g>
+	<path class="st1" d="M700.5,850h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+		C712.5,844.6,707.1,850,700.5,850z"/>
+	<rect x="597.51" y="817.54" class="st2" width="104.99" height="14.92"/>
+	<text transform="matrix(0.931 0 0 1 629.5801 830.3183)" class="st3 st6">Client</text>
+</g>
+<g>
+	<g>
+		<line class="st7" x1="351.58" y1="774.06" x2="439.7" y2="383.06"/>
+		<g>
+			<polygon points="356.76,773.74 350,781.06 347.03,771.54 			"/>
+		</g>
+		<g>
+			<polygon points="444.24,385.58 441.27,376.06 434.51,383.39 			"/>
+		</g>
+	</g>
+</g>
+<rect x="260.78" y="282.77" class="st2" width="31.21" height="20.14"/>
+<text transform="matrix(1 0 0 1 260.7768 295.5538)" class="st3 st6">Fiat</text>
+<g>
+	<circle class="st1" cx="250" cy="671.81" r="62.5"/>
+	<rect x="197.51" y="666.56" class="st2" width="104.99" height="15.17"/>
+	<text transform="matrix(0.931 0 0 1 232.7363 681.4672)" class="st3 st8">OTC</text>
+</g>
+<g>
+	<circle class="st1" cx="750" cy="671.81" r="62.5"/>
+	<rect x="697.51" y="665.31" class="st2" width="104.99" height="16"/>
+	<text transform="matrix(0.9605 0 0 1 738.7578 679.7632)" class="st3 st4">RA</text>
+</g>
+<g>
+	<path class="st1" d="M400.5,850h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+		C412.5,844.6,407.1,850,400.5,850z"/>
+	<rect x="297.51" y="817.54" class="st2" width="104.99" height="14.92"/>
+	<text transform="matrix(0.931 0 0 1 329.5801 830.3183)" class="st3 st6">Client</text>
+</g>
+<g>
+	<rect x="437.5" y="468.96" class="st1" width="125" height="125"/>
+	<rect x="476.2" y="523.94" class="st2" width="47.61" height="15.04"/>
+	<text transform="matrix(1 0 0 1 481.8461 538.8483)" class="st3 st8">DEX</text>
+</g>
+<g>
+	<path class="st1" d="M900.5,850h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+		C912.5,844.6,907.1,850,900.5,850z"/>
+	<rect x="797.51" y="817.54" class="st2" width="104.99" height="14.92"/>
+	<text transform="matrix(0.931 0 0 1 829.5801 830.3184)" class="st3 st6">Client</text>
+</g>
+<g>
+	<path class="st1" d="M200.5,850h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+		C212.5,844.6,207.1,850,200.5,850z"/>
+	<rect x="97.51" y="817.54" class="st2" width="104.99" height="14.92"/>
+	<text transform="matrix(0.931 0 0 1 129.5801 830.3183)" class="st3 st6">Client</text>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="285.34" y1="593.75" x2="286.56" y2="591.57"/>
+		<line class="st9" x1="289.01" y1="587.22" x2="424.88" y2="345.94"/>
+		<line class="st5" x1="426.1" y1="343.77" x2="427.33" y2="341.59"/>
+		<g>
+			<polygon points="290.4,594.92 281.81,600 281.71,590.03 			"/>
+		</g>
+		<g>
+			<polygon points="430.96,345.31 430.85,335.34 422.27,340.42 			"/>
+		</g>
+	</g>
+</g>
+<line class="st5" x1="212.5" y1="825" x2="287.5" y2="825"/>
+<line class="st5" x1="712.5" y1="825" x2="787.5" y2="825"/>
+<g>
+	<g>
+		<line class="st7" x1="620.33" y1="781.57" x2="532.09" y2="615.65"/>
+		<g>
+			<polygon points="624.05,777.94 623.7,787.91 615.24,782.63 			"/>
+		</g>
+		<g>
+			<polygon points="537.18,614.59 528.72,609.31 528.38,619.28 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="162.58" y1="777.09" x2="192.43" y2="747.24"/>
+		<g>
+			<polygon points="167.14,779.59 157.51,782.17 160.09,772.53 			"/>
+		</g>
+		<g>
+			<polygon points="194.93,751.8 197.51,742.17 187.87,744.75 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st7" x1="317.42" y1="778.55" x2="287.57" y2="748.69"/>
+		<g>
+			<polygon points="319.91,773.99 322.49,783.62 312.86,781.04 			"/>
+		</g>
+		<g>
+			<polygon points="292.13,746.2 282.49,743.62 285.07,753.25 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="844.93" y1="777.09" x2="815.07" y2="747.24"/>
+		<g>
+			<polygon points="847.42,772.53 850,782.17 840.37,779.59 			"/>
+		</g>
+		<g>
+			<polygon points="819.63,744.75 810,742.17 812.58,751.8 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st7" x1="672.57" y1="782.08" x2="702.43" y2="752.23"/>
+		<g>
+			<polygon points="677.13,784.57 667.5,787.16 670.08,777.52 			"/>
+		</g>
+		<g>
+			<polygon points="704.92,756.79 707.5,747.16 697.87,749.74 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="500" y1="388.28" x2="500" y2="390.78"/>
+		<line class="st10" x1="500" y1="396.01" x2="500" y2="445.69"/>
+		<line class="st5" x1="500" y1="448.31" x2="500" y2="450.81"/>
+		<g>
+			<polygon points="495.01,389.74 500,381.1 504.99,389.74 			"/>
+		</g>
+		<g>
+			<polygon points="495.01,449.35 500,457.98 504.99,449.35 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="337.39" y1="673.31" x2="339.89" y2="673.31"/>
+		<line class="st11" x1="344.82" y1="673.31" x2="657.81" y2="673.31"/>
+		<line class="st5" x1="660.27" y1="673.31" x2="662.77" y2="673.31"/>
+		<g>
+			<polygon points="338.85,678.3 330.22,673.31 338.85,668.32 			"/>
+		</g>
+		<g>
+			<polygon points="661.32,678.3 669.95,673.31 661.32,668.32 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="587.46" y1="564.87" x2="589.56" y2="566.23"/>
+		<line class="st12" x1="593.65" y1="568.87" x2="673.39" y2="620.37"/>
+		<line class="st5" x1="675.43" y1="621.69" x2="677.53" y2="623.04"/>
+		<g>
+			<polygon points="585.98,569.85 581.43,560.98 591.39,561.47 			"/>
+		</g>
+		<g>
+			<polygon points="673.6,626.44 683.56,626.94 679.01,618.06 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st1" d="M900.5,412.22h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+		C912.5,406.82,907.1,412.22,900.5,412.22z"/>
+	<rect x="797.51" y="380.76" class="st2" width="104.99" height="12.91"/>
+	<text transform="matrix(0.931 0 0 1 829.5801 393.5443)" class="st3 st6">Client</text>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="815.29" y1="604.24" x2="845.14" y2="574.38"/>
+		<g>
+			<polygon points="819.85,606.73 810.22,609.31 812.8,599.68 			"/>
+		</g>
+		<g>
+			<polygon points="847.64,578.94 850.22,569.31 840.58,571.89 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="250" y="950" class="st1" width="500" height="95"/>
+	<g>
+		<rect x="512.34" y="958.02" class="st2" width="227.32" height="85"/>
+		<text transform="matrix(1.0177 0 0 1 512.343 970.64)"><tspan x="0" y="0" class="st3 st13">BP</tspan><tspan x="19.09" y="0" class="st3 st13 st14">	</tspan><tspan x="35.55" y="0" class="st3 st13"> bank platform</tspan><tspan x="0" y="21.33" class="st3 st13">DEX</tspan><tspan x="30.73" y="21.33" class="st3 st13 st15">	</tspan><tspan x="35.55" y="21.33" class="st3 st13"> decentralized exchange</tspan><tspan x="0" y="42.66" class="st3 st13">OTC</tspan><tspan x="31.39" y="42.66" class="st3 st13">	</tspan><tspan x="35.54" y="42.66" class="st3 st13"> over the counter</tspan><tspan x="0" y="63.98" class="st3 st13">RA</tspan><tspan x="20.44" y="63.98" class="st3 st13 st16">	</tspan><tspan x="35.55" y="63.98" class="st3 st13"> retail aggregator</tspan></text>
+	</g>
+	<g>
+		<g>
+			<line class="st7" x1="284.67" y1="1008.02" x2="320.32" y2="1008.02"/>
+			<g>
+				<polygon points="286.13,1013.01 277.49,1008.02 286.13,1003.04 				"/>
+			</g>
+			<g>
+				<polygon points="318.86,1013.01 327.49,1008.02 318.86,1003.04 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="364.13" y="976.23" class="st2" width="111.58" height="39.05"/>
+	<text transform="matrix(1 0 0 1 364.1291 989.007)"><tspan x="0" y="0" class="st3 st6">Fiat Flow</tspan><tspan x="0" y="25" class="st3 st6">Virtual Flow</tspan></text>
+	<g>
+		<g>
+			<line class="st5" x1="284.67" y1="983.03" x2="320.31" y2="983.03"/>
+			<g>
+				<polygon points="286.13,988.01 277.49,983.03 286.13,978.04 				"/>
+			</g>
+			<g>
+				<polygon points="318.85,988.01 327.49,983.03 318.85,978.04 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st7" x1="641.56" y1="772.26" x2="553.45" y2="383.06"/>
+		<g>
+			<polygon points="646.1,769.73 643.14,779.26 636.37,771.93 			"/>
+		</g>
+		<g>
+			<polygon points="558.64,383.39 551.87,376.06 548.91,385.59 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="714.74" y1="595.2" x2="713.52" y2="593.02"/>
+		<line class="st9" x1="711.08" y1="588.67" x2="575.21" y2="347.4"/>
+		<line class="st5" x1="573.98" y1="345.22" x2="572.76" y2="343.04"/>
+		<g>
+			<polygon points="709.68,596.37 718.27,601.45 718.38,591.48 			"/>
+		</g>
+		<g>
+			<polygon points="569.12,346.76 569.23,336.79 577.82,341.87 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="414.99" y1="573.8" x2="412.89" y2="575.16"/>
+		<line class="st12" x1="408.8" y1="577.8" x2="329.07" y2="629.3"/>
+		<line class="st5" x1="327.02" y1="630.62" x2="324.92" y2="631.97"/>
+		<g>
+			<polygon points="416.47,578.78 421.02,569.91 411.06,570.41 			"/>
+		</g>
+		<g>
+			<polygon points="328.85,635.37 318.89,635.87 323.44,626.99 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st7" x1="383.75" y1="781.57" x2="471.99" y2="615.65"/>
+		<g>
+			<polygon points="380.04,777.94 380.38,787.91 388.84,782.63 			"/>
+		</g>
+		<g>
+			<polygon points="466.91,614.59 475.36,609.31 475.71,619.28 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st7" x1="435.04" y1="825" x2="565.58" y2="825"/>
+		<g>
+			<polygon points="436.5,829.99 427.87,825 436.5,820.01 			"/>
+		</g>
+		<g>
+			<polygon points="564.12,829.99 572.76,825 564.12,820.01 			"/>
+		</g>
+	</g>
+</g>
+</svg>
