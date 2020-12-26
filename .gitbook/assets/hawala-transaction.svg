@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:12px;}
+	.st4{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g>
+	<ellipse class="st0" cx="125" cy="125" rx="67.13" ry="62.5"/>
+	<rect x="68.62" y="112.75" class="st1" width="112.77" height="24.51"/>
+	<text transform="matrix(1 0 0 1 90.0683 121.2662)"><tspan x="0" y="0" class="st2 st3">Hawalandar A</tspan><tspan x="-4.1" y="14.4" class="st2 st3">(Trusted Agent)</tspan></text>
+</g>
+<g>
+	<ellipse class="st0" cx="375" cy="125" rx="67.13" ry="62.5"/>
+	<rect x="318.62" y="119.75" class="st1" width="112.77" height="10.51"/>
+	<text transform="matrix(1 0 0 1 340.4882 128.2676)" class="st2 st3">Hawalandar B</text>
+</g>
+<g>
+	<rect x="62.5" y="312.5" class="st0" width="125" height="125"/>
+	<rect x="76.94" y="368.62" class="st1" width="95.21" height="12.77"/>
+	<text transform="matrix(1 0 0 1 106.8965 377.137)" class="st2 st3">Sender</text>
+</g>
+<g>
+	<rect x="312.5" y="312.5" class="st0" width="125" height="125"/>
+	<rect x="326.94" y="368.62" class="st1" width="95.21" height="12.77"/>
+	<text transform="matrix(1 0 0 1 353.3569 377.137)" class="st2 st3">Receiver</text>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="100" y1="298.63" x2="100" y2="209.4"/>
+		<g>
+			<polygon points="107.48,211.59 100,198.63 92.52,211.59 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="150" y1="289.24" x2="150" y2="200"/>
+		<g>
+			<polygon points="157.48,287.05 150,300 142.52,287.05 			"/>
+		</g>
+	</g>
+</g>
+<rect x="59.47" y="243.88" class="st1" width="25.53" height="12.23"/>
+<text transform="matrix(1 0 0 1 60.1563 252.4029)" class="st2 st3">Cash </text>
+<rect x="160" y="238.39" class="st1" width="61.7" height="23.23"/>
+<text transform="matrix(1 0 0 1 162.321 246.9073)"><tspan x="0" y="0" class="st2 st3">Remittance </tspan><tspan x="15.37" y="14.4" class="st2 st3">Code</tspan></text>
+<rect x="414.47" y="243.88" class="st1" width="25.53" height="12.23"/>
+<text transform="matrix(1 0 0 1 415.1563 252.4029)" class="st2 st3">Cash </text>
+<g>
+	<g>
+		<line class="st4" x1="212.5" y1="128.4" x2="276.74" y2="128.4"/>
+		<g>
+			<polygon points="274.55,135.88 287.5,128.4 274.55,120.92 			"/>
+		</g>
+	</g>
+</g>
+<rect x="210.98" y="84.47" class="st1" width="71.81" height="25.53"/>
+<text transform="matrix(1 0 0 1 218.8032 92.9881)"><tspan x="0" y="0" class="st2 st3">Call, Fax, or </tspan><tspan x="12.57" y="14.4" class="st2 st3">E-mail</tspan></text>
+<g>
+	<g>
+		<line class="st4" x1="350" y1="299.32" x2="350" y2="210.08"/>
+		<g>
+			<polygon points="357.48,212.27 350,199.32 342.52,212.27 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="400" y1="289.92" x2="400" y2="200.68"/>
+		<g>
+			<polygon points="407.48,287.73 400,300.68 392.52,287.73 			"/>
+		</g>
+	</g>
+</g>
+<rect x="278.3" y="238.39" class="st1" width="61.7" height="23.23"/>
+<text transform="matrix(1 0 0 1 280.6189 246.9073)"><tspan x="0" y="0" class="st2 st3">Remittance </tspan><tspan x="15.37" y="14.4" class="st2 st3">Code</tspan></text>
+<g>
+	<g>
+		<line class="st4" x1="212.5" y1="375" x2="276.74" y2="375"/>
+		<g>
+			<polygon points="274.55,382.48 287.5,375 274.55,367.52 			"/>
+		</g>
+	</g>
+</g>
+<rect x="219.15" y="390" class="st1" width="61.7" height="23.23"/>
+<text transform="matrix(1 0 0 1 221.47 398.5198)"><tspan x="0" y="0" class="st2 st3">Remittance </tspan><tspan x="15.37" y="14.4" class="st2 st3">Code</tspan></text>
+<g>
+	<g>
+		<path class="st5" d="M60.72,375c-58.05,0-60.16-228.5-11.5-248.59"/>
+		<g>
+			<polygon points="48.99,131.83 56.26,125 46.71,122.12 			"/>
+		</g>
+	</g>
+</g>
+<rect x="23.89" y="235.9" class="st1" width="12.22" height="28.19"/>
+<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 32.4111 264.0957)" class="st2 st3">Trust</text>
+<g>
+	<g>
+		<path class="st5" d="M375,62.5c-0.44-59.95-230.46-62.4-249.24-9.36"/>
+		<g>
+			<polygon points="121.34,50.77 124.54,60.21 131.12,52.72 			"/>
+		</g>
+	</g>
+</g>
+<rect x="237.33" y="22.02" class="st1" width="25.34" height="15.96"/>
+<text transform="matrix(1 0 0 1 237.3296 30.5415)" class="st2 st3">Trust</text>
+</svg>
