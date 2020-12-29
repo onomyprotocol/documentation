@@ -1,0 +1,8 @@
+# Forex Settlement
+
+By nature, FOREX is a decentralized marketplace that supersedes the regulatory bodies that issue and govern the denominations of currencies. Despite many technological advances, FOREX settlement risk remains significant according to the Triennial Central Bank Survey of Foreign Exchange and Over-The-Counter Derivatives Markets in 2019. An estimated $8.9 trillion of payments are subject to settlement risk on any given day. In the past, significant disruptions to markets have taken place when settlement risk materializes. 
+
+In 1974, the bankruptcy of a German bank active in FX markets named Bankhaus Herstatt demonstrated how FX settlement risk can undermine financial stability. At 15:30 CET on June 26, 1974, the German authorities closed the bank down. While Herstatt had already received Deutsche marks from its counterparties, it had not yet made the corresponding US dollar payments in New York. Herstatt's failure to pay led banks more generally to stop outgoing payments until they were sure their countervalues had been received. The international payment system then froze, and the erosion of trust caused lending rates to spike and credit to be curtailed. Settlement risk continues to be a significant risk and has increased in both relative and absolute terms since 2013. \(Bech & Holden, 2019\)
+
+We propose addressing Forex settlement risk and market fragmentation issues \(Schrimpf & Sushko, 2019\) through Onomy, a decentralized protocolthat virtualizes major currencies around the world and provides for near-instantaneous settlement. Recent advances in decentralized protocols and proven implementations of a new class of virtual-assets named stable-coins have made this possible.
+
