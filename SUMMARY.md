@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Whitepaper](README.md)
+* [Abstract](README.md)
 
 ## Introduction
 
