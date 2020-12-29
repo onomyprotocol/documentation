@@ -1,5 +1,5 @@
 ---
-description: Onomy Protocol Whitepaper
+description: Onomy Protocol Whitepaper Draft 1.0
 ---
 
 # Abstract
