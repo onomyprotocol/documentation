@@ -2,7 +2,7 @@
 description: Onomy Protocol Whitepaper
 ---
 
-# Whitepaper
+# Abstract
 
 ## Abstract
 
