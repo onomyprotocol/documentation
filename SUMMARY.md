@@ -36,5 +36,13 @@
 
 ## Proof of Stake \(Staking\)
 
-* [Staking](proof-of-stake-staking/staking.md)
+---
+
+* [Validator Staking](validator-staking.md)
+
+## Bonding Curve
+
+---
+
+* [Bonding Curve Offering](bonding-curve-offering.md)
 
