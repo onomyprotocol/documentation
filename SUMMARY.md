@@ -5,7 +5,7 @@
 ## Introduction
 
 * [Forex Settlement](introduction/forex-settlement.md)
-* [Onomy Settlement & Pillars](introduction/onomy-protocol.md)
+* [Onomy Settlement & Pillars](introduction/onomy-pillars.md)
 
 ## Bagehot's Reserve
 
@@ -40,7 +40,7 @@
 
 * [Validator Staking](validator-staking.md)
 
-## Bonding Curve
+## NOM Distribution
 
 ---
 
