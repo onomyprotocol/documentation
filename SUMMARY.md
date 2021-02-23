@@ -36,13 +36,9 @@
 
 ## Proof of Stake \(Staking\)
 
----
-
-* [Validator Staking](validator-staking.md)
+* [Validator Staking](proof-of-stake-staking/validator-staking.md)
 
 ## NOM Distribution
 
----
-
-* [Bonding Curve Offering](bonding-curve-offering.md)
+* [Bonding Curve Offering](nom-distribution/bonding-curve-offering.md)
 

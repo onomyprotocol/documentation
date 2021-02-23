@@ -4,7 +4,7 @@ Primary network security of the ONET is assured by a Proof of Stake model that b
   
 The hyper-inflationary curve is based on the Irwin-Hall distribution. The Irwin-Hall distribution is a polynomial analog to the familiar exponential type “bell curves." The goal of the hyper-inflationary period is to build a strong network by heavily loading inflation for early adopters that participate in staking. The initial ramp up is to give the ability for more participants to come online before peak inflation takes place.
 
-![](.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 
 
