@@ -27,7 +27,7 @@ The bonding curve has many benefits as a way to distribute _NOM_:
 * **Deterministic Price:** The buy and sell prices of tokens increase and decrease with the number of tokens minted. 
 * **Continuous Price:** The price of token _n_ is less than token _n+1_ and more than _n-1._
 * **Instant Liquidity:** Tokens can be bought or sold instantaneously at any time with the bonding curve acting as an automated market maker. A bonding curve contract acts as the counterparty of the transaction and always holds enough ETH in reserve to buy tokens back. 
-* **Collateralization:** In conjunction with the staking inflation curve, ETH acts as reserve backing of the NOM in the bonding curve.
+* **Collateralization:** In conjunction with the staking inflation curve, ETH acts as reserve backing of the _NOM_.
 
 ## Staking & Bridge Incentives
 
@@ -37,7 +37,7 @@ The Onomy Network Staking Curve carries a tight relationship with the Bonding Cu
 
 The staking rewards incentivize _wNOM_ on the bonding curve to bridge into _NOM,_ thereby driving value into the Onomy Ecosystem. Once bridged, bonding curve participants formalize their entry into Onomy and relinquish the ability to sell back to the bonding curve. Liquidity thereby comes from ONEX and anticipated exchange listings.
 
-The bonding curve is perpetual until all 100M w_NOM_ are issued. Thus, an arbitrage opportunity may appear from time to time as _NOM_ price on exchanges exceed that of _wNOM_ on the bonding curve. A potential arbitrager will purchase _wNOM_, bridge to NOM, and send to exchanges. This incentive will further drive positive feedback mechanisms driving value, community, and adoption of NOM as more _wNOM_ is minted at more valuable prices and bridged.
+The bonding curve is perpetual until all 100M w_NOM_ are issued. Thus, an arbitrage opportunity may appear from time to time as _NOM_ price on exchanges exceed that of _wNOM_ on the bonding curve. A potential arbitrager will purchase _wNOM_, bridge to _NOM_, and send to exchanges. This incentive will further drive positive feedback mechanisms driving value, community, and adoption of _NOM_ as more _wNOM_ is minted at more valuable prices and bridged.
 
 ## Legal Disclaimer
 
