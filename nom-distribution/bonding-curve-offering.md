@@ -1,12 +1,10 @@
-# Bonding Curve Offering
+# Bonding Curve Offering \(BCO\)
 
 ## Definition
 
 Bonding curves are cryptoeconomic token models that automate the relationship between price and supply. The tokens in this model are referred to as Continuous Tokens because their price is continuously calculated. In continuous token models there is no ICO or Token Launch. Instead of pre-selling tokens during a launch phase, the tokens are minted continuously over time via an automated market maker contract. Tokens are minted when purchased as needed, in conjunction with demand, and used within the protocol or application when required or desired.
 
-Continuous Tokens have other properties such as instant liquidity and deterministic price. Bonding curves act as an automated market maker such that token buyers and sellers have an instant market. Additionally, bonding curve models don’t have central authorities responsible for issuing the tokens. Instead, users can buy a project’s token through a smart contract platform. The cost to buy these tokens is determined by the supply of those tokens. Unlike traditional models, the cost of these tokens increases as the supply increases. This price is determined by a pre-existing algorithm, further described below. 
-
-
+Continuous Tokens have other properties such as instant liquidity and deterministic price. Bonding curves act as an automated market maker such that token buyers and sellers have an instant market. Additionally, bonding curve models don’t have central authorities responsible for issuing the tokens. Instead, users can buy a project’s token through a smart contract platform. The cost to buy these tokens is determined by the supply of those tokens. Unlike traditional models, the cost of these tokens increases as the supply increases. This price is determined by a pre-existing algorithm, further described below.
 
 ## wNOM to NOM Distribution
 

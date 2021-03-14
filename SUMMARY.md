@@ -40,8 +40,6 @@
 
 ## NOM Distribution
 
----
-
-* [Bonding Curve Offering \(BCO\)](bonding-curve-offering.md)
-* [BCO API Docs](api-documentation.md)
+* [Bonding Curve Offering \(BCO\)](nom-distribution/bonding-curve-offering.md)
+* [BCO API](nom-distribution/api-documentation.md)
 

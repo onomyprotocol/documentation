@@ -2,9 +2,9 @@
 description: BondingNOM.sol
 ---
 
-# BCO API Docs
+# BCO API
 
-_All function calls are currently implemented without side effects. Please refer to the "_[_Bonding Curve Offering \(BCO\)_](bonding-curve-offering.md)_" section for more details on the offering and wNOM vs NOM._
+_All function calls are currently implemented without side effects. Please refer to the "_[_Bonding Curve Offering \(BCO\)_](bonding-curve-offering.md)_" section for more details on the BCO and wNOM vs NOM._
 
 ## _getNOMAddr\(\)_ public view returns \(address NOMContAddr\)
 
@@ -26,7 +26,7 @@ _All function calls are currently implemented without side effects. Please refer
 
 ## _tokToF64\(uint256 utoken\)_ public view returns\(int128 f64Token\)
 
-#### We will use`ABDKMath64x64.divu` module from `abdk-libraries-solidity` library
+### We will use`ABDKMath64x64.divu` module from `abdk-libraries-solidity` library
 
 | Input/Output | Data Type | Variable Name | Comment |
 | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ _All function calls are currently implemented without side effects. Please refer
 
 ## _f64ToTok\(int128 fixed64\)_ public view returns\(uint256 uToken\)
 
-#### We will use `ABDKMath64x64.mulu` module from `abdk-libraries-solidity` library
+### We will use `ABDKMath64x64.mulu` module from `abdk-libraries-solidity` library
 
 | Input/Output | Data Type | Variable Name | Comment |
 | :--- | :--- | :--- | :--- |
@@ -44,11 +44,9 @@ _All function calls are currently implemented without side effects. Please refer
 
 ## _priceAtSupply\(uint256 supplyNOM\)_ public view returns\(uint256 priceNOM\)
 
-#### By consuming this function, everyone can predict the exact price base on the NOM token supply
+### By consuming this function, everyone can predict the exact price base on the NOM token supply
 
-#### Formula: `ETH/NOM = pow(_supplyNOM/a, 2)` 
-
-#### 
+### Formula: `ETH/NOM = pow(_supplyNOM/a, 2)`
 
 | Input/Output | Data Type | Variable Name | Comment |
 | :--- | :--- | :--- | :--- |
@@ -57,9 +55,9 @@ _All function calls are currently implemented without side effects. Please refer
 
 ## _supplyAtPrice\(uint256 priceNOM\)_ public view returns \(uint256 suppliedNOM\)
 
-#### Using this function, everyone can predict the exact token supply base on token price
+### Using this function, everyone can predict the exact token supply base on token price
 
-#### Formula: `SuppliedNom = sqrt(ETH/NOM) * a` 
+### Formula: `SuppliedNom = sqrt(ETH/NOM) * a`
 
 | Input/Output | Data Type | Variable Name | Comment |
 | :--- | :--- | :--- | :--- |
@@ -68,9 +66,9 @@ _All function calls are currently implemented without side effects. Please refer
 
 ## _NOMSupToETH\(uint256 supplyTop, uint256 supplyBottom\)_ public view returns\(uint256 amountETH\)
 
-#### Integrate over a curve to get the amount of ETH needed to buy the amount of NOM
+### Integrate over a curve to get the amount of ETH needed to buy the amount of NOM
 
-#### Formula: `ETH = a/3((SupplyNOM_Top/a)^3 - (SupplyNOM_Bottom/a)^3)` 
+### Formula: `ETH = a/3((SupplyNOM_Top/a)^3 - (SupplyNOM_Bottom/a)^3)`
 
 | Input/Output | Data Type | Variable Name | Comment |
 | :--- | :--- | :--- | :--- |
@@ -115,7 +113,7 @@ _All function calls are currently implemented without side effects. Please refer
 
 ## _buyNOM_\(\) public payable
 
-#### **Buy NOM token with ETH**
+### **Buy NOM token with ETH**
 
 ## _sellQuoteNOM\(uint256 amountNOM\)_ public view returns\(uint256 amountETH\)
 
