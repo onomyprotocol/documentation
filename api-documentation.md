@@ -1,6 +1,6 @@
 # BondingNOM.sol
 
-_All function calls are currently implemented without side effects. wNOM refers to the wrapped NOM ERC-20 token that is bridged and exchanged 1:1 with NOM on the Onomy Network chain. Please refer to the "_[_Bonding Curve Offering \(BCO\)_](bonding-curve-offering.md)_" section for more details._
+_All function calls are currently implemented without side effects. Please refer to the "_[_Bonding Curve Offering \(BCO\)_](bonding-curve-offering.md)_" section for more details on the offering and wNOM vs NOM._
 
 ## _getNOMAddr\(\)_ public view returns \(address NOMContAddr\)
 
