@@ -1,4 +1,4 @@
-# Bonding Curve Offering \(BCO\)
+# Bonding Curve Offering
 
 ## Definition
 
@@ -14,11 +14,11 @@ The Onomy Protocol token, _**NOM**_, is primarily distributed through a bonding 
 
 The following is the equation governing the bonding curve:
 
-![](.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 Where 100,000,000 is the supply of _wNOM_ loaded into the bonding curve. Supply is issued as it is purchased, thereby acting as a minting mechanism over time.
 
-![](.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ## Distribution Benefits
 
@@ -33,7 +33,7 @@ The bonding curve has many benefits as a way to distribute _NOM_:
 
 The Onomy Network Staking Curve carries a tight relationship with the Bonding Curve. The staking curve acts as a principal motivator for participants who purchased _wNOM_ to bridge from Ethereum to the Onomy Network to capture the opportunity to earn staking rewards. _NOM_ holders can either choose to become validators themselves, or delegate their _NOM_ to a validator to earn staking rewards minus a validator fee.
 
-![](.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 The staking rewards incentivize _wNOM_ on the bonding curve to bridge into _NOM,_ thereby driving value into the Onomy Ecosystem. Once bridged, bonding curve participants formalize their entry into Onomy and relinquish the ability to sell back to the bonding curve. Liquidity thereby comes from ONEX and anticipated exchange listings.
 

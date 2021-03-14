@@ -5,6 +5,6 @@ We propose addressing Forex settlement risk and market fragmentation issues \(Sc
 Onomy consists of three pillars designed to be a self-governed monetary stabilization system.
 
 * **ONET:** A decentralized peer-to-peer computational network that processes transactions submitted by users and rewards operators in 'ONET's native protocol coin NOM.  
-* **ORES:** governs minting of stabilized virtual currencies, called Denoms, utilizing OMY as collateral.
+* **ORES:** governs minting of stabilized virtual currencies, called Denoms, utilizing NOM as collateral.
 * **ONEX:** a base-layer decentralized exchange that is used by Onomy participants to trade NOM and Denoms. ONEX is integrated with ORES to handle reserve accounts' liquidations and rebalance collateral ratios during times of distress.
 
