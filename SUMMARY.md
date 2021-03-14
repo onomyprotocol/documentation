@@ -43,5 +43,5 @@
 ---
 
 * [Bonding Curve Offering \(BCO\)](bonding-curve-offering.md)
-* [BondingNOM.sol](api-documentation.md)
+* [BCO API Docs](api-documentation.md)
 

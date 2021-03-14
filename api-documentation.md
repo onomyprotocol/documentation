@@ -1,4 +1,8 @@
-# BondingNOM.sol
+---
+description: BondingNOM.sol
+---
+
+# BCO API Docs
 
 _All function calls are currently implemented without side effects. Please refer to the "_[_Bonding Curve Offering \(BCO\)_](bonding-curve-offering.md)_" section for more details on the offering and wNOM vs NOM._
 
