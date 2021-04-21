@@ -2,7 +2,7 @@
 
 ## Definition
 
-Bonding curves are cryptoeconomic token models that automate the relationship between price and supply. The tokens in this model are referred to as Continuous Tokens because their price is continuously calculated. In continuous token models there is no ICO or Token Launch. Instead of pre-selling tokens during a launch phase, the tokens are minted continuously over time via an automated market maker contract. Tokens are minted when purchased as needed, in conjunction with demand, and used within the protocol or application when required or desired.
+Bonding curves are cryptoeconomic token models that automate the relationship between price and supply. The tokens in this model are referred to as Continuous Tokens because their price is continuously calculated. In continuous token models, there is no ICO or token launch. Instead of pre-selling tokens during a launch phase, the tokens are minted continuously over time via an automated market maker contract. Tokens are minted when purchased as needed, in conjunction with demand, and used within the protocol or application when required or desired.
 
 Continuous Tokens have other properties such as instant liquidity and deterministic price. Bonding curves act as an automated market maker such that token buyers and sellers have an instant market. Additionally, bonding curve models don’t have central authorities responsible for issuing the tokens. Instead, users can buy a project’s token through a smart contract platform. The cost to buy these tokens is determined by the supply of those tokens. Unlike traditional models, the cost of these tokens increases as the supply increases. This price is determined by a pre-existing algorithm, further described below. A fee of 1% is applied per trade with the bonding curve.
 
@@ -14,7 +14,7 @@ The following is the equation governing the bonding curve:
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-Where 100,000,000 is the supply of _wNOM_ loaded into the bonding curve. Supply is issued as it is purchased, thereby acting as a minting mechanism over time.
+100,000,000 is the supply of _wNOM_ loaded into the bonding curve. Supply is issued as it is purchased, thereby acting as a minting mechanism over time.
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
@@ -24,7 +24,7 @@ The bonding curve has many benefits as a way to distribute _NOM_:
 
 * **Deterministic Price:** The buy and sell prices of tokens increase and decrease with the number of tokens minted. 
 * **Continuous Price:** The price of token _n_ is less than token _n+1_ and more than _n-1._
-* **Instant Liquidity:** Tokens can be bought or sold instantaneously at any time with the bonding curve acting as an automated market maker. A bonding curve contract acts as the counterparty of the transaction and always holds enough ETH in reserve to buy tokens back. 
+* **Instant Liquidity:** Tokens can be bought or sold instantaneously at any time, with the bonding curve acting as an automated market maker. A bonding curve contract acts as the counterparty of the transaction and always holds enough ETH in reserve to buy tokens back. 
 * **Collateralization:** In conjunction with the staking inflation curve, ETH acts as reserve backing of the _NOM_.
 
 ## Staking & Bridge Incentives
@@ -33,9 +33,9 @@ The Onomy Network Staking Curve carries a tight relationship with the Bonding Cu
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-The staking rewards incentivize _wNOM_ on the bonding curve to bridge into _NOM,_ thereby driving value into the Onomy Ecosystem. Once bridged, bonding curve participants formalize their entry into Onomy and relinquish the ability to sell back to the bonding curve. Liquidity thereby comes from ONEX and anticipated exchange listings.
+The staking rewards incentivize _wNOM_ on the bonding curve to bridge into _NOM,_ thereby driving value into the Onomy Ecosystem. Once bridged, bonding curve participants formalize their entry into Onomy and relinquish the ability to sell back to the bonding curve. Liquidity thereby comes from the ONEX and anticipated exchange listings.
 
-The bonding curve is perpetual until all 100M w_NOM_ are issued. Thus, an arbitrage opportunity may appear from time to time as _NOM_ price on exchanges exceed that of _wNOM_ on the bonding curve. A potential arbitrager will purchase _wNOM_, bridge to _NOM_, and send to exchanges. This incentive will further drive positive feedback mechanisms driving value, community, and adoption of _NOM_ as more _wNOM_ is minted at more valuable prices and bridged.
+The bonding curve is perpetual until all 100M w_NOM_ are issued. Thus, an arbitrage opportunity may appear from time to time as the _NOM_ price on exchanges exceeds that of _wNOM_ on the bonding curve. A potential arbitrager will purchase _wNOM_, bridge to _NOM_, and send to exchanges. This incentive will further drive positive feedback mechanisms driving value, community, and adoption of _NOM,_ as more _wNOM_ is minted at more valuable prices and then bridged.
 
 ## Legal Disclaimer
 
