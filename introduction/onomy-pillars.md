@@ -6,5 +6,5 @@ Onomy consists of three pillars designed to be a self-governed monetary stabiliz
 
 * **Onomy Network \(ONET\):** A decentralized peer-to-peer computational network that processes transactions submitted by users and rewards operators in ONET's native protocol coin NOM.  
 * **Onomy Reserve \(ORES\):** governs minting of stabilized virtual currencies, called Denoms, utilizing NOM as collateral.
-* **Onomy Exchange \(ONEX\):** a base-layer decentralized exchange that is used by Onomy participants to trade NOM and Denoms. ONEX is integrated with ORES to handle reserve accounts' liquidations and rebalance collateral ratios during times of distress.
+* **Onomy Exchange \(ONEX\):** a base-layer decentralized exchange that is used by Onomy participants to trade NOM and Denoms. ONEX is integrated with ORES to handle reserve accounts' maintanence and rebalance collateral ratios.
 
