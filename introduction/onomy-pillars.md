@@ -1,6 +1,6 @@
 # Onomy Settlement & Pillars
 
-We propose addressing forex settlement risk and market fragmentation issues \(Schrimpf & Sushko, 2019\) through Onomy, a decentralized protocol that virtualizes major currencies around the world and provides for near-instantaneous settlement. Recent advances in decentralized protocols and proven implementations of a new class of virtual-assets named stable-coins have made this possible.
+We propose addressing forex settlement risk and market fragmentation issues \(Schrimpf & Sushko, 2019\) through Onomy, a decentralized protocol that virtualizes major currencies around the world and provides for near-instantaneous settlement. Recent advances in decentralized protocols and proven implementations of a new class of virtual assets named stablecoins have made this possible.
 
 Onomy consists of three pillars designed to be a self-governed monetary stabilization system.
 
