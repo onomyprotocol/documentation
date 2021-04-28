@@ -43,3 +43,7 @@
 * [Bonding Curve Offering \(BCO\)](nom-distribution/bonding-curve-offering.md)
 * [BCO API](nom-distribution/api-documentation.md)
 
+## Bridges
+
+* [Gravity Bridge \(ETH-COSMOS\)](bridges/gravity-bridge-eth-cosmos.md)
+
