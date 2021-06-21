@@ -40,8 +40,10 @@
 
 ## NOM Distribution
 
----
+* [Bonding Curve Offering \(BCO\)](nom-distribution/bonding-curve-offering.md)
+* [BCO API](nom-distribution/api-documentation.md)
 
-* [Bonding Curve Offering \(BCO\)](bonding-curve-offering.md)
-* [BondingNOM.sol](api-documentation.md)
+## Bridges
+
+* [Gravity Bridge \(ETH-COSMOS\)](bridges/gravity-bridge-eth-cosmos.md)
 
