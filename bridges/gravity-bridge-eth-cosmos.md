@@ -10,8 +10,6 @@ Gravity Bridge is under development and will be undergoing audits soon. Instruct
 
 It is your responsibility to understand the financial, legal, and other risks of using this software. There is no guarantee of functionality or safety. You use Gravity entirely at your own risk.
 
-You can keep up with the latest development by watching our [public standups](https://www.youtube.com/playlist?list=PL1MwlVJloJeyeE23-UmXeIx2NSxs_CV4b) feel free to join yourself and ask questions.
-
 * Solidity Contract
   *  Multiple ERC20 support
   *  Tested with 100+ validators
