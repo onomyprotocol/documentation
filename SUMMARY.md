@@ -6,11 +6,10 @@
 
 * [Onomy Settlement & Pillars](introduction/onomy-pillars.md)
 
-***
+## Founding Philosophy
 
-* [Founding Philosophy](founding-philosophy/README.md)
-  * [Forex Settlement](founding-philosophy/forex-settlement.md)
-  * [Bagehot's Reserve](founding-philosophy/bagehots-reserve.md)
+* [Bagehot's Reserve](founding-philosophy/bagehots-reserve.md)
+* [Forex Settlement](founding-philosophy/forex-settlement.md)
 
 ## Collateral
 
