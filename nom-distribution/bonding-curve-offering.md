@@ -1,4 +1,4 @@
-# Bonding Curve Offering \(BCO\)
+# Bonding Curve Offering (BCO)
 
 ## Definition
 
@@ -8,30 +8,30 @@ Continuous Tokens have other properties such as instant liquidity and determinis
 
 ## wNOM to NOM Distribution
 
-The Onomy Protocol token, _**NOM**_, is primarily distributed through a bonding curve contract deployed on the Ethereum Network that issues wrapped tokens \(_**wNOM**_\) that will be exchanged 1:1 with _NOM_ on the Onomy Network. _NOM_ is the functional utility token of the Onomy Network. An interface will be provided for this exchange, commonly referenced as "bridging" _wNOM_ tokens from Ethereum and into the Onomy ecosystem for _NOM_. When bridged, _wNOM_ is burned from the bonding curve, pushing prices higher, and supply is issued on the Onomy Network.
+The Onomy Protocol token, _**NOM**_, is primarily distributed through a bonding curve contract deployed on the Ethereum Network that issues wrapped tokens (_**wNOM**_) that will be exchanged 1:1 with _NOM_ on the Onomy Network. _NOM_ is the functional utility token of the Onomy Network. An interface will be provided for this exchange, commonly referenced as "bridging" _wNOM_ tokens from Ethereum and into the Onomy ecosystem for _NOM_. When bridged, _wNOM_ is burned from the bonding curve, pushing prices higher, and supply is issued on the Onomy Network.
 
 The following is the equation governing the bonding curve:
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](<../.gitbook/assets/image (6).png>)
 
 100,000,000 is the supply of _wNOM_ loaded into the bonding curve. Supply is issued as it is purchased, thereby acting as a minting mechanism over time.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](<../.gitbook/assets/image (7).png>)
 
 ## Distribution Benefits
 
 The bonding curve has many benefits as a way to distribute _NOM_:
 
-* **Deterministic Price:** The buy and sell prices of tokens increase and decrease with the number of tokens minted. 
+* **Deterministic Price:** The buy and sell prices of tokens increase and decrease with the number of tokens minted.&#x20;
 * **Continuous Price:** The price of token _n_ is less than token _n+1_ and more than _n-1._
-* **Instant Liquidity:** Tokens can be bought or sold instantaneously at any time, with the bonding curve acting as an automated market maker. A bonding curve contract acts as the counterparty of the transaction and always holds enough ETH in reserve to buy tokens back. 
+* **Instant Liquidity:** Tokens can be bought or sold instantaneously at any time, with the bonding curve acting as an automated market maker. A bonding curve contract acts as the counterparty of the transaction and always holds enough ETH in reserve to buy tokens back.&#x20;
 * **Collateralization:** In conjunction with the staking inflation curve, ETH acts as reserve backing of the _NOM_.
 
 ## Staking & Bridge Incentives
 
 The Onomy Network Staking Curve carries a tight relationship with the Bonding Curve. The staking curve acts as a principal motivator for participants who purchased _wNOM_ to bridge from Ethereum to the Onomy Network to capture the opportunity to earn staking rewards. _NOM_ holders can either choose to become validators themselves, or delegate their _NOM_ to a validator to earn staking rewards minus a validator fee.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 The staking rewards incentivize _wNOM_ on the bonding curve to bridge into _NOM,_ thereby driving value into the Onomy Ecosystem. Once bridged, bonding curve participants formalize their entry into Onomy and relinquish the ability to sell back to the bonding curve. Liquidity thereby comes from the ONEX and anticipated exchange listings.
 
@@ -42,4 +42,3 @@ The bonding curve is perpetual until all 100M w_NOM_ are issued. Thus, an arbitr
 _Nothing in this post shall constitute or be construed as an offer to sell or the solicitation of an offer to purchase any securities. Nothing in this post shall be construed as investment advice, strategy, or investment recommendations by Onomy or any of its affiliates. This post is for informational purposes only._
 
 _This communication contains forward-looking statements that are based on Onomy’s beliefs and assumptions based on information currently available to Onomy. In some cases, you can identify forward-looking statements by the following words: “will,” “expect,” “would,” “intend,” “believe,” "anticipate," or other comparable terminology.These statements involve risks, uncertainties, assumptions, and other factors that may cause actual results or performance to be materially different. Onomy cannot assure you that the forward-looking statements will prove to be accurate. These forward-looking statements speak only as of the date hereof. We disclaim any obligation to update these forward-looking statements._
-

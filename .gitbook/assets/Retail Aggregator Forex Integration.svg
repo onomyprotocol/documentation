@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 900 600" style="enable-background:new 0 0 900 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:17.7727px;}
+	.st4{letter-spacing:10.81;}
+	.st5{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5,5;}
+	.st6{font-size:18px;}
+	.st7{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#6D6E71;stroke-width:2;stroke-miterlimit:10;}
+	.st9{font-size:20.3565px;}
+</style>
+<g>
+	<rect x="228.21" y="475" class="st0" width="443.59" height="75"/>
+	<g>
+		<g>
+			<rect x="481.97" y="492.83" class="st1" width="170.91" height="39.34"/>
+			<text transform="matrix(1.0177 0 0 1 481.9699 505.4462)"><tspan x="0" y="0" class="st2 st3">OTC</tspan><tspan x="31.39" y="0" class="st2 st3">	</tspan><tspan x="35.54" y="0" class="st2 st3"> over the counter</tspan><tspan x="0" y="21.33" class="st2 st3">RA</tspan><tspan x="20.44" y="21.33" class="st2 st3 st4">	</tspan><tspan x="35.55" y="21.33" class="st2 st3"> retail aggregator</tspan></text>
+		</g>
+		<g>
+			<g>
+				<g>
+					<line class="st5" x1="254.3" y1="524.77" x2="289.95" y2="524.77"/>
+					<g>
+						<polygon points="255.76,529.76 247.12,524.77 255.76,519.78 						"/>
+					</g>
+					<g>
+						<polygon points="288.49,529.76 297.12,524.77 288.49,519.78 						"/>
+					</g>
+				</g>
+			</g>
+			<rect x="333.76" y="492.97" class="st1" width="111.58" height="39.05"/>
+			<text transform="matrix(1 0 0 1 333.7565 505.7547)"><tspan x="0" y="0" class="st2 st6">Fiat Flow</tspan><tspan x="0" y="25" class="st2 st6">Virtual Flow</tspan></text>
+			<g>
+				<g>
+					<line class="st7" x1="254.3" y1="499.77" x2="289.94" y2="499.77"/>
+					<g>
+						<polygon points="255.76,504.75 247.12,499.77 255.76,494.78 						"/>
+					</g>
+					<g>
+						<polygon points="288.48,504.75 297.12,499.77 288.48,494.78 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="62.5" y="112.5" class="st8" width="350" height="325.6"/>
+	<g>
+		<path class="st0" d="M363,397.49H262c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+			C375,392.09,369.6,397.49,363,397.49z"/>
+		<rect x="260.01" y="365.03" class="st1" width="104.99" height="14.92"/>
+		<text transform="matrix(0.931 0 0 1 292.0801 377.8103)" class="st2 st6">Client</text>
+	</g>
+	<g>
+		<circle class="st0" cx="412.5" cy="225" r="62.5"/>
+		<rect x="396.39" y="191.48" class="st1" width="32.21" height="16"/>
+		<text transform="matrix(0.9605 0 0 1 401.2579 205.9304)" class="st2 st9">RA</text>
+		<line class="st1" x1="412.5" y1="162.5" x2="412.5" y2="287.5"/>
+		<rect x="394.07" y="241.48" class="st1" width="36.86" height="16"/>
+		<text transform="matrix(0.9605 0 0 1 395.2362 255.9303)" class="st2 st9">OTC</text>
+		<line class="st7" x1="350" y1="225" x2="475" y2="225"/>
+	</g>
+	<g>
+		<path class="st0" d="M563,397.49H462c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+			C575,392.09,569.6,397.49,563,397.49z"/>
+		<rect x="460.01" y="365.03" class="st1" width="104.99" height="14.92"/>
+		<text transform="matrix(0.931 0 0 1 492.0801 377.8104)" class="st2 st6">Client</text>
+	</g>
+	<line class="st7" x1="375" y1="372.49" x2="450" y2="372.49"/>
+	<g>
+		<path class="st0" d="M563,100H462c-6.6,0-12-5.4-12-12V62c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+			C575,94.6,569.6,100,563,100z"/>
+		<rect x="460.01" y="68.54" class="st1" width="104.99" height="12.91"/>
+		<text transform="matrix(0.931 0 0 1 492.0801 81.3236)" class="st2 st6">Client</text>
+	</g>
+	<rect x="612.5" y="112.5" class="st8" width="225" height="225"/>
+	<g>
+		<rect x="662.5" y="162.5" class="st0" width="125" height="125"/>
+		<rect x="672.51" y="217.5" class="st1" width="104.99" height="12.91"/>
+		<text transform="matrix(0.931 0 0 1 702.2676 230.2829)" class="st2 st6">Dealer</text>
+	</g>
+	<rect x="68" y="118.12" class="st1" width="54.51" height="19.38"/>
+	<text transform="matrix(1 0 0 1 67.9991 130.8983)" class="st2 st6">Virtual</text>
+	<rect x="68" y="93.82" class="st1" width="54.51" height="19.38"/>
+	<text transform="matrix(1 0 0 1 67.9991 106.6034)" class="st2 st6">Fiat</text>
+	<g>
+		<g>
+			<line class="st7" x1="507.18" y1="225" x2="630.32" y2="225"/>
+			<g>
+				<polygon points="508.64,229.99 500,225 508.64,220.01 				"/>
+			</g>
+			<g>
+				<polygon points="628.86,229.99 637.5,225 628.86,220.01 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="657.75" y="118.12" class="st1" width="134.51" height="19.38"/>
+	<text transform="matrix(1 0 0 1 657.7452 130.8983)" class="st2 st6">Forex Inter-dealer</text>
+	<g>
+		<rect x="112.5" y="162.5" class="st0" width="125" height="125"/>
+		<rect x="122.51" y="217.5" class="st1" width="104.99" height="12.91"/>
+		<text transform="matrix(0.931 0 0 1 149.041 230.2829)" class="st2 st6">Onomy</text>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="269.68" y1="225" x2="317.82" y2="225"/>
+			<g>
+				<polygon points="271.14,229.99 262.5,225 271.14,220.01 				"/>
+			</g>
+			<g>
+				<polygon points="316.36,229.99 325,225 316.36,220.01 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="353.57" y1="325.83" x2="370.42" y2="305.52"/>
+			<g>
+				<polygon points="358.34,327.89 348.98,331.35 350.66,321.52 				"/>
+			</g>
+			<g>
+				<polygon points="373.32,309.83 375,300 365.65,303.46 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="271.43" y1="325.83" x2="254.58" y2="305.52"/>
+			<g>
+				<polygon points="274.34,321.52 276.02,331.35 266.66,327.89 				"/>
+			</g>
+			<g>
+				<polygon points="259.35,303.46 250,300 251.68,309.83 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st7" x1="471.43" y1="325.83" x2="454.58" y2="305.52"/>
+			<g>
+				<polygon points="474.34,321.52 476.02,331.35 466.66,327.89 				"/>
+			</g>
+			<g>
+				<polygon points="459.35,303.46 450,300 451.68,309.83 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st7" x1="454.58" y1="144.48" x2="471.43" y2="124.17"/>
+			<g>
+				<polygon points="459.35,146.54 450,150 451.68,140.17 				"/>
+			</g>
+			<g>
+				<polygon points="474.34,128.48 476.02,118.65 466.66,122.11 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

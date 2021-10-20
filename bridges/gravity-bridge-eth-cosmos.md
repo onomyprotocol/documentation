@@ -1,6 +1,6 @@
-# Gravity Bridge \(ETH-COSMOS\)
+# Gravity Bridge (ETH-COSMOS)
 
-Gravity Bridge is Cosmos &lt;-&gt; Ethereum bridge designed to run on the [Cosmos Hub](https://github.com/cosmos/gaia) focused on maximum design simplicity and efficiency. It is integrated into the Onomy Network.
+Gravity Bridge is Cosmos <-> Ethereum bridge designed to run on the [Cosmos Hub](https://github.com/cosmos/gaia) focused on maximum design simplicity and efficiency. It is integrated into the Onomy Network.
 
 Gravity is currently can transfer ERC20 assets originating on Ethereum to Onomy and other Cosmos based chains and back to Ethereum.
 
@@ -11,30 +11,30 @@ Gravity Bridge is under development and will be undergoing audits soon. Instruct
 It is your responsibility to understand the financial, legal, and other risks of using this software. There is no guarantee of functionality or safety. You use Gravity entirely at your own risk.
 
 * Solidity Contract
-  *  Multiple ERC20 support
-  *  Tested with 100+ validators
-  *  Unit tests for every throw condition
-  *  Audit for assets originating on Ethereum
-  *  Support for issuing Cosmos assets on Ethereum
+  * &#x20;Multiple ERC20 support
+  * &#x20;Tested with 100+ validators
+  * &#x20;Unit tests for every throw condition
+  * &#x20;Audit for assets originating on Ethereum
+  * &#x20;Support for issuing Cosmos assets on Ethereum
 * Cosmos Module
-  *  Basic validator set syncing
-  *  Basic transaction batch generation
-  *  Ethereum -&gt; Cosmos Token issuing
-  *  Cosmos -&gt; Ethereum Token issuing
-  *  Bootstrapping
-  *  Genesis file save/load
-  *  Validator set syncing edge cases
-  *  Slashing
-  *  Relaying edge cases
-  *  Transaction batch edge cases
-  *  Support for issuing Cosmos assets on Ethereum
-  *  Audit
+  * &#x20;Basic validator set syncing
+  * &#x20;Basic transaction batch generation
+  * &#x20;Ethereum -> Cosmos Token issuing
+  * &#x20;Cosmos -> Ethereum Token issuing
+  * &#x20;Bootstrapping
+  * &#x20;Genesis file save/load
+  * &#x20;Validator set syncing edge cases
+  * &#x20;Slashing
+  * &#x20;Relaying edge cases
+  * &#x20;Transaction batch edge cases
+  * &#x20;Support for issuing Cosmos assets on Ethereum
+  * &#x20;Audit
 * Orchestrator / Relayer
-  *  Validator set update relaying
-  *  Ethereum -&gt; Cosmos Oracle
-  *  Transaction batch relaying
-  *  Tendermint KMS support
-  *  Audit
+  * &#x20;Validator set update relaying
+  * &#x20;Ethereum -> Cosmos Oracle
+  * &#x20;Transaction batch relaying
+  * &#x20;Tendermint KMS support
+  * &#x20;Audit
 
 ### The design of Gravity Bridge
 
@@ -43,13 +43,13 @@ It is your responsibility to understand the financial, legal, and other risks of
 
 ### Key design Components
 
-* A highly efficient way of mirroring Cosmos validator voting onto Ethereum. The Gravity solidity contract has validator set updates costing ~500,000 gas \($2 @ 20gwei\), tested on a snapshot of the Cosmos Hub validator set with 125 validators. Verifying the votes of the validator set is the most expensive on chain operation Gravity has to perform. Our highly optimized Solidity code provides enormous cost savings. Existing bridges incur more than double the gas costs for signature sets as small as 8 signers.
-* Transactions from Cosmos to ethereum are batched, batches have a base cost of ~500,000 gas \($2 @ 20gwei\). Batches may contain arbitrary numbers of transactions within the limits of ERC20 sends per block, allowing for costs to be heavily amortized on high volume bridges.
+* A highly efficient way of mirroring Cosmos validator voting onto Ethereum. The Gravity solidity contract has validator set updates costing \~500,000 gas ($2 @ 20gwei), tested on a snapshot of the Cosmos Hub validator set with 125 validators. Verifying the votes of the validator set is the most expensive on chain operation Gravity has to perform. Our highly optimized Solidity code provides enormous cost savings. Existing bridges incur more than double the gas costs for signature sets as small as 8 signers.
+* Transactions from Cosmos to ethereum are batched, batches have a base cost of \~500,000 gas ($2 @ 20gwei). Batches may contain arbitrary numbers of transactions within the limits of ERC20 sends per block, allowing for costs to be heavily amortized on high volume bridges.
 
 ### Operational parameters ensuring security
 
-* There must be a validator set update made on the Ethereum contract by calling the `updateValset` method at least once every Cosmos unbonding period \(usually 2 weeks\). This is because if there has not been an update for longer than the unbonding period, the validator set stored by the Ethereum contract could contain validators who cannot be slashed for misbehavior.
-* Cosmos full nodes do not verify events coming from Ethereum. These events are accepted into the Cosmos state based purely on the signatures of the current validator set. It is possible for the validators with &gt;2/3 of the stake to put events into the Cosmos state which never happened on Ethereum. In this case observers of both chains will need to "raise the alarm". We have built this functionality into the relayer.
+* There must be a validator set update made on the Ethereum contract by calling the `updateValset` method at least once every Cosmos unbonding period (usually 2 weeks). This is because if there has not been an update for longer than the unbonding period, the validator set stored by the Ethereum contract could contain validators who cannot be slashed for misbehavior.
+* Cosmos full nodes do not verify events coming from Ethereum. These events are accepted into the Cosmos state based purely on the signatures of the current validator set. It is possible for the validators with >2/3 of the stake to put events into the Cosmos state which never happened on Ethereum. In this case observers of both chains will need to "raise the alarm". We have built this functionality into the relayer.
 
 ### Run Gravity bridge right now using docker
 
@@ -114,9 +114,9 @@ Change the code, and when you want to test it again, restart `./tests/start-chai
 
 #### Explanation:
 
-`./tests/build-container.sh` builds the base container and builds the Gravity test zone for the first time. This results in a Docker container which contains cached Go dependencies \(the base container\).
+`./tests/build-container.sh` builds the base container and builds the Gravity test zone for the first time. This results in a Docker container which contains cached Go dependencies (the base container).
 
-`./tests/start-chains.sh` starts a test container based on the base container and copies the current source code \(including any changes you have made\) into it. It then builds the Gravity test zone, benefiting from the cached Go dependencies. It then starts the Cosmos chain running on your new code. It also starts an Ethereum node. These nodes stay running in the terminal you started it in, and it can be useful to look at the logs. Be aware that this also mounts the Gravity repo folder into the container, meaning changes you make will be reflected there.
+`./tests/start-chains.sh` starts a test container based on the base container and copies the current source code (including any changes you have made) into it. It then builds the Gravity test zone, benefiting from the cached Go dependencies. It then starts the Cosmos chain running on your new code. It also starts an Ethereum node. These nodes stay running in the terminal you started it in, and it can be useful to look at the logs. Be aware that this also mounts the Gravity repo folder into the container, meaning changes you make will be reflected there.
 
 `./tests/run-tests.sh` connects to the running test container and runs the integration test found in `./tests/integration-tests.sh`
 
@@ -136,4 +136,3 @@ For example, you can use VS Code's "Remote-Container" extension to attach to the
 ### Debugger
 
 To use a stepping debugger in VS Code, follow the "Working inside the container" instructions above, but set up a one node testnet using `./tests/reload-code.sh 1`. Now kill the node with `pkill gravityd`. Start the debugger from within VS Code, and you will have a 1 node debuggable testnet.
-

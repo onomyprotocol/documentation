@@ -4,7 +4,12 @@ description: Onomy Protocol Documentation
 
 # Abstract
 
-## Abstract
+![](.gitbook/assets/137114490-3fb1de9c-f74c-4979-9089-2f116e57bec2.jpeg)
 
-Onomy is a decentralized protocol built to enhance the foreign currency exchange marketplace. This is accomplished through the issuance of virtual denominations of traditional currencies, known as stable coins, from the Onomy Reserves \(ORES\). All issued denominations are collateralized by the Onomy Protocol Token \(NOM\) which when locked in the contract, enables the issuance of the currency denominations \(Denoms\). The Onomy Exchange \(ONEX\) facilitates high-speed transactions between Denoms and NOM while providing secure price discovery for collateral ratios and automated management of ORES accounts. The Onomy Network \(ONET\) is built using a Proof-of-Stake implementation of an innovative concurrent byzantine consensus mechanism that utilizes rank aggregation to order all transactions fairly, without byzantine leaders’ interference. NOM token holders are incentivized to stake and delegate to validators to secure and govern ONET through NOM-based rewards. NOM that is not staked or delegated to validators may be used to mint Denoms through ORES. The value of NOM is derived from the right to participate in the network governance and mint Denoms.
+Onomy is an application-specific blockchain built to power a decentralized exchange that converges Forex and Decentralized Finance.
 
+As a multi-chain ecosystem based on the Cosmos software development kit, it leverages the inter-blockchain communication protocol and implements bridges between blockchains like Ethereum, Avalanche, EVM chains, and others TBA.
+
+Users can easily manage assets from connected networks via Onomy Access (multi-chain wallet), efficiently trade digital assets on the decentralized Onomy Exchange (ONEX) supporting both AMM and orderbook trading (limit orders, stop loss, market), and mint decentralized stablecoins through the Onomy Reserve (ORES) using NOM, the protocol token, as collateral.
+
+✨[Official Website](https://onomy.io) ✨[Telegram](https://t.me/onomyprotocol) ✨[Telegram A](https://t.me/onomyannouncements)[NN](https://t.me/onomyannouncements) ✨[Discord](https://discord.gg/u5qcykwJqV) ✨[Twitter](https://twitter.com/OnomyProtocol) ✨[Medium](https://medium.com/onomy-protocol) ✨ [GitHub](https://github.com/onomyprotocol/)

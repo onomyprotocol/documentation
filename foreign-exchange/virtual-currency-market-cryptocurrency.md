@@ -1,4 +1,4 @@
-# Virtual Currency Market \(Cryptocurrency\)
+# Virtual Currency Market (Cryptocurrency)
 
 There are many similarities between forex and virtual currency markets. The most obvious is that both markets are based on “currencies,” although it is debatable if the two are equivalent. In addition, both markets entail complex structures and are decentralized by nature. Lastly, many virtual currencies not only emulate fiat currency in their utility, but also have digital and social economies that have effects on the pricing, similar those of fiat currencies.
 
@@ -11,4 +11,3 @@ While foreign currency markets are separated into inter-dealer and customer serv
 Within the virtual domain, flows  are highly interconnected between all parties with permissionless access to decentralized exchanges as well as other platforms. The network effects created by this interconnectedness is the primary advantage. Volatility, regulations, lack of infrastructure, and limited on-ramps from fiat currency are restricting virtual currencies from being used as the mainstream payment vehicle. The primary on-ramps are through retail aggregators as well as OTC desks managed by the same retail aggregators.
 
 ![](../.gitbook/assets/crypto-market.png)
-
