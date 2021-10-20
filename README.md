@@ -1,10 +1,10 @@
 ---
 description: Onomy Protocol Documentation
+cover: .gitbook/assets/137114490-3fb1de9c-f74c-4979-9089-2f116e57bec2.jpeg
+coverY: 0
 ---
 
 # Abstract
-
-![](.gitbook/assets/137114490-3fb1de9c-f74c-4979-9089-2f116e57bec2.jpeg)
 
 Onomy is an application-specific blockchain built to power a decentralized exchange that converges Forex and Decentralized Finance.
 
