@@ -4,10 +4,12 @@
 
 ## Introduction
 
-* [Onomy Settlement & Pillars](introduction/onomy-pillars.md)
+* [Overview](introduction/overview.md)
+* [Onomy Core Pillars](introduction/onomy-pillars.md)
 
 ## Founding Philosophy
 
+* [Financial Frameworks](founding-philosophy/financial-frameworks.md)
 * [Bagehot's Reserve](founding-philosophy/bagehots-reserve.md)
 * [Forex Settlement](founding-philosophy/forex-settlement.md)
 
@@ -33,9 +35,9 @@
 * [Denoms as Payment](currency-denominations-denoms/denoms-as-payment.md)
 * [Denom Stabilization](currency-denominations-denoms/denom-stabilization.md)
 
-## Proof of Stake (Staking)
+## Validators
 
-* [Validator Staking](proof-of-stake-staking/validator-staking.md)
+* [PoS Staking](validators/PoS-Staking.md)
 
 ## NOM Distribution
 
