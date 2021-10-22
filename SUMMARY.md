@@ -10,6 +10,11 @@
 ## Founding Philosophy
 
 * [Financial Frameworks](founding-philosophy/financial-frameworks.md)
+* [Foreign Exchange (Forex)](founding-philosophy/foreign-exchange-forex/README.md)
+  * [Hawala](founding-philosophy/foreign-exchange-forex/hawala.md)
+  * [Current Forex Market](founding-philosophy/foreign-exchange-forex/current-forex-market.md)
+  * [Virtual Currency Market](founding-philosophy/foreign-exchange-forex/virtual-currency-market.md)
+  * [Converging Forex & Crypto](founding-philosophy/foreign-exchange-forex/converging-forex-and-crypto.md)
 * [Bagehot's Reserve](founding-philosophy/bagehots-reserve.md)
 * [Forex Settlement](founding-philosophy/forex-settlement.md)
 
@@ -18,13 +23,6 @@
 * [Definition](collateral/definition.md)
 * [Stablecoins](collateral/stablecoins.md)
 * [NOM as Perfect Collateral](collateral/nom-as-perfect-collateral.md)
-
-## Foreign Exchange
-
-* [Hawala](foreign-exchange/hawala.md)
-* [Current Forex Market](foreign-exchange/current-forex-market.md)
-* [Virtual Currency Market (Cryptocurrency)](foreign-exchange/virtual-currency-market-cryptocurrency.md)
-* [Integration (Forex & Crypto)](foreign-exchange/integration-forex-and-crypto.md)
 
 ## Onomy Exchange
 

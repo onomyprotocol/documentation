@@ -10,4 +10,4 @@ Despite these inefficiencies, FX trading has evolved since exchange rates could 
 
 The number of actors within the FX market has steadily increased as accessibility has grown. The market has also become increasingly fragmented as secondary electronic platforms compete for customers. This fragmentation leads to arbitrage opportunities that high frequency algorithmic trading take advantage of, leading to estimates of 30 - 50% in trading volume. The marketplace is split between the inter-dealer market and the customer market, although those lines are being blurred by the platforms that allow end-users to trade alongside the dealers themselves. Even though there is considerably more access and fragmentation, the market remains exclusively dominated by three large dealers.
 
-![](../.gitbook/assets/fx-schrimpf-sushko-2019.png)
+![](<../../.gitbook/assets/fx-schrimpf-sushko-2019 (2).png>)
