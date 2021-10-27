@@ -35,13 +35,20 @@
 
 ## Validators
 
+* [Onomy Testnet](validators/onomy-testnet.md)
 * [PoS Staking](validators/PoS-Staking.md)
 
 ## NOM Distribution
 
+* [What Is NOM?](nom-distribution/what-is-nom.md)
 * [Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
 * [BCO API](nom-distribution/api-documentation.md)
 
 ## Bridges
 
 * [Gravity Bridge (ETH-COSMOS)](bridges/gravity-bridge-eth-cosmos.md)
+
+## Contributors
+
+* [Joining Onomy](contributors/joining-onomy.md)
+* [Proposals](contributors/proposals.md)
