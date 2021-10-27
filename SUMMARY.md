@@ -4,8 +4,7 @@
 
 ## Introduction
 
-* [Overview](introduction/overview.md)
-* [Onomy Core Pillars](introduction/onomy-pillars.md)
+* [Overview & Core Pillars](introduction/overview-and-core-pillars.md)
 
 ## Founding Philosophy
 
