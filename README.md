@@ -8,7 +8,7 @@ coverY: 0
 
 Onomy is an application-specific blockchain built to power a decentralized exchange that converges Forex and Decentralized Finance.
 
-As a multi-chain ecosystem based on the Cosmos software development kit, it leverages the inter-blockchain communication protocol and implements bridges between blockchains like Ethereum, Avalanche, EVM chains, and others TBA.
+As a multi-chain ecosystem based on the Cosmos software development kit, it leverages the inter-blockchain communication protocol and implements bridges between blockchains like Ethereum, Avalanche, Near, EVM chains, and others TBA.
 
 Users can easily manage assets from connected networks via Onomy Access (multi-chain wallet), efficiently trade digital assets on the decentralized Onomy Exchange (ONEX) supporting both AMM and orderbook trading (limit orders, stop loss, market), and mint decentralized stablecoins through the Onomy Reserve (ORES) using NOM, the protocol token, as collateral.
 

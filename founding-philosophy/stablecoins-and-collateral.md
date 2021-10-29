@@ -1,4 +1,12 @@
-# Stablecoins
+# Stablecoins & Collateral
+
+### Definition of Collateral
+
+Before the advent of banking and paper money, collateral and money were one and the same. The coinage used as payment for goods and services was made of a particular species of metal that represented a value. By separating the money from the collateral, banks and governments realized that the paper money representing the collateral in the reserve did not derive its value necessarily from the specie it represented, but the value of goods and services that it could obtain in the market economy.&#x20;
+
+It is only due to the “belief of value” that gold and other species of metal are considered collateral in the first place. There is no use for gold that would place it in a position where it is held as the world’s collateral other than its properties as a suitable vessel of collateral. Although it is a good conductor, it isn't its physical properties that make it a good store of value. Indeed, it is durable, malleable, unreactive, and qualitatively shiny, but collateral only has value because it was endowed that status by the humans that use it. The recognition of wealth determined by those that hold much gold is only an illusion bestowed by all others that share the same belief in its value.
+
+### Stablecoins
 
 The collateral that backs decentralized virtual stable currencies consists of volatile virtual currencies. Their value as collateral, just as any other form of collateral, is endorsed by the market participants that, as Adam Smith would say, drive the “Hand of God” through supply and demand. Although collateral seems to be a necessity for paper money to have value, when the world of finance dared separate money and collateral into two distinct forms, they found quite the opposite. The value of money, it would seem, is more of a function to the flows within the currency market than it is the value of the underlying of the collateral or stocks of currencies (King, Osler, & Rime, 2011). Unhinged from their underlying collateral by the loosening of the Gold Standard, while also being tamed by prudent economic policies, fiat currencies with favorable exchange rates have led to the greatest economies ever seen.
 

@@ -1,6 +1,6 @@
 # Onomy Testnet
 
-After going through several iterations of private testnets, we are excited to welcome validator networks interested in joining our first public testnet for the Onomy Network (ONET).
+After going through several iterations of private testnets, we are excited to welcome validator networks interested in joining our public testnet for the Onomy Network (ONET).
 
 The ONET is a Cosmos Tendermint-based Proof of Stake (PoS) layer-1 blockchain network which powers the Onomy Exchange and the Onomy Reserve. First and foremost, our native stablecoins and NOM tokens will be natively tradeable on the ONET, but cross-chain integrations through bi-directional bridges are already underway, including any Cosmos-enabled and EVM-based chains, as well as Polkadot, Cardano, Avalanche, Solana, and others.
 
