@@ -10,14 +10,8 @@
 
 * [ONEX](onomy-exchange/onex.md)
 
-## Validators
-
-* [Onomy Testnet](validators/onomy-testnet.md)
-* [PoS Staking](validators/PoS-Staking.md)
-
 ## The NOM Token <a href="nom-distribution" id="nom-distribution"></a>
 
-* [NOM as Perfect Collateral](nom-distribution/nom-as-perfect-collateral.md)
 * [What Is NOM?](nom-distribution/what-is-nom.md)
 * [Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
 * [BCO API](nom-distribution/api-documentation.md)
@@ -26,6 +20,11 @@
 
 * [Denoms as Payment](currency-denominations-denoms/denoms-as-payment.md)
 * [Denom Stabilization](currency-denominations-denoms/denom-stabilization.md)
+
+## Validators
+
+* [Onomy Testnet](validators/onomy-testnet.md)
+* [PoS Staking](validators/PoS-Staking.md)
 
 ## Bridges
 
