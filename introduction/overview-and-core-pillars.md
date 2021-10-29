@@ -4,7 +4,7 @@ Onomy Protocol is a **layer-1 Cosmos-based blockchain network** powering a **cro
 
 Additional products and services, as detailed below, add significant functionality and exposure to liquidity. By merging blockchain technology with traditional finance and providing the fundamental infrastructure for the inclusion of these markets in the digital asset economy, Onomy achieves accessibility otherwise not possible. Furthermore, **Onomy’s core goal is to provide a singular platform from which market participants can enter and exit all digital asset ecosystems**.&#x20;
 
-## Onomy Core Pillars
+## :bank: Onomy Core Pillars
 
 Onomy consists of four pillars designed to be a self-governed monetary stabilization system.
 
@@ -13,7 +13,7 @@ Onomy consists of four pillars designed to be a self-governed monetary stabiliza
 * **Onomy Exchange (ONEX):** a base-layer decentralized exchange that is used by Onomy participants to trade native cryptocurrencies, Denoms, and NOM across prominent blockchain economies.&#x20;
 * **Onomy Access**: A cross-chain wallet allowing users to store, send, and receive cryptocurrencies cross-chain, within a single interface that does not impose use various wallets or browser extentions to access the DeFi realm
 
-## Functionalities
+## :computer: Functionalities
 
 The** Onomy Network **is a Layer 1 blockchain network built on the [Cosmos ecosystem, based on the Tendermint protocol, and plugging into the IBC framework](https://medium.com/onomy-protocol/understanding-cosmos-the-internet-of-blockchains-fc3aa25689a0). Tendermint is the first working proof-of-stake consensus protocol while IBC allows for cross-chain functionality between Cosmos blockchains. **Interoperability is further enhanced with bi-directional bridges** to prominent blockchain networks outside of the Cosmos ecosystem, like Ethereum, Avalanche, Near, Cardano, EVM chains, and others to be announced.&#x20;
 
