@@ -6,34 +6,34 @@
 
 * [Overview & Core Pillars](introduction/overview-and-core-pillars.md)
 
-## Onomy Exchange
-
-* [ONEX](onomy-exchange/onex.md)
-
 ## The NOM Token <a href="nom-distribution" id="nom-distribution"></a>
 
 * [What Is NOM?](nom-distribution/what-is-nom.md)
 * [Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
 * [BCO API](nom-distribution/api-documentation.md)
 
-## Currency Denominations (Denoms)
+## Onomy Exchange
 
-* [Denoms as Payment](currency-denominations-denoms/denoms-as-payment.md)
-* [Denom Stabilization](currency-denominations-denoms/denom-stabilization.md)
+* [ONEX](onomy-exchange/onex.md)
+* [ONEX EVM & Partners](onomy-exchange/onex-evm-and-partners.md)
 
 ## Validators
 
-* [Onomy Testnet](validators/onomy-testnet.md)
+* [Onomy Testnets](validators/onomy-testnets.md)
 * [PoS Staking](validators/PoS-Staking.md)
 
-## Bridges
+## Onomy Reserve (Denoms) <a href="currency-denominations-denoms" id="currency-denominations-denoms"></a>
 
-* [Gravity Bridge (ETH-COSMOS)](bridges/gravity-bridge-eth-cosmos.md)
+* [Denom Stabilization](currency-denominations-denoms/denom-stabilization.md)
 
 ## Contributors
 
 * [Joining Onomy](contributors/joining-onomy.md)
 * [Proposals](contributors/proposals.md)
+
+## Bridges
+
+* [Gravity Bridge (ETH-COSMOS)](bridges/gravity-bridge-eth-cosmos.md)
 
 ## Founding Philosophy
 
@@ -46,3 +46,4 @@
   * [Converging Forex & Crypto](founding-philosophy/foreign-exchange-forex/converging-forex-and-crypto.md)
 * [Bagehot's Reserve](founding-philosophy/bagehots-reserve.md)
 * [Stablecoins & Collateral](founding-philosophy/stablecoins-and-collateral.md)
+* [Denoms as Payment](founding-philosophy/denoms-as-payment.md)

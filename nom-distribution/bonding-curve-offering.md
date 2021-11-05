@@ -8,7 +8,7 @@ Continuous Tokens have other properties such as instant liquidity and determinis
 
 ## wNOM to NOM Distribution
 
-The Onomy Protocol token, _**NOM**_, is primarily distributed through a bonding curve contract deployed on the Ethereum Network that issues wrapped tokens (_**wNOM**_) that will be exchanged 1:1 with _NOM_ on the Onomy Network. _NOM_ is the functional utility token of the Onomy Network. An interface will be provided for this exchange, commonly referenced as "bridging" _wNOM_ tokens from Ethereum and into the Onomy ecosystem for _NOM_. When bridged, _wNOM_ is burned from the bonding curve, pushing prices higher, and supply is issued on the Onomy Network.
+The Onomy Protocol token, _**NOM**_, is primarily distributed through a bonding curve contract deployed on the Ethereum Network that issues wrapped tokens (_**wNOM**_) that will be exchanged 1:1 with _NOM_ on the Onomy Network. _NOM_ is the functional utility token of the Onomy Network. An interface will be provided for this exchange, commonly referenced as "bridging" _wNOM_ tokens from Ethereum and into the Onomy ecosystem for _NOM_. When bridged, _wNOM_ is burned from the bonding curve, setting a new floor price of the bonding curve, and a proportionate supply is issued on the Onomy Network.
 
 The following is the equation governing the bonding curve:
 

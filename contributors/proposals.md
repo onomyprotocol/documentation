@@ -2,7 +2,7 @@
 
 We welcome proposals submitted for the betterment of Onomy Protocol.&#x20;
 
-If you'd like to build something unique, translate documentation, write tutorials, create videos, or produce graphics, get in touch with us at hello@onomy.io
+If you'd like to build something unique, translate documentation, write tutorials, create videos, or produce graphics, get in touch with us at [hello@onomy.io](mailto:hello@onomy.io)
 
 To be considered, make sure that your proposal includes:&#x20;
 
