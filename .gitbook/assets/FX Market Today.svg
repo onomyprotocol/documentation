@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 850" style="enable-background:new 0 0 1000 850;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#6D6E71;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:12px;}
+	.st6{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.0589,5.0589;}
+	.st7{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:4.8388,4.8388;}
+	.st8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.0498,5.0498;}
+</style>
+<g>
+	<g>
+		<g>
+			<line class="st0" x1="138.83" y1="496.88" x2="420.88" y2="138.08"/>
+			<g>
+				<polygon points="143.65,498.82 134.39,502.52 135.81,492.65 				"/>
+			</g>
+			<g>
+				<polygon points="423.9,142.31 425.31,132.43 416.06,136.14 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="468.75" y1="157.18" x2="468.75" y2="692.82"/>
+			<g>
+				<polygon points="463.76,158.64 468.75,150 473.74,158.64 				"/>
+			</g>
+			<g>
+				<polygon points="463.76,691.36 468.75,700 473.74,691.36 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="218.75" y="175" class="st1" width="562.5" height="500"/>
+	<g>
+		<circle class="st2" cx="343.75" cy="300" r="62.5"/>
+		<rect x="291.26" y="294.75" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 314.6079 303.2676)" class="st4 st5">Voice Broker</text>
+	</g>
+	<g>
+		<circle class="st2" cx="593.75" cy="300" r="62.5"/>
+		<rect x="541.26" y="294.75" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 554.3794 303.2676)" class="st4 st5">Electronic Broker</text>
+	</g>
+	<g>
+		<rect x="281.25" y="487.5" class="st2" width="125" height="125"/>
+		<rect x="295.69" y="543.62" class="st3" width="95.21" height="12.77"/>
+		<text transform="matrix(1 0 0 1 327.0146 552.137)" class="st4 st5">Dealer</text>
+	</g>
+	<g>
+		<rect x="531.25" y="487.5" class="st2" width="125" height="125"/>
+		<rect x="523.54" y="567.52" class="st3" width="95.21" height="10.18"/>
+		<text transform="matrix(1 0 0 1 554.8657 576.0352)" class="st4 st5">Dealer</text>
+		<line class="st0" x1="531.25" y1="487.5" x2="656.25" y2="612.5"/>
+		<rect x="571.14" y="511.94" class="st3" width="95.21" height="26.13"/>
+		<text transform="matrix(1 0 0 1 604.182 520.4565)"><tspan x="0" y="0" class="st4 st5">Prime </tspan><tspan x="-1.72" y="14.4" class="st4 st5">Broker</tspan></text>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="343.75" y1="466.46" x2="343.75" y2="380.81"/>
+			<g>
+				<polygon points="348.74,465 343.75,473.63 338.76,465 				"/>
+			</g>
+			<g>
+				<polygon points="348.74,382.27 343.75,373.63 338.76,382.27 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="438.43" y1="562.5" x2="499.07" y2="562.5"/>
+			<g>
+				<polygon points="439.89,567.49 431.25,562.5 439.89,557.51 				"/>
+			</g>
+			<g>
+				<polygon points="497.61,567.49 506.25,562.5 497.61,557.51 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<circle class="st2" cx="468.75" cy="87.5" r="62.5"/>
+		<rect x="416.26" y="82.25" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 420.3076 90.7671)" class="st4 st5">Liquidity Aggregator</text>
+	</g>
+	<g>
+		<circle class="st2" cx="468.75" cy="762.5" r="62.5"/>
+		<rect x="421.87" y="750.97" class="st3" width="93.77" height="23.05"/>
+		<text transform="matrix(0.931 0 0 1 443.5513 759.494)"><tspan x="0" y="0" class="st4 st5">Multi-Bank</tspan><tspan x="5.57" y="14.4" class="st4 st5">Platform</tspan></text>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="438.43" y1="537.5" x2="440.93" y2="537.5"/>
+			<line class="st6" x1="445.99" y1="537.5" x2="494.04" y2="537.5"/>
+			<line class="st0" x1="496.57" y1="537.5" x2="499.07" y2="537.5"/>
+			<g>
+				<polygon points="439.89,542.49 431.25,537.5 439.89,532.51 				"/>
+			</g>
+			<g>
+				<polygon points="497.61,542.49 506.25,537.5 497.61,532.51 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="593.75" y1="466.46" x2="593.75" y2="380.81"/>
+			<g>
+				<polygon points="598.74,465 593.75,473.63 588.76,465 				"/>
+			</g>
+			<g>
+				<polygon points="598.74,382.27 593.75,373.63 588.76,382.27 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="420.79" y1="472.96" x2="516.71" y2="377.04"/>
+			<g>
+				<polygon points="425.35,475.45 415.72,478.03 418.3,468.4 				"/>
+			</g>
+			<g>
+				<polygon points="519.2,381.6 521.78,371.97 512.15,374.55 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="420.79" y1="377.04" x2="422.56" y2="378.81"/>
+			<line class="st7" x1="425.98" y1="382.23" x2="513.23" y2="469.48"/>
+			<line class="st0" x1="514.94" y1="471.19" x2="516.71" y2="472.96"/>
+			<g>
+				<polygon points="418.3,381.6 415.72,371.97 425.35,374.55 				"/>
+			</g>
+			<g>
+				<polygon points="512.15,475.45 521.78,478.03 519.2,468.4 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<circle class="st2" cx="93.75" cy="300" r="62.5"/>
+		<rect x="41.26" y="294.75" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 52.748 303.2671)" class="st4 st5">Retail Aggregator</text>
+	</g>
+	<g>
+		<circle class="st2" cx="93.75" cy="550" r="62.5"/>
+		<rect x="41.26" y="544.75" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 45.5254 553.2671)" class="st4 st5">Single Bank Platform</text>
+	</g>
+	<g>
+		<path class="st2" d="M831.75,450h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+			C843.75,444.6,838.35,450,831.75,450z"/>
+		<rect x="728.76" y="419.75" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 730.1875 428.2671)" class="st4 st5">Principal Trading Firm</text>
+	</g>
+	<g>
+		<path class="st2" d="M144.25,112.5h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+			C156.25,107.1,150.85,112.5,144.25,112.5z"/>
+		<rect x="41.26" y="82.25" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 80.1367 90.7671)" class="st4 st5">Client</text>
+	</g>
+	<g>
+		<path class="st2" d="M956.75,575h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+			C968.75,569.6,963.35,575,956.75,575z"/>
+		<rect x="853.76" y="544.75" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 892.6367 553.2671)" class="st4 st5">Client</text>
+	</g>
+	<rect x="230.97" y="184.87" class="st3" width="101.74" height="36.78"/>
+	<text transform="matrix(1 0 0 1 230.9673 193.3896)" class="st4 st5">Inter-dealer Market</text>
+	<g>
+		<path class="st2" d="M331.75,787.5h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+			C343.75,782.1,338.35,787.5,331.75,787.5z"/>
+		<rect x="228.76" y="757.25" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 267.6367 765.7671)" class="st4 st5">Client</text>
+	</g>
+	<g>
+		<path class="st2" d="M769.25,787.5h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+			C781.25,782.1,775.85,787.5,769.25,787.5z"/>
+		<rect x="666.26" y="757.25" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 667.6875 765.7671)" class="st4 st5">Principal Trading Firm</text>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="525.79" y1="693.51" x2="569.17" y2="640.55"/>
+			<g>
+				<polygon points="530.57,695.54 521.24,699.06 522.86,689.22 				"/>
+			</g>
+			<g>
+				<polygon points="572.11,644.84 573.72,635 564.39,638.52 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="623.66" y1="640.23" x2="690.93" y2="711.94"/>
+			<g>
+				<polygon points="621.02,644.71 618.75,635 628.29,637.89 				"/>
+			</g>
+			<g>
+				<polygon points="686.29,714.29 695.84,717.17 693.57,707.46 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="563.43" y1="762.51" x2="624.07" y2="762.51"/>
+			<g>
+				<polygon points="564.89,767.48 556.25,762.51 564.89,757.52 				"/>
+			</g>
+			<g>
+				<polygon points="622.61,767.48 631.25,762.51 622.61,757.52 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="303.75" y1="642.18" x2="303.75" y2="644.68"/>
+			<line class="st8" x1="303.75" y1="649.73" x2="303.75" y2="707.8"/>
+			<line class="st0" x1="303.75" y1="710.32" x2="303.75" y2="712.82"/>
+			<g>
+				<polygon points="298.76,643.64 303.75,635 308.74,643.64 				"/>
+			</g>
+			<g>
+				<polygon points="298.76,711.36 303.75,720 308.74,711.36 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="364.68" y1="762.5" x2="385.32" y2="762.5"/>
+			<g>
+				<polygon points="366.13,767.49 357.5,762.5 366.14,757.51 				"/>
+			</g>
+			<g>
+				<polygon points="383.86,767.49 392.5,762.51 383.87,757.52 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="515.05" y1="157.6" x2="552.45" y2="222.4"/>
+			<g>
+				<polygon points="511.46,161.36 511.46,151.39 520.09,156.37 				"/>
+			</g>
+			<g>
+				<polygon points="547.41,223.63 556.04,228.61 556.04,218.64 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="677.12" y1="494.93" x2="706.97" y2="465.07"/>
+			<g>
+				<polygon points="681.68,497.42 672.05,500 674.63,490.37 				"/>
+			</g>
+			<g>
+				<polygon points="709.47,469.63 712.05,460 702.41,462.58 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="682.67" y1="550" x2="817.01" y2="550"/>
+			<g>
+				<polygon points="684.12,554.99 675.49,550 684.12,545.01 				"/>
+			</g>
+			<g>
+				<polygon points="815.55,554.99 824.18,550 815.55,545.01 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="848.75" y1="465.15" x2="888.06" y2="505.66"/>
+			<g>
+				<polygon points="846.19,469.67 843.75,460 853.34,462.72 				"/>
+			</g>
+			<g>
+				<polygon points="883.47,508.08 893.06,510.81 890.63,501.14 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="664.35" y1="359.48" x2="703.15" y2="390.52"/>
+			<g>
+				<polygon points="662.38,364.29 658.75,355 668.61,356.5 				"/>
+			</g>
+			<g>
+				<polygon points="698.89,393.5 708.75,395 705.12,385.71 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="167.98" y1="335.48" x2="302.56" y2="468.59"/>
+			<g>
+				<polygon points="165.51,340.05 162.88,330.43 172.53,332.96 				"/>
+			</g>
+			<g>
+				<polygon points="298.02,471.11 307.66,473.63 305.03,464.02 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="93.75" y1="142.18" x2="93.75" y2="212.82"/>
+			<g>
+				<polygon points="88.76,143.64 93.75,135 98.74,143.64 				"/>
+			</g>
+			<g>
+				<polygon points="88.76,211.36 93.75,220 98.74,211.36 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="261.57" y1="549.99" x2="175.93" y2="549.99"/>
+			<g>
+				<polygon points="260.11,545.02 268.75,549.99 260.11,554.98 				"/>
+			</g>
+			<g>
+				<polygon points="177.39,545.02 168.75,549.99 177.39,554.98 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path class="st2" d="M144.25,787.46h-101c-6.6,0-12-5.4-12-12v-26c0-6.6,5.4-12,12-12h101c6.6,0,12,5.4,12,12v26
+			C156.25,782.06,150.85,787.46,144.25,787.46z"/>
+		<rect x="41.26" y="757.21" class="st3" width="104.99" height="10.51"/>
+		<text transform="matrix(0.931 0 0 1 80.1367 765.7294)" class="st4 st5">Client</text>
+	</g>
+	<g>
+		<g>
+			<line class="st0" x1="93.75" y1="641.84" x2="93.75" y2="713.16"/>
+			<g>
+				<polygon points="88.76,643.23 93.75,635 98.74,643.23 				"/>
+			</g>
+			<g>
+				<polygon points="88.76,711.77 93.75,720 98.74,711.77 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

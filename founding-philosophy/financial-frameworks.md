@@ -1,0 +1,31 @@
+# Financial Frameworks
+
+Onomy is grounded and tempered by the financial frameworks of the past so that we may build a more stable future. Understanding this journey requires an analysis of the guiding financial philosophy, with the focus being centered on the dynamics of collateral, currency, and inflation.&#x20;
+
+In the 19th century, the fractional reserve system, advocating for the collateralization of only a fraction of bank deposits in liquid reserve, was born. Instead of guarding deposits, the banker finances loans while managing net cash flows and the risk of default of those loans. At any given moment, the bank only needs enough liquid reserves to cover withdrawals and may sell off loans, as a form of collateral, to cover any shortfalls. This allows money that would have otherwise been hoarded, to be deployed back into the community.&#x20;
+
+Paper, notes and early forms of more complex derivatives drove to a fundamental shift in how tradesmen financed their export and import operations. Banks formed ‘new men’ that financed their operations, versus those whom controlled trade but relied on accumulated wealth alone, often referred to as ‘made men’. The ‘new men’ were not required to risk their accumulated wealth, being content with lesser profit margins, as opposed to the ‘made men’. These ‘new men’ were able to buy larger lots with deeper wholesale discounts and price their goods lower giving them a competitive advantage. This led to the inception of a brand-new system of credit, born out of the fractional reserve banking system, based on the ability to reliably pay down debt which has survived to this day.&#x20;
+
+The efficiency of these instruments allowed supported economies to grow quicker than metal specie collateral systems. Even though the efficiency of capital increases leads to hotter periods of economic growth, the stability of the monetary system is drastically diminished during times of contraction. The fractional banking system resulted in the wealth of a nation being determined no longer by the collateral or stocks held by the nation, but by the magnitude of positive net economic activity or net currency flow into a nation.&#x20;
+
+The struggle to tame the interdependency between economic activity and wealth that the fractional reserve system introduced, brought on a pendulum-type effect between Austrian economic policies that advocated for full collateralization of paper money and fractional reserve-based economic policies. This led to the proposal of a central bank of last reserve which was contemporaneously chronicled and advocated in Bagehot’s, Lombard Street.&#x20;
+
+The tug and pull effect went on through the middle of the 20th century, with the USD being crowned as the world’s reserve currency by way of the Bretton Woods Agreement. The effects showcased the power that a majority ownership of a scarce collateral, in this case gold, could have on global monetary structure. Because the majority of the world’s gold reserves were held in the United States, USD was exchangeable for USA gold at a set price of $35/ounce. All other currencies had their exchange rates fixed to USD, bringing a time of order and stability to the worldwide financial system.&#x20;
+
+In 2009, the world went through an economic crisis that caused the Chinese government to come out in support of Bancor, the supra-national unit of account proposed by John Keynes’ as part of the Bretton Woods Conference. Coincidentally, Satoshi also published the Bitcoin whitepaper that year. Bitcoin would go on to be the world’s first currency that was not governed by a country; however, due to the network’s properties, it is too slow to be useful as a method of payment.&#x20;
+
+During the latter part of the 20th century, foreign currency markets were revolutionized by the arrival of the digital computer and the ability to automate order books via electronic exchanges. The Nixon administration, in 1973, ended the Bretton Woods agreement paving the way for a marriage between currency and computers. Money is now represented by bits on a digital ledger rather than paper currency, making international control over the printing of currency infeasible. Past monetary systems, such as the one under the Bretton Woods agreement, relied on the difficulty of passable counterfeit currency as well as physically securing the currency printing plates to ensure that countries were not creating unauthorized inflation. As opposed to paper currency, centrally managed computer systems hosting digital ledgers do not have this property, allowing “double spending” which, when exploited, leads to uncontrollable inflation.&#x20;
+
+Fast forward 12 years, Bitcoin is recognized as a global store of value and decentralized finance has gained extreme traction. Public awareness of cryptocurrency is at an all-time high and meme coins such as DOGE are in vogue. Stablecoins like DAI, have been prototyped, tested and validated. Cross-chain has taken over cross-border payments as the new frontier. With all the unstructured change to the global monetary system, history would tell us that we are in for a reckoning. At Onomy, we believe that a holistic approach to the integration of the world’s fiat currencies with blockchain is in order, or else, consequences are imminent. Together, guided by the wisdom of history, we will create the world’s decentralized reserve bank that will serve as the agoras between countries and blockchains.
+
+Decentralized Finance (DeFi) refers to:&#x20;
+
+> An open, permissionless, and highly interoperable protocol\
+> stack built on public smart contract platforms.
+
+It replicates existing financial services in a more open and transparent way. In particular,\
+DeFi does not rely on intermediaries and centralized institutions. Instead, it is based on open protocols and decentralized applications (DApps). Agreements are enforced by code,\
+transactions are executed in a secure and verifiable way, and legitimate state changes\
+persist on a public blockchain. Thus, this architecture can create an immutable and highly\
+interoperable financial system with unprecedented transparency, equal access rights, and\
+little need for custodians, central clearing houses, or escrow services, as most of these roles can be assumed by „smart contracts".
