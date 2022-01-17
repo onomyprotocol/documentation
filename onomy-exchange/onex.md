@@ -16,9 +16,9 @@ Onomy’s ONEX is features a significantly improved user experience, where one m
 
 Onomy has stepped into the DeFi ring with a strong purpose — to sustain the CeFi to DeFi migration by developing a user-centered approach towards utilizing stablecoins cross-chain.
 
-Based on Cosmos and plugging into the IBC, Onomy Protocol’s ONET blockchain is built with interoperability at heart. Through our bi-directional bridge network, many of the world’s largest and most established blockchains will be integrated, including Cosmos, Ethereum, Near, Avalanche, Cardano, Polkadot, OKChain, and others.
+Based on Cosmos and plugging into the IBC, Onomy Protocol’s ONET blockchain is built with interoperability at heart. Through Onomy's bi-directional bridge network, many of the world’s largest and most established blockchains will be integrated, including Cosmos, Ethereum, Near, Avalanche, Cardano, Polkadot, OKChain, and others.
 
-This unlocks novel means of trading cross-chain, dropping the friction of having to manage multiple browser extensions, centralized exchanges, and blockchain-specific DEXs. With liquidity incentives and bridge partners, we are building the de-facto cross-chain decentralized exchange, creating an interface for both simple and advanced trading of cryptocurrencies and stablecoins pegged to major national currencies.&#x20;
+This unlocks novel means of trading cross-chain, dropping the friction of having to manage multiple browser extensions, centralized exchanges, and blockchain-specific DEXs. With liquidity incentives and bridge partners, Onomy is building the de-facto cross-chain decentralized exchange, creating an interface for both simple and advanced trading of cryptocurrencies and stablecoins pegged to major national currencies.&#x20;
 
 
 

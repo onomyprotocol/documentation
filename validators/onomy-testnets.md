@@ -6,13 +6,13 @@ The ONET is a Cosmos Tendermint-based Proof of Stake (PoS) layer-1 blockchain ne
 
 For the first iteration of our testnet, our primary objectives are to successfully test the Onomy Network, the Onomy — ETH bridge, and conduct a public test of the Bonding Curve platform.
 
-## **Call for Validators** <a href="45ad" id="45ad"></a>
+## **Call for Validators** <a href="#45ad" id="45ad"></a>
 
 Validators joining our first public testnet are encouraged to report findings and share feedback, in preparation for the ONET’s mainnet launch. This testnet is also focused on proving out the Gravity bridge as well as deployment methodology and other custom modules for the upcoming production ONET.
 
-## **How to Join the Testnet** <a href="b6cb" id="b6cb"></a>
+## **How to Join the Testnet** <a href="#b6cb" id="b6cb"></a>
 
-For testnet documentation and joining guides, kindly head over to our [GitHub testnet repo](https://github.com/onomyprotocol/onomy/tree/dev/docs/testnet), where you can find details on:
+For testnet documentation and joining guides, kindly head over to Onomy's [GitHub testnet repo](https://github.com/onomyprotocol/onomy/tree/dev/docs/testnet), where you can find details on:
 
 * [**How to run a full testnet node**](https://github.com/onomyprotocol/onomy/blob/dev/docs/testnet/onomy-testnet-docs/setting-up-a-fullnode.md)
 * [**How to become a validator**](https://github.com/onomyprotocol/onomy/blob/dev/docs/testnet/onomy-testnet-docs/setting-up-a-validator.md)
@@ -21,6 +21,6 @@ For testnet documentation and joining guides, kindly head over to our [GitHub te
 
 For focused discussions with other validators, support from the Onomy development team, networking, and feedback, kindly join our [Discord Validators Server](https://discord.gg/ge7Rt9hdpa) and [Validator Forum](https://forum.onomy.io).
 
-## **Understanding NOM, the Proof of Stake Token** <a href="3008" id="3008"></a>
+## **Understanding NOM, the Proof of Stake Token** <a href="#3008" id="3008"></a>
 
-NOM serves as the single collateral to our fiat-pegged stablecoins and is the go-to token for PoS staking, while granting governance rights and rewarding those who support the network.
+NOM serves as the single collateral to Onomy's fiat-pegged stablecoins and is the go-to token for PoS staking, while granting governance rights and rewarding those who support the network.
