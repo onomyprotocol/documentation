@@ -17,7 +17,9 @@ Onomy consists of four pillars designed to be a self-governed monetary stabiliza
 
 The **Onomy Network** is a Layer 1 blockchain network built on the [Cosmos ecosystem, based on the Tendermint protocol, and plugging into the IBC framework](https://medium.com/onomy-protocol/understanding-cosmos-the-internet-of-blockchains-fc3aa25689a0). Tendermint is a Byzantine Fault Tolerant Proof-of-Stake conensus mechanism, whereas IBC allows for cross-chain functionality between Cosmos blockchains. **Interoperability is further enhanced with bi-directional bridges as part of the Onomy Hub** to prominent blockchain networks outside of the Cosmos ecosystem, like Ethereum, Avalanche, Near, and other EVM and non-EVM chains to be announced.
 
-## &#x20;Utility Token
+#### Read more about [Application Specific Blockchains](../architecture/application-specific-blockchain.md)
+
+## Utility Token
 
 The **native variable asset of the Onomy Protocol is $NOM.** $NOM is used to secure the network through staking and as collateral for the minting of Denoms through the Onomy Reserve (ORES). The Onomy Decentralized Exchange (ONEX) provides Automatic Market Making price discovery used to rebalance collateral ratios of ORES minting accounts.&#x20;
 
