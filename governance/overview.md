@@ -12,7 +12,7 @@ Features of governance include:
 * **Claiming deposit:** Users that deposited on proposals can recover their deposits if the proposal was accepted OR if the proposal never entered voting period.
 * **Treasury Management:** NOM Holders vote on usage of Onomy Protocol's treasury of funds.
 
-### # Contents <a href="#contents" id="contents"></a>
+### Contents <a href="#contents" id="contents"></a>
 
 1. ****[**Concepts**](concepts.md)****
    * [Proposal submission](concepts.md#proposal-submission)
