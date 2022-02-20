@@ -29,7 +29,7 @@ Onomy Protocol will **incentivize $NOM staking with a dual regime inflationary s
 
 Denoms - crypto-collateralized tokens pegged to the value of national currencies - are minted using NOM tokens at a minimum collateral ratio through the Onomy Reserve (ORES).&#x20;
 
-Block rewards will be available for staking Denoms in addition to NOM, both of which are controlled by the percentage of all coins staked with validators. This control variable is decided by the Onomy DAO and directly impacts supply within the market. Adjustments will incentive staking, minting, or burning of Denoms to balance the monetary system. Please see [Denom Stabilization](../app-ecosystem/denom-stabilization.md) for more details.
+Block rewards will be available for staking Denoms in addition to NOM, both of which are controlled by the percentage of all coins staked with validators. This control variable is decided by the Onomy DAO and directly impacts supply within the market. Adjustments will incentive staking, minting, or burning of Denoms to balance the monetary system. Please see [Denom Stabilization](../currency-denominations-denoms/denom-stabilization.md) for more details.
 
 ## 🗳️ Onomy DAO
 

@@ -4,7 +4,7 @@ description: ONEX EVM Compatible Deployment
 
 # ONEX EVM & Partners
 
-_Please read _[_ONEX_](onex.md)_ for details on ONEX first, then come back and read about ONEX EVM!_
+_Please read_ [_ONEX_](onex.md) _for details on ONEX first, then come back and read about ONEX EVM!_
 
 ### **ONEX vs ONEX EVM**
 
@@ -28,3 +28,4 @@ Partners benefit from a bidirectional bridge with the Onomy Ecosystem, and by ex
 * Avalanche
 * More TBA
 
+_Additional documentation to come_

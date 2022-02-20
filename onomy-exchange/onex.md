@@ -1,4 +1,4 @@
-# ONEX
+# Onomy Exchange (ONEX)
 
 The Onomy Exchange (ONEX) is a cross-chain and hybrid Decentralized Exchange (DEX), with a technical framework that converges the very best advantages of Automated Market Makers (AMMs) and order books. The ONEX integrate both architectures, pooling usability, liquidity, security, and functionality within a singular interface suited for simple cross-chain trading of native cryptocurrencies, as well as for emulating the $6.6T per day Forex market.
 
@@ -20,6 +20,4 @@ Based on Cosmos and plugging into the IBC, Onomy Protocol’s ONET blockchain is
 
 This unlocks novel means of trading cross-chain, dropping the friction of having to manage multiple browser extensions, centralized exchanges, and blockchain-specific DEXs. With liquidity incentives and bridge partners, Onomy is building the de-facto cross-chain decentralized exchange, creating an interface for both simple and advanced trading of cryptocurrencies and stablecoins pegged to major national currencies.&#x20;
 
-
-
-![](<../.gitbook/assets/onomy-integration (1) (1) (1).svg>)
+_Additional documentation to come_

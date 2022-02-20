@@ -1,4 +1,8 @@
-# Denom Stabilization
+---
+description: Mint stablecoins using NOM as collateral.
+---
+
+# Onomy Reserve
 
 #### Core Principles
 
@@ -24,3 +28,7 @@
 ![](<../.gitbook/assets/image (1).png>)
 
 When combined, these controls give a simple, yet robust way of managing deviations from parity as well as collateral risks. Because Onomy is a single-collateral and multi-stablecoin protocol, each Denom will have its own unique RR to cope with fluctuating market conditions across the multiple represented currencies. Since MCR and RCR are managing collateralization risk, RCR is applied equally no matter the Denom or instrument backed by ORES-generated NOM. All three controls are governed by staked node operators requiring no outside oracles for the system to function. Working groups will be established to suggest rates and build integrated services as part of the default node implementation based on market data feeds. Controls will then be voted on and decided through a Byzantine-tolerant averaging algorithm.
+
+****
+
+_Additional documentation to come_

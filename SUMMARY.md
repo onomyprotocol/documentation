@@ -19,7 +19,7 @@
 
 ## Validators & Staking <a href="#validators-staking" id="validators-staking"></a>
 
-* [Concepts](validators-staking/PoS-Staking.md)
+* [Concepts](validators/PoS-Staking.md)
 * [Incentives & Rewards](validators-staking/incentives-and-rewards.md)
 * [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
 
@@ -31,10 +31,10 @@
 
 ## App Ecosystem
 
-* [Onomy Exchange (ONEX)](app-ecosystem/onex.md)
-* [ONEX EVM & Partners](app-ecosystem/onex-evm-and-partners.md)
+* [Onomy Exchange (ONEX)](onomy-exchange/onex.md)
+* [ONEX EVM & Partners](onomy-exchange/onex-evm-and-partners.md)
 * [Onomy Access Wallet](app-ecosystem/onomy-access-wallet.md)
-* [Denom Stabilization](app-ecosystem/denom-stabilization.md)
+* [Onomy Reserve](currency-denominations-denoms/denom-stabilization.md)
 
 ## Founding Philosophy
 
@@ -52,4 +52,4 @@
 ## Contributors
 
 * [Joining Onomy](contributors/joining-onomy.md)
-* [Partnerships](contributors/partnerships.md)
+* [Partnerships](contributors/proposals.md)
