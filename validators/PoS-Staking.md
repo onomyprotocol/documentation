@@ -20,7 +20,7 @@ A validator’s weight (total stake) is determined by the amount of staking toke
 
 #### What is a delegator?
 
-Delegators are NOM holders who want to receive staking rewards without the responsibility of running a validator. Through Onomy Access and Cosmos-based wallets, a user can delegate NOM to a validator and in exchange receive a part of a validator’s revenue. For more detail on how revenue is distributed, see [What are the incentives to stake?](https://docs.terra.money/docs/full-node/manage-a-terra-validator/faq.html#what-are-the-incentives-to-stake) and [What is a validator’s commission?](https://docs.terra.money/docs/full-node/manage-a-terra-validator/faq.html#what-is-a-validators-commission)
+Delegators are NOM holders who want to receive staking rewards without the responsibility of running a validator. Through Onomy Access and Cosmos-based wallets, a user can delegate NOM to a validator and in exchange receive a part of a validator’s revenue. For more detail on how revenue is distributed, see [What are the incentives to stake?](../validators-staking/incentives-and-rewards.md#what-are-the-incentives-to-stake) and [What is a validator’s commission?](../validators-staking/incentives-and-rewards.md#what-is-a-validators-commission)
 
 Delegators share the benefits and rewards of staking with their Validator. If a Validator is successful, its delegators will consistently share in the rewards structure. If a Validator is slashed, the delegator’s stake will also be slashed. This is why delegators should perform due-diligence on validators before delegating. Delegators can also diversify by spreading their stake over multiple validators.
 
