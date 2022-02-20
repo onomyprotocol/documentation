@@ -4,7 +4,7 @@ description: ONEX EVM Compatible Deployment
 
 # ONEX EVM & Partners
 
-_Please read_ [_ONEX_](onex.md) _for details on ONEX first, then come back and read about ONEX EVM!_
+_Please read_ [_ONEX_](./) _for details on ONEX first, then come back and read about ONEX EVM!_
 
 ### **ONEX vs ONEX EVM**
 

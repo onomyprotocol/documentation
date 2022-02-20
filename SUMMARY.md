@@ -31,10 +31,11 @@
 
 ## App Ecosystem
 
-* [Onomy Exchange (ONEX)](onomy-exchange/onex.md)
-* [ONEX EVM & Partners](onomy-exchange/onex-evm-and-partners.md)
+* [Onomy Exchange (ONEX)](app-ecosystem/onex/README.md)
+  * [ONEX EVM & Partners](app-ecosystem/onex/onex-evm-and-partners.md)
 * [Onomy Access Wallet](app-ecosystem/onomy-access-wallet.md)
 * [Onomy Reserve](currency-denominations-denoms/denom-stabilization.md)
+* [Onomy Bridge Hub](app-ecosystem/onomy-bridge-hub.md)
 
 ## Founding Philosophy
 
