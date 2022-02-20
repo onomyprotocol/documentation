@@ -23,6 +23,8 @@ NOM is staked or delegated to validators to assure network-wide security for Ono
 
 The primary network security of the ONET is assured by a Proof of Stake model that bonds NOM to validators either by the validators themselves or through delegation. Network security depends on the bonding to create both incentives for good behavior and disincentives for bad behavior. Staked NOM may not be used to mint new Denoms while staked, but will receive the staking rewards, up to 100% yearly depending on the amount of NOM staked.&#x20;
 
+Read more about [Staking and Validator Concepts](../validators/PoS-Staking.md)
+
 ![](<../.gitbook/assets/Staking Curve.png>)
 
 ## Governance&#x20;
