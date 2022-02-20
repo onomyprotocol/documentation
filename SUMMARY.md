@@ -6,16 +6,11 @@
 
 * [Overview & Core Pillars](introduction/overview-and-core-pillars.md)
 
-## Architecture
+## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 
-* [Application Specific Blockchain](architecture/application-specific-blockchain.md)
-* [Tendermint BFT](architecture/tendermint-bft.md)
-
-## Governance
-
-* [Overview](governance/overview.md)
-* [Concepts](governance/concepts.md)
-* [Treasury Management](governance/treasury-management.md)
+* [What Is NOM?](nom-distribution/what-is-nom.md)
+* [Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
+* [BCO API](nom-distribution/api-documentation.md)
 
 ## Validators & Staking <a href="#validators-staking" id="validators-staking"></a>
 
@@ -23,11 +18,16 @@
 * [Incentives & Rewards](validators-staking/incentives-and-rewards.md)
 * [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
 
-## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
+## Governance
 
-* [What Is NOM?](nom-distribution/what-is-nom.md)
-* [Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
-* [BCO API](nom-distribution/api-documentation.md)
+* [Overview](governance/overview.md)
+* [Concepts](governance/concepts.md)
+* [Treasury Management](governance/treasury-management.md)
+
+## Architecture
+
+* [Application Specific Blockchain](architecture/application-specific-blockchain.md)
+* [Tendermint BFT](architecture/tendermint-bft.md)
 
 ## App Ecosystem
 
