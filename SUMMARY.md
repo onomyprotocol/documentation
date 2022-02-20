@@ -6,34 +6,35 @@
 
 * [Overview & Core Pillars](introduction/overview-and-core-pillars.md)
 
-## The NOM Token <a href="nom-distribution" id="nom-distribution"></a>
+## Architecture
+
+* [Application Specific Blockchain](architecture/application-specific-blockchain.md)
+* [Tendermint BFT](architecture/tendermint-bft.md)
+
+## Governance
+
+* [Overview](governance/overview.md)
+* [Concepts](governance/concepts.md)
+* [Treasury Management](governance/treasury-management.md)
+
+## Validators & Staking <a href="#validators-staking" id="validators-staking"></a>
+
+* [Concepts](validators-staking/PoS-Staking.md)
+* [Incentives & Rewards](validators-staking/incentives-and-rewards.md)
+* [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
+
+## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 
 * [What Is NOM?](nom-distribution/what-is-nom.md)
 * [Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
 * [BCO API](nom-distribution/api-documentation.md)
 
-## Onomy Exchange
+## App Ecosystem
 
-* [ONEX](onomy-exchange/onex.md)
-* [ONEX EVM & Partners](onomy-exchange/onex-evm-and-partners.md)
-
-## Validators
-
-* [Onomy Testnets](validators/onomy-testnets.md)
-* [PoS Staking](validators/PoS-Staking.md)
-
-## Onomy Reserve (Denoms) <a href="currency-denominations-denoms" id="currency-denominations-denoms"></a>
-
-* [Denom Stabilization](currency-denominations-denoms/denom-stabilization.md)
-
-## Contributors
-
-* [Joining Onomy](contributors/joining-onomy.md)
-* [Proposals](contributors/proposals.md)
-
-## Bridges
-
-* [Gravity Bridge (ETH-COSMOS)](bridges/gravity-bridge-eth-cosmos.md)
+* [Onomy Exchange (ONEX)](app-ecosystem/onex.md)
+* [ONEX EVM & Partners](app-ecosystem/onex-evm-and-partners.md)
+* [Onomy Access Wallet](app-ecosystem/onomy-access-wallet.md)
+* [Denom Stabilization](app-ecosystem/denom-stabilization.md)
 
 ## Founding Philosophy
 
@@ -47,3 +48,8 @@
 * [Bagehot's Reserve](founding-philosophy/bagehots-reserve.md)
 * [Stablecoins & Collateral](founding-philosophy/stablecoins-and-collateral.md)
 * [Denoms as Payment](founding-philosophy/denoms-as-payment.md)
+
+## Contributors
+
+* [Joining Onomy](contributors/joining-onomy.md)
+* [Partnerships](contributors/partnerships.md)

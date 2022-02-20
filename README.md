@@ -1,5 +1,7 @@
 ---
-description: Onomy Protocol Documentation
+description: >-
+  Offering the infrastructure necessary to converge traditional finance with
+  decentralized finance.
 cover: .gitbook/assets/137114490-3fb1de9c-f74c-4979-9089-2f116e57bec2.jpeg
 coverY: 0
 ---

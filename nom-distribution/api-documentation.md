@@ -4,7 +4,7 @@ description: BondingNOM.sol
 
 # BCO API
 
-_All function calls are currently implemented without side effects. Please refer to the "_[_Bonding Curve Offering (BCO)_](bonding-curve-offering.md)_" section for more details on the BCO and wNOM vs NOM._
+_Please refer to the "_[_Bonding Curve Offering (BCO)_](bonding-curve-offering.md)_" section for more details on the BCO and wNOM vs NOM._
 
 ## _getNOMAddr()_ public view returns (address NOMContAddr)
 

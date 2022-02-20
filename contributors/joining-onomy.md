@@ -28,3 +28,16 @@ Onomy strongly respects whitehat initiatives in DeFi. While Onomy takes all nece
 
 Those who submit bug reports deemed as relevant to the success of the protocol will be eligible to receive bounties paid out by the Treasury.&#x20;
 
+### **Collaboration Proposals**
+
+If you'd like to build something unique, translate documentation, write tutorials, create videos, or produce graphics, get in touch with Onomy at [hello@onomy.io](mailto:hello@onomy.io)
+
+To be considered, make sure that your proposal includes:&#x20;
+
+* Details about your experience in the chosen field & previous work examples
+* Clear overview of the task you'd like to get involved with&#x20;
+* Any compensation that you are interested in pursuing
+* Anything else that you require from the Onomy team
+
+
+
