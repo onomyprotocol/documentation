@@ -16,4 +16,15 @@ Onomy has an extreme focus on user experience through its carefully crafted ecos
 
 Efficiently trade digital assets on the decentralized Onomy Exchange (ONEX) supporting both AMM and orderbook trading (limit orders, stop loss, market), and mint decentralized stablecoins through the Onomy Reserve (ORES) using NOM, the protocol token, as collateral.
 
-✨[Official Website](https://onomy.io) ✨[Telegram](https://t.me/onomyprotocol) ✨[Telegram A](https://t.me/onomyannouncements)[NN](https://t.me/onomyannouncements) ✨[Discord](https://discord.gg/u5qcykwJqV) ✨[Twitter](https://twitter.com/OnomyProtocol) ✨[Medium](https://medium.com/onomy-protocol) ✨ [GitHub](https://github.com/onomyprotocol/)
+### Links & Resources
+
+* [Official Website](https://onomy.io)
+* [GitHub](https://github.com/onomyprotocol/)
+* [Medium](https://medium.com/onomy-protocol)
+* [Telegram](https://t.me/onomyprotocol)&#x20;
+* [Telegram A](https://t.me/onomyannouncements)[NN](https://t.me/onomyannouncements)&#x20;
+* [Discord](https://discord.gg/u5qcykwJqV)&#x20;
+* [Twitter](https://twitter.com/OnomyProtocol)&#x20;
+* [CoinMarketCap](https://coinmarketcap.com/currencies/onomy-protocol/)
+* [CoinGecko](https://www.coingecko.com/en/coins/onomy-protocol)
+
