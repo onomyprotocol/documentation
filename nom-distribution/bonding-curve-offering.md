@@ -41,12 +41,16 @@ The bonding curve is perpetual until all 100M w_NOM_ are issued. Thus, an arbitr
 
 ## Legal Disclaimer
 
+{% hint style="info" %}
 _Nothing in this post shall constitute or be construed as an offer to sell or the solicitation of an offer to purchase any securities. Nothing in this post shall be construed as investment advice, strategy, or investment recommendations by Onomy or any of its affiliates. This post is for informational purposes only._
 
-_This communication contains forward-looking statements that are based on Onomy’s beliefs and assumptions based on information currently available to Onomy. In some cases, you can identify forward-looking statements by the following words: “will,” “expect,” “would,” “intend,” “believe,” "anticipate," or other comparable terminology.These statements involve risks, uncertainties, assumptions, and other factors that may cause actual results or performance to be materially different. Onomy cannot assure you that the forward-looking statements will prove to be accurate. These forward-looking statements speak only as of the date hereof. Onomy disclaims any obligation to update these forward-looking statements._
+_This communication may contain forward-looking statements that are based on Onomy’s beliefs and assumptions based on information currently available to Onomy. In some cases, you can identify forward-looking statements by the following words: “will,” “expect,” “would,” “intend,” “believe,” "anticipate," or other comparable terminology.These statements involve risks, uncertainties, assumptions, and other factors that may cause actual results or performance to be materially different. Onomy cannot assure you that the forward-looking statements will prove to be accurate. These forward-looking statements speak only as of the date hereof. Onomy disclaims any obligation to update these forward-looking statements._
+{% endhint %}
 
 ### Risk Disclosure
 
+{% hint style="info" %}
 _The Bonding Curve Automated Market Maker is a decentralized protocol that people can use to create liquidity and trade wNOM tokens, as well as convert wNOM (ERC-20) for NOM tokens on the Onomy Network one-for-one. Your use of the Bonding Curve Contract and its Platform involves various risks, including, but not limited to, losses due to the fluctuation of prices of tokens in a trading pair or smart contract vulnerabilities. You are responsible for doing your own diligence on those interfaces to understand the fees and risks they present._
 
 _THE BONDING CURVE CONTRACT AND PLATFORM IS PROVIDED "AS IS", AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND. Although NOM LABS LIMITED developed the code, it does not provide, own, or control the Bonding Curve Contract or Platform, which is run by smart contracts deployed on the blockchain. No developer or entity involved in creating the Bonding Curve Contract or Platform will be liable for any claims or damages whatsoever associated with your use, inability to use, or your interaction with other users of, the Bonding Curve Contract or Platform, including any direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits, cryptocurrencies, tokens, or anything else of value._
+{% endhint %}
