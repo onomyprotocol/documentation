@@ -1,8 +1,5 @@
 # Partnerships
 
-For those who resonate with Onomy's mission and would like to align on partnership opportunities, please connect with [_hello@onomy.io_](mailto:hello@onomy.io)!
+For those who resonate with Onomy's mission and would like to align on partnership opportunities, please fill out the form below!
 
-_Form coming soon._
-
-
-
+{% embed url="https://dq8zk5x8w7j.typeform.com/to/WDD97YcO" %}

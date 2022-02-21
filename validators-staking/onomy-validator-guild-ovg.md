@@ -46,4 +46,4 @@ Validators may receive grants to assure the latest system specs are used, and to
 
 ### OVG Interest Form
 
-_Coming Soon._
+{% embed url="https://dq8zk5x8w7j.typeform.com/to/EiXBpya5" %}
