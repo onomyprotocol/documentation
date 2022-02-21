@@ -9,11 +9,11 @@ Minimum system requirements:
 * 8 GiB of RAM
 * 20gb of storage
 
-Make sure you have gone through [Installation Steps](installation-steps.md) prior to setting up a node.
+Make sure you have gone through [Installation Steps](pre-installation-steps.md) prior to setting up a node.
 
 ### Initialize and start a full node
 
-1. To start the Onomy full node, download scripts from our \[Github page]\([https://github.com/onomyprotocol/onomy/tree/dev/deploy/testnet/scripts](https://github.com/onomyprotocol/onomy/tree/dev/deploy/testnet/scripts)).
+1. To start the Onomy full node, download scripts from the [GitHub](https://github.com/onomyprotocol/onomy/tree/dev/deploy/testnet/scripts).
 
 ```
 mkdir $HOME/.onomy/scripts

@@ -21,8 +21,8 @@
 
 ## Run a Full Node
 
-* [Installation Steps](run-a-full-node/installation-steps.md)
-* [Starting a Full Node](run-a-full-node/starting-a-full-node.md)
+* [Installation Steps](run-a-full-node/pre-installation-steps.md)
+* [Starting a Full Node](run-a-full-node/setting-up-a-full-node.md)
 
 ## Governance
 
