@@ -6,6 +6,8 @@ description: >-
 
 # Overview & Core Pillars
 
+![](<.gitbook/assets/black header.png>)
+
 Onomy Protocol is a **layer-1 Cosmos-based blockchain network** powering an **inter-chain orderbook + AMM decentralized exchange (DEX),** **a stablecoin issuance system** through which users may **easily mint, trade, and lend stablecoins,** a **DeFi Access Wallet, and bi-directional bridges** to prominent blockchain economies**.**
 
 Additional products and services, as detailed below, add significant functionality and exposure to liquidity. By merging blockchain technology with traditional finance and providing the fundamental infrastructure for the inclusion of these markets in the digital asset economy, Onomy empowers a level of access otherwise not possible. Furthermore, **Onomy’s core goal is to provide a singular platform from which market participants can enter and exit all digital asset ecosystems**.&#x20;
