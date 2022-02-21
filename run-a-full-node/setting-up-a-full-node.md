@@ -9,7 +9,7 @@ Minimum system requirements:
 * 8 GiB of RAM
 * 20gb of storage
 
-Make sure you have gone through [Pre installation Steps](https://github.com/onomyprotocol/onomy/blob/main/docs/testnet/onomy-testnet-docs/pre-installation.md) prior to setting up a node.
+Make sure you have gone through [Pre installation Steps](pre-installation-steps.md) prior to setting up a node.
 
 #### Init the config files
 
