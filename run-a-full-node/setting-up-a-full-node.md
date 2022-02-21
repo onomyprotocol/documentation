@@ -6,8 +6,8 @@ Minimum system requirements:
 
 * A Linux server with any modern Linux distribution,
 * A quad-core CPU
-* 8 GiB of RAM
-* 20gb of storage
+* 8 GB of RAM
+* 20GB of storage
 
 Make sure you have gone through [Installation Steps](pre-installation-steps.md) prior to setting up a node.
 
@@ -47,7 +47,7 @@ After the script is done, you will find node-in in the output. Make sure to take
 
 ### Check the status of the Onomy chain
 
-You should be good to go! You can check the status of the Onomy chain by running.
+You should be good to go! You can check the status of the Onomy chain by running:
 
 ```
 curl http://localhost:26657/status

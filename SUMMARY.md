@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Abstract](README.md)
-
 ## Introduction
 
-* [Overview & Core Pillars](introduction/overview-and-core-pillars.md)
+* [Overview & Core Pillars](README.md)
 
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 

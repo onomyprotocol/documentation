@@ -27,7 +27,7 @@ Partners benefit from a bidirectional bridge with the Onomy Ecosystem, and by ex
 * NEAR / Aurora
 * Avalanche
 * Polygon
-* HarmonyOne
+* Harmony One
 * More TBA
 
 _Additional documentation to come_

@@ -42,8 +42,8 @@ Given the high demand expressed by partner groups (with over 150+ active validat
 \
 **Validator Grants & Delegation**\
 \
-Validators may receive grants to assure the latest system specs are used, and to subsidize related costs to uphold performance required for the sustainability of the Onomy Network. Alongside delegations to enhance voting power distribution.&#x20;
+Validators may receive grants to assure the latest system specs are used, and to subsidize related costs to uphold performance required for the sustainability of the Onomy Network. Delegations may also be provided to enhance voting power distribution.&#x20;
 
 ### OVG Interest Form
 
-_Coming Soon_
+_Coming Soon._

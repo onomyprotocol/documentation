@@ -12,7 +12,7 @@ The primary network security of the ONET is assured by a Proof of Stake model th
 
 ![](<../.gitbook/assets/Staking Curve.png>)
 
-Read more about [Staking and Validator Concepts](../validators/PoS-Staking.md)
+**Read more about** [**Staking and Validator Concepts**](../validators/PoS-Staking.md)**.**
 
 ## Collateral
 
@@ -33,10 +33,10 @@ DAO (Decentralized Autonomous Organization) is an organization represented by ru
 
 Onomy will be governed by the Onomy DAO**, providing NOM holders with the opportunity to guide the decision-making process through NOM-weighed votes**.&#x20;
 
-#### Read more about [Governance](../governance/overview.md)
+#### Read more about [Governance](../governance/overview.md).
 
 ## **AMM Keeper Bots**
 
-**NOM** is programatically purchased and removed from supply by Keeper bots observing AMM liquidity pool rewards from the Onomy Exhange (ONEX). This provides perpetually growing deflationary pressure on **NOM** as exchange volumes grow.
+**NOM** is programmatically purchased and removed from supply by Keeper bots observing AMM liquidity pool rewards from the Onomy Exhange (ONEX). This provides perpetually growing deflationary pressure on **NOM** as exchange volumes grow.
 
-_Additional documentation to come_
+_Additional documentation to come._
