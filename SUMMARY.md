@@ -16,8 +16,8 @@
 
 * [Concepts](validators/PoS-Staking.md)
 * [Incentives & Rewards](validators-staking/incentives-and-rewards.md)
-* [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
 * [Transaction Fees (Gas)](validators-staking/transaction-fees-gas.md)
+* [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
 
 ## Governance
 
