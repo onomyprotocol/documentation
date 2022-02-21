@@ -18,6 +18,12 @@
 * [Incentives & Rewards](validators-staking/incentives-and-rewards.md)
 * [Transaction Fees (Gas)](validators-staking/transaction-fees-gas.md)
 * [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
+* [Page 1](validators-staking/page-1.md)
+
+## Run a Full Node
+
+* [Pre-installation Steps](run-a-full-node/pre-installation-steps.md)
+* [Setting up a Full Node](run-a-full-node/setting-up-a-full-node.md)
 
 ## Governance
 
