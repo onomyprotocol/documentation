@@ -10,7 +10,7 @@ Each member of a validator’s staking pool earns different types of revenue:
 
 This total revenue is divided among a validator’s staking pool according to each validator’s weight. The revenue is then divided among delegators in proportion to each delegator’s stake. Note that a commission on delegators’ revenue is applied by the validator before it is distributed.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 #### What is the incentive to run a validator?
 
