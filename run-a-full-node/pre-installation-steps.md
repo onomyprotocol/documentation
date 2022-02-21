@@ -12,7 +12,7 @@ Start by logging into your Linux server using ssh. The following commands are in
 
 #### 1. Download/install Onomy chain binaries <a href="#user-content-downloadinstall" id="user-content-downloadinstall"></a>
 
-To download and install binaries follow these steps
+To download and install binaries, follow these steps:
 
 1. create a new directory in your home directory which will save all the onomy packages. `mkdir -p $HOME/.onomy/bin && cd $HOME/.onomy/bin`
 2. Download binaries using wget and add executable permission
@@ -28,9 +28,9 @@ chmod +x *
 
 #### 2. Compile Onomy chain binaries <a href="#user-content-compileinstall" id="user-content-compileinstall"></a>
 
-If you have Fedora 34 or Red Hat Enterprise Linux 8 and you want to make binaries yourself, then follow these steps
+If you have Fedora 34 or Red Hat Enterprise Linux 8 and you want to make binaries yourself, then follow these steps:
 
-1. Clone Onomy repo. (You might need to install git using `dnf install git`).
+1. Clone Onomy repo. (You might need to install git using `dnf install git`)
 
 ```
 git clone -b dev https://github.com/onomyprotocol/onomy.git
@@ -45,7 +45,7 @@ bash bin.sh
 
 The second way may be unsafe because it used the latest version of the artifacts.
 
-At specific points during the testnet you may be told to `update your orchestrator` or `update your onomyd binary`. In order to do that you can simply repeat the above instructions and then restart the affected software.
+At specific points during the testnet you may be told to `update your orchestrator` or `update your onomyd binary`. In order to do that, you can simply repeat the above instructions and then restart the affected software.
 
 to check what version of the tools you have run `gbt --version`
 

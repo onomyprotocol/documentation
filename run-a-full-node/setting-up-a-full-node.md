@@ -20,9 +20,9 @@ onomyd --home $HOME/.onomy init {validator moniker} --chain-id onomy-testnet1
 
 Here, validator moniker is a an arbitrary name for your validator
 
-Note:- The default home directory path is `~/.onomy` or `$HOME/.onomy`, if you have to changed it then you need add `--home` flag to `onomyd` command as shown above. If you are using the default path then its optional.
+Note:- The default home directory path is `~/.onomy` or `$HOME/.onomy`, if you have to changed it then you need add `--home` flag to `onomyd` command as shown above. If you are using the default path, then its optional.
 
-We will refer to onomy home directory as $ONOMY\_HOME for here on.
+We will refer to onomy home directory as $ONOMY\_HOME from here onward.
 
 #### Copy the genesis file
 
