@@ -3,7 +3,7 @@
 Obtaining the binary can be done by either of the following methods:
 
 * [Download Binary from GitHub](pre-installation-steps.md#download-binary-from-github)
-* [Compile Binary Locally](pre-installation-steps.md#2.-use-provided-scripts-to-compile-binary-locally)
+* [Compile Binary Locally](pre-installation-steps.md#compile-binary-locally)
 
 ### Download Binary from GitHub
 
@@ -40,4 +40,3 @@ This script downloads and compiles Onomy binary. A new directory `.onomy` will b
 NOTE: Do not run the script as a super user. If you run script as a super user, then the .onomy directory will be created in home directory of super user. Script will ask for super user privileges while installing and updating packages.&#x20;
 {% endhint %}
 
-#### &#x20;<a href="#user-content-compileinstall" id="user-content-compileinstall"></a>
