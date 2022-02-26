@@ -53,10 +53,6 @@ Onomy will be governed by the Onomy DAO**, providing NOM holders with the opport
 
 DAO-governance of Onomy Protocol includes governance of the Onomy Treasury of Funds, whereby funds are also outside of the control of any central entity. Funds may only be accessed through a successful proposal passed by the Onomy DAO. Not even core contributors will have the keys to the treasury.
 
-### Future Integrations
-
-Onomy has also developed a new consensus algorithm that will provide the required transaction throughput as well as leaderless ordering, addressing validator front-running, hence future-proofing Onomy as the consensus algorithm becomes battle-tested, audited, and production ready.
-
 
 
 {% hint style="info" %}
