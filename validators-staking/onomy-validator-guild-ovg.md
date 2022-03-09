@@ -38,7 +38,7 @@ Validators interested in applying must hold servers that match or exceed the fol
 
 #### Minimum NOM Stake for Validators <a href="#c05b" id="c05b"></a>
 
-Given the high demand expressed by partner groups (with over 150+ active validators on testnet), our plans for long-term collaboration, and the inherent performance needs of the Onomy Network, _**the minimum NOM stake per validator group is 250,000 NOM**_.\
+Given the high demand expressed by partner groups (with over 150+ active validators on testnet), our plans for long-term collaboration, and the inherent performance needs of the Onomy Network, _**the minimum self-bond NOM stake per validator group is 250,000 NOM**_.\
 \
 **Validator Grants & Delegation**\
 \

@@ -16,7 +16,7 @@ _Please read_ [_ONEX_](./) _for details on ONEX first, then come back and read a
 
 **ONEX** is the ideal one-stop shop, especially when a user would like to trade native assets cross-chain without needing wrapped tokens. It will be far more efficient than other chains, improving UX and integrating more heavily with the Onomy Ecosystem of products. The future is multi-chain, and ONEX is the ideal choice for users looking to participate in that future seamlessly.&#x20;
 
-**ONEX EVM** provides users who are loyal to a particular EVM chain and existing toolsets, or users that simply have substantial liquidity on a particular EVM chain, a differentiated hybrid orderbook + AMM exchange superior to other DEXs with little to no friction. Users may still leverage Onomy Access (non-custodial multi-chain wallet) for smooth onboarding and managing their assets.
+**ONEX EVM** provides users who are loyal to a particular EVM chain and existing toolsets, or users that simply have substantial liquidity on a particular EVM chain, with a differentiated hybrid orderbook + AMM exchange superior to other DEXs with little to no friction. Users may still leverage Onomy Access (non-custodial multi-chain wallet) for smooth onboarding and managing their assets.
 
 ### Interested in partnering?
 
@@ -30,4 +30,6 @@ Partners benefit from a bidirectional bridge with the Onomy Ecosystem, and by ex
 * Harmony One
 * More TBA
 
-_Additional documentation to come_
+Learn more about partnering with Onomy [here](https://docs.onomy.io/contributors/partnerships).&#x20;
+
+_Additional documentation to come._

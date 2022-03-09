@@ -4,8 +4,8 @@
 
 Each member of a validator’s staking pool earns different types of revenue:
 
-* **Compute fees (gas)**: To prevent spamming, validators can set minimum gas fees for transactions to be included in their mempool. At the end of every block, compute fees are disbursed to the participating validators proportional to their stake.
 * **Product Rewards:** The Onomy Exchange, Onomy Reserve, and Onomy Bridge Hub each will uniquely have additional rewards for validators. Details will be added to documentation.
+* **Compute fees (gas)**: To prevent spamming, validators can set minimum gas fees for transactions to be included in their mempool. At the end of every block, compute fees are disbursed to the participating validators proportional to their stake.
 * **Staking Rewards:** Primary staking rewards are given based on a dual-regime model with an initial hyper-inflationary period that rewards staking participants with up to 100% APY followed by an indefinite stabilization period with a goal of 50% of NOM staked with nodes.
 
 This total revenue is divided among a validator’s staking pool according to each validator’s weight. The revenue is then divided among delegators in proportion to each delegator’s stake. Note that a commission on delegators’ revenue is applied by the validator before it is distributed.

@@ -6,7 +6,7 @@ Bonding curves are cryptoeconomic token models that automate the relationship be
 
 Continuous Tokens have other properties such as instant liquidity and deterministic price. Bonding curves act as an automated market maker such that token buyers and sellers have an instant market. Additionally, bonding curve models don’t have central authorities responsible for issuing the tokens. Instead, users can buy a project’s token through a smart contract platform. The cost to buy these tokens is determined by the supply of those tokens. Unlike traditional models, the cost of these tokens increases as the supply increases. This price is determined by a pre-existing algorithm, further described below. A fee of 1% is applied per trade with the bonding curve.\
 \
-The Bonding Curve Contract has been audited by NCC Group, an enterprise-level cybersecurity firm headquarted in the United Kingdom.
+The Bonding Curve Contract has been audited by NCC Group, an enterprise-level cybersecurity firm headquartered in the United Kingdom.
 
 ## wNOM to NOM Distribution
 
@@ -31,7 +31,7 @@ The bonding curve has many benefits as a way to distribute _NOM_:
 
 ## Staking & Bridge Incentives
 
-The Onomy Network Staking Curve carries a tight relationship with the Bonding Curve. The staking curve acts as a principal motivator for participants who purchased _wNOM_ to bridge from Ethereum to the Onomy Network to capture the opportunity to earn staking rewards. _NOM_ holders can either choose to become validators themselves, or delegate their _NOM_ to a validator to earn staking rewards minus a validator fee.
+The Onomy Network Staking Curve carries a tight relationship with the Bonding Curve. The staking curve acts as a principal motivator for participants who purchased _wNOM_ to bridge from Ethereum to the Onomy Network to capture the opportunity to obtain staking rewards. _NOM_ holders can either choose to become validators themselves, or delegate their _NOM_ to a validator to earn staking rewards minus a validator fee.
 
 ![](<../.gitbook/assets/image (8) (1).png>)
 
