@@ -4,25 +4,25 @@ description: BondingNOM.sol
 
 # BCO API
 
-_Please refer to the "_[_Bonding Curve Offering (BCO)_](bonding-curve-offering.md)_" section for more details on the BCO and wNOM vs NOM._
+_Please refer to the "_[_Bonding Curve Offering (BCO)_](bonding-curve-offering.md)_" section for more details on the BCO and bNOM vs NOM._
 
 ## _getNOMAddr()_ public view returns (address NOMContAddr)
 
 | Input/Output | Data Type | Variable Name | Comment                                |
 | ------------ | --------- | ------------- | -------------------------------------- |
-| output       | address   | NomContAddr   | Return the wNOM Token Contract address |
+| output       | address   | NomContAddr   | Return the bNOM Token Contract address |
 
 ## _getSupplyNOM()_ public view returns (uint256 supplyNOM)
 
 | Input/Output | Data Type | Variable Name | Comment                                |
 | ------------ | --------- | ------------- | -------------------------------------- |
-| output       | uint256   | supplyNOM     | Return the wNOM Token circulate supply |
+| output       | uint256   | supplyNOM     | Return the bNOM Token circulate supply |
 
 ## _getBondPrice()_ public view returns (uint256 priceNOM)
 
 | Input/Output | Data Type | Variable Name | Comment                                           |
 | ------------ | --------- | ------------- | ------------------------------------------------- |
-| output       | uint256   | priceNOM      | Return the price based on the current wNOM supply |
+| output       | uint256   | priceNOM      | Return the price based on the current bNOM supply |
 
 ## _tokToF64(uint256 utoken)_ public view returns(int128 f64Token)
 

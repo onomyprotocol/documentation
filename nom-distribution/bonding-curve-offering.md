@@ -8,15 +8,15 @@ Continuous Tokens have other properties such as instant liquidity and determinis
 \
 The Bonding Curve Contract has been audited by NCC Group, an enterprise-level cybersecurity firm headquartered in the United Kingdom.
 
-## wNOM to NOM Distribution
+## bNOM to NOM Distribution
 
-The Onomy Protocol token, _**NOM**_, is primarily distributed through a bonding curve contract deployed on the Ethereum Network that issues wrapped tokens (_**wNOM**_) that will be exchanged 1:1 with _NOM_ on the Onomy Network. _NOM_ is the functional utility token of the Onomy Network. An interface will be provided for this exchange, commonly referenced as "bridging" _wNOM_ tokens from Ethereum and into the Onomy ecosystem for _NOM_. When bridged, _wNOM_ is burned from the bonding curve, setting a new floor price of the bonding curve, and a proportionate supply is issued on the Onomy Network.
+The Onomy Protocol token (_**NOM**_) is primarily distributed through a bonding curve contract deployed on the Ethereum Network where bondingNOM (_**bNOM**_) tokens are purchased that are bridged 1:1 for _NOM_ on the Onomy Network. _NOM_ is the native utility token of the Onomy Network. An interface will be provided for this exchange, commonly referenced as "bridging" b_NOM_ tokens from Ethereum and into the Onomy ecosystem for _NOM_. When bridged, b_NOM_ is burned from the bonding curve, setting a new floor price of the bonding curve, and an equivalent amount of _NOM_ is issued on the Onomy Network.
 
 The following is the equation governing the bonding curve:
 
 ![](<../.gitbook/assets/image (6).png>)
 
-100,000,000 is the supply of _wNOM_ loaded into the bonding curve. Supply is issued as it is purchased, thereby acting as a minting mechanism over time.
+100,000,000 is the supply of _bNOM_ loaded into the bonding curve. Supply is issued as it is purchased, thereby acting as a minting mechanism over time.
 
 ![](<../.gitbook/assets/image (7).png>)
 
@@ -31,13 +31,13 @@ The bonding curve has many benefits as a way to distribute _NOM_:
 
 ## Staking & Bridge Incentives
 
-The Onomy Network Staking Curve carries a tight relationship with the Bonding Curve. The staking curve acts as a principal motivator for participants who purchased _wNOM_ to bridge from Ethereum to the Onomy Network to capture the opportunity to obtain staking rewards. _NOM_ holders can either choose to become validators themselves, or delegate their _NOM_ to a validator to earn staking rewards minus a validator fee.
+The Onomy Network Staking Curve carries a tight relationship with the Bonding Curve. The staking curve acts as a principal motivator for participants who purchased _bNOM_ to bridge from Ethereum to the Onomy Network to capture the opportunity to obtain staking rewards. _NOM_ holders can either choose to become validators themselves, or delegate their _NOM_ to a validator to earn staking rewards minus a validator fee.
 
 ![](<../.gitbook/assets/image (8) (1).png>)
 
-The staking rewards incentivize _wNOM_ on the bonding curve to bridge into _NOM,_ thereby driving value into the Onomy Ecosystem. Once bridged, bonding curve participants formalize their entry into Onomy and relinquish the ability to sell back to the bonding curve. Liquidity thereby comes from the ONEX and anticipated exchange listings.
+The staking rewards incentivize _bNOM_ on the bonding curve to bridge into _NOM,_ thereby driving value into the Onomy Ecosystem. Once bridged, bonding curve participants formalize their entry into Onomy and relinquish the ability to sell back to the bonding curve. Liquidity thereby comes from the ONEX and anticipated exchange listings.
 
-The bonding curve is perpetual until all 100M w_NOM_ are issued. Thus, an arbitrage opportunity may appear from time to time as the _NOM_ price on exchanges exceeds that of _wNOM_ on the bonding curve. A potential arbitrager will purchase _wNOM_, bridge to _NOM_, and send to exchanges. This incentive will further drive positive feedback mechanisms driving value, community, and adoption of _NOM,_ as more _wNOM_ is minted at more valuable prices and then bridged.
+The bonding curve is perpetual until all 100M _bNOM_ are issued. Thus, an arbitrage opportunity may appear from time to time as the _NOM_ price on exchanges exceeds that of _bNOM_ on the bonding curve. A potential arbitrager will purchase _bNOM_, bridge to _NOM_, and send to exchanges. This incentive will further drive positive feedback mechanisms driving value, community, and adoption of _NOM,_ as more _bNOM_ is minted at more valuable prices and then bridged.
 
 ## Legal Disclaimer
 
@@ -50,7 +50,7 @@ _This communication may contain forward-looking statements that are based on Ono
 ### Risk Disclosure
 
 {% hint style="info" %}
-_The Bonding Curve Automated Market Maker is a decentralized protocol that people can use to create liquidity and trade wNOM tokens, as well as convert wNOM (ERC-20) for NOM tokens on the Onomy Network one-for-one. Your use of the Bonding Curve Contract and its Platform involves various risks, including, but not limited to, losses due to the fluctuation of prices of tokens in a trading pair or smart contract vulnerabilities. You are responsible for doing your own diligence on those interfaces to understand the fees and risks they present._
+_The Bonding Curve Automated Market Maker is a decentralized protocol that people can use to create liquidity and trade bNOM tokens, as well as convert bNOM (ERC-20) for NOM tokens on the Onomy Network one-for-one. Your use of the Bonding Curve Contract and its Platform involves various risks, including, but not limited to, losses due to the fluctuation of prices of tokens in a trading pair or smart contract vulnerabilities. You are responsible for doing your own diligence on those interfaces to understand the fees and risks they present._
 
 _THE BONDING CURVE CONTRACT AND PLATFORM IS PROVIDED "AS IS", AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND. Although NOM LABS LIMITED developed the code, it does not provide, own, or control the Bonding Curve Contract or Platform, which is run by smart contracts deployed on the blockchain. No developer or entity involved in creating the Bonding Curve Contract or Platform will be liable for any claims or damages whatsoever associated with your use, inability to use, or your interaction with other users of, the Bonding Curve Contract or Platform, including any direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits, cryptocurrencies, tokens, or anything else of value._
 {% endhint %}
