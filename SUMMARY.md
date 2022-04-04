@@ -26,7 +26,7 @@
 ## Validators & Staking <a href="#validators-staking" id="validators-staking"></a>
 
 * [Concepts](validators/PoS-Staking.md)
-* [Incentives & Rewards](validators-staking/incentives-and-rewards.md)
+* [Incentives & Staking Rewards](validators-staking/incentives-and-staking-rewards.md)
 * [Transaction Fees (Gas)](validators-staking/transaction-fees-gas.md)
 * [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
 

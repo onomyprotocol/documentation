@@ -6,13 +6,9 @@
 
 ## Staking&#x20;
 
-NOM is staked or delegated to validators to assure network-wide security for Onomy's native layer-1 Cosmos-based blockchain network, unlocking rewards for those that help secure the network.
+When NOM holders delegate their NOM to a validator, they are _**staking.**_ Staking provides rewards in return for delegating to validators who support the security and operations of a blockchain network.
 
-The primary network security of the ONET is assured by a Proof of Stake model that bonds NOM to validators either by the validators themselves or through delegation. Network security depends on the bonding to create both incentives for good behavior and disincentives for bad behavior. Staked NOM may not be used to mint new Denoms while staked, but will receive the staking rewards, up to 100% yearly depending on the amount of NOM staked.&#x20;
-
-![](<../.gitbook/assets/Staking Curve.png>)
-
-**Read more about** [**Staking and Validator Concepts**](../validators/PoS-Staking.md)**.**
+**Read more about expected** [**NOM staking rewards**](../validators-staking/incentives-and-staking-rewards.md)**.**
 
 ## Collateral
 
