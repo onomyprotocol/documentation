@@ -2,7 +2,7 @@
 
 **NOM** is Onomy Protocol's native coin that provides users with significant utility across Onomy Network's ecosystem of applications.
 
-![](../.gitbook/assets/infographicNOM.png)
+![](<../.gitbook/assets/image (10).png>)
 
 ## Staking&#x20;
 
