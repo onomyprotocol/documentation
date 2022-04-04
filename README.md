@@ -8,9 +8,7 @@ description: >-
 
 ![](<.gitbook/assets/black header.png>)
 
-Onomy Protocol is a **layer-1 Cosmos-based blockchain network** powering an **inter-chain orderbook + AMM decentralized exchange (DEX),** **a stablecoin issuance system** through which users may **easily mint, trade, and lend stablecoins,** a **DeFi Access Wallet, and bi-directional bridges** to prominent blockchain economies**.**
-
-Additional products and services, as detailed below, add significant functionality and exposure to liquidity. By merging blockchain technology with traditional finance and providing the fundamental infrastructure for the inclusion of these markets in the digital asset economy, Onomy empowers a level of access otherwise not possible. Furthermore, **Onomy’s aims to provide a singular platform from which market participants can enter and exit all digital asset ecosystems**.&#x20;
+**Onomy Protocol** is a Layer 1 Ecosystem built to converge Forex and decentralized finance, including bridges to prominent chains. Products include a methodical 3-stage rollout of an innovative multi-chain wallet, a DEX supporting an orderbook experience fused with AMM liquidity pools, and a stablecoin issuance protocol.
 
 **Useful Links:**
 
@@ -20,24 +18,20 @@ Additional products and services, as detailed below, add significant functionali
 
 Onomy consists of four pillars designed to be a self-governed monetary stabilization system.
 
-* **Onomy Network (ONET):** Layer 1 blockchain as part of the Cosmos Ecosystem leveraging Tendermint BFT consensus and the Inter Blockchain Communication Protocol (IBC). As a decentralized peer-to-peer computational network, it processes transactions submitted by users and rewards validators in ONET's native protocol coin NOM. &#x20;
-* **Onomy Exchange (ONEX):** A multi-chain decentralized exchange (DEX) that is used to trade cryptocurrencies cross-chain. The ONEX experience is that of a traditional order book exchange, but integrates an Automated Market Maker (AMM) that liquidity providers can commit capital to for a proportional share of the AMM earnings. While ONEX can power trades of all cryptocurrencies, its marketing focus is to be the de facto Foreign Currency Exchange marketplace for stablecoins of major national currencies.
-* **Onomy Access**: A non-custodial multi-chain mobile wallet app through which users may manage all assets from supported blockchains. This includes NFT collections and token-specific management features such as governance and staking. Enjoy Single Sign On via QR code, with no need for various browser extensions per blockchain to access the DeFi realm.
-* **Onomy Reserve (ORES):** governs minting of decentralized stablecoins called Denoms, utilizing NOM as collateral. Denoms may be used for FX trading, payment, remittance, lending, and settlement.
+* **Onomy Network (ONET):** An application specific Layer 1 blockchain leveraging Tendermint BFT consensus. Powers bi-directional bridges to prominent blockchains in and outside of the Cosmos ecosystem - such as Near, Aurora, Avalanche, Polygon, and more.
+* **Onomy Exchange (ONEX):** A decentralized exchange that aims to replicate a traditional centralized exchange experience to settle the world's high-volume demands on-chain, decentralized, and non-custodially. It combines AMM Liquidity Pools with an Orderbook UI, enabling Liquidity Providers to earn yield and traders to engage in familiar orderbook trading strategies supporting market, limit, stop, and conditional orders. The ONEX will be both cross-chain and multi-chain. Paired with Onomy Access and Onomy's bridge network, ONEX enables users to seamlessly trade native assets between blockchains - or trade assets native to one specific blockchain.
+* **Onomy Access**: A non-custodial multi-chain mobile wallet app through which users may manage all assets from integrated blockchains. This includes staking, governance, transferring assets, and even viewing your NFT collections from multiple blockchains - all on one singular wallet app. Access makes cross-chain and multi-chain user experience seamless. Connect to dApps by scanning a QR code - gone are the days of connecting various browser extensions to access Web3.
+* **Onomy Reserve (ORES):** governs minting of decentralized stablecoins named Denoms, utilizing NOM as collateral. Denoms may be used for FX trading, payment, remittance, lending, and settlement.
 
-## Network
+## The NOM Token
 
-The **Onomy Network** is a Layer 1 blockchain network built on the [Cosmos ecosystem, based on the Tendermint protocol, and plugging into the IBC framework](https://medium.com/onomy-protocol/understanding-cosmos-the-internet-of-blockchains-fc3aa25689a0). Tendermint is a Byzantine Fault Tolerant Proof-of-Stake conensus mechanism, whereas IBC allows for cross-chain functionality between Cosmos blockchains. **Interoperability is further enhanced with bi-directional bridges as part of the Onomy Hub** to prominent blockchain networks outside of the Cosmos ecosystem, like Ethereum, Avalanche, Near, Polygon, Harmony, and other EVM and non-EVM chains to be announced.
+The **native coin of Onomy Protocol is $NOM.** NOM is used to secure the network through staking, as collateral for the minting of Denoms through the Onomy Reserve (ORES), and for governance in the Onomy DAO.&#x20;
 
-#### Read more about [Application Specific Blockchains](architecture/application-specific-blockchain.md).
+When NOM holders delegate their NOM to a validator, they are _**staking.**_ Staking provides rewards in return for delegating to validators who support the security and operations of a blockchain network.
 
-## Utility Token
+**Read more about expected** [**NOM staking rewards**](validators-staking/incentives-and-staking-rewards.md)**.**
 
-The **native variable asset of the Onomy Protocol is $NOM.** $NOM is used to secure the network through staking, as collateral for the minting of Denoms through the Onomy Reserve (ORES), but also for governance in the Onomy DAO and rewards. The Onomy Decentralized Exchange (ONEX) provides Automatic Market Making price discovery used to rebalance collateral ratios of ORES minting accounts.&#x20;
-
-Onomy Protocol will **incentivize $NOM staking with a dual regime inflationary schedule**. The initial hyperbolic hyper-inflationary period, with a peak reward of 100% ARR inflation, is designed to drive network participants to stake and secure the network. $NOM holders will also earn rewards through transaction fees from both the ONEX and the associated bridge liquidity pools.&#x20;
-
-![](<.gitbook/assets/NOM Utility.PNG>)
+![](<.gitbook/assets/image (18).png>)
 
 ## Stablecoins&#x20;
 
@@ -54,8 +48,6 @@ DAO (Decentralized Autonomous Organization) is an organization represented by ru
 Onomy will be governed by the Onomy DAO**, providing NOM holders with the opportunity to guide the decision-making process through NOM-weighed votes**.&#x20;
 
 DAO-governance of Onomy Protocol includes governance of the Onomy Treasury of Funds, whereby funds are also outside of the control of any central entity. Funds may only be accessed through a successful proposal passed by the Onomy DAO. Not even core contributors will have the keys to the treasury.
-
-
 
 {% hint style="info" %}
 _**DISCLAIMER AND NOTES:** By reading or accessing this documentation in any way you automatically acknowledge having read, understood and accepted any other published and related materials as well. For the avoidance of any doubt, Onomy including but not limited to the overall project, the website, all its software including any smart contracts and apps (“Onomy Platform”) as presented in these documents is a decentralised digital token management platform and it is not (not it is required to be) an actively licensed or regulated or exempted financial, or payment or digital asset service or VASP of any kind and in any jurisdiction. Any terminology used in this documentation, or in general in the Onomy Platform is intended only as a basic reference, without any effective or legal meaning of the same terms in a regulated financial environment, and/or any other regulated framework including but not limited to e-money or payment services. The NOM token is a strictly utility token in any jurisdiction and is not and can not be considered as a security or otherwise a regulated token of any kind, is not in any way e-money and/or a fiat or an asset backed stablecoin, whether global or limited in scope. This document taken by itself is not, nor it can be construed as a contract, an investment contract or a contractual agreement of any kind, it is not an invitation or offer to invest in Onomy or acquire or use its token in any way with any expectation of future profit. Any user of the Onomy Platform declares to have received appropriate technical, administrative, tax and legal advice before and after reading this documentation, the website and using any part of the Onomy Platform (including any tokens therein) and accepts that there is an inherent high risk in acquiring or using any kind of blockchain and/or crypto token, platform, software, interface and acknowledges with full disclaimer for any of the persons or entities mentioned within this documentation or in any way directly or indirectly connected to the Onomy Platform, that there can be any kind of damage suffered, including total loss._
