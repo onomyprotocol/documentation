@@ -39,7 +39,7 @@ Denoms - crypto-collateralized tokens pegged to the value of national currencies
 
 Block rewards will be available for staking Denoms in addition to NOM, both of which are controlled by the percentage of all coins staked with validators. This control variable is decided by the Onomy DAO and directly impacts supply within the market. Adjustments will incentive staking, minting, or burning of Denoms to balance the monetary system.&#x20;
 
-Please see [Denom Stabilization](currency-denominations-denoms/denom-stabilization.md) for more details.
+Please see [Denom Stabilization](app-ecosystem/onomy-reserve.md) for more details.
 
 ## Onomy DAO
 
