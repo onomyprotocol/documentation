@@ -4,6 +4,10 @@ description: Mint stablecoins using NOM as collateral.
 
 # Onomy Reserve
 
+Onomy Protocol aims to facilitate on-chain Forex trading, payments, settlement, remittance, diversification, and DeFi access through decentralized, crypto-collateralized, and non-custodial stablecoins pegged to the value of major world currencies like the USD, EUR, JPY, CHF, CAD, and others.
+
+This is achieved through the Onomy Reserve - by [over-collateralizing each stablecoin minted](https://docs.onomy.io/founding-philosophy/stablecoins-and-collateral) and with the help of peg mechanisms operating in the background, the value of each stablecoin will remain stable relative to its real world counterpart, marking a return to the gold-standard model of collateral.
+
 #### Core Principles
 
 1. **Minimalism:** Institute only the necessary controls to stabilize Denoms
