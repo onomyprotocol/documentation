@@ -8,7 +8,7 @@ description: >-
 
 ![](<.gitbook/assets/black header.png>)
 
-**Onomy Protocol** is a Layer 1 Ecosystem built to converge Forex and decentralized finance, including bridges to prominent chains. Products include a methodical 3-stage rollout of an innovative multi-chain wallet, a DEX supporting an orderbook experience fused with AMM liquidity pools, and a stablecoin issuance protocol.
+**Onomy Protocol** is an interoperable Layer-1 ecosystem built to converge Forex and decentralized finance. Products include a methodical 3-stage rollout of an innovative multi-chain wallet, a DEX supporting an orderbook experience fused with AMM liquidity pools, and a stablecoin issuance protocol.
 
 **Useful Links:**
 
