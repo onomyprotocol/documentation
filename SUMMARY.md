@@ -8,13 +8,13 @@
 
 * [Arc Bridge Hub](app-ecosystem/arc-bridge-hub.md)
 * [Access Wallet (iOS & Android)](app-ecosystem/access-wallet-ios-and-android.md)
-* [Onomy Reserve](app-ecosystem/onomy-reserve.md)
 * [Onomy Exchange (ONEX)](app-ecosystem/onex/README.md)
   * [ONEX EVM & Partners](app-ecosystem/onex/onex-evm-and-partners.md)
+* [Onomy Reserve](app-ecosystem/onomy-reserve.md)
 
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 
-* [What Is NOM?](nom-distribution/what-is-nom.md)
+* [Utility of NOM](nom-distribution/utility-of-nom.md)
 * [Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
 * [BCO API](nom-distribution/api-documentation.md)
 
