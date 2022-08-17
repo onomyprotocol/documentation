@@ -12,7 +12,7 @@ description: >-
 
 **Useful Links:**
 
-[Website](https://onomy.io) - [GitHub](https://github.com/onomyprotocol/) - [Medium](https://medium.com/onomy-protocol) - [Telegram](http://t.me/onomyprotocol) - [Telegram ANN](https://t.me/onomyannouncements) - [Discord](http://discord.gg/27r73SYAkQ) - [Twitter](https://twitter.com/OnomyProtocol) - [CMC](https://coinmarketcap.com/currencies/onomy-protocol/) - [CoinGecko](https://www.coingecko.com/en/coins/onomy-protocol)
+[Website](https://onomy.io/) - [GitHub](https://github.com/onomyprotocol/) - [Medium](https://medium.com/onomy-protocol) - [Telegram](http://t.me/onomyprotocol) - [Telegram ANN](https://t.me/onomyannouncements) - [Discord](http://discord.gg/27r73SYAkQ) - [Twitter](https://twitter.com/OnomyProtocol) - [CMC](https://coinmarketcap.com/currencies/onomy-protocol/) - [CoinGecko](https://www.coingecko.com/en/coins/onomy-protocol)
 
 ## Onomy Core Pillars
 

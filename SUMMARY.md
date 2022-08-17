@@ -10,7 +10,7 @@
   * [ONEX EVM & Partners](app-ecosystem/onex/onex-evm-and-partners.md)
 * [Onomy Access Wallet](app-ecosystem/onomy-access-wallet.md)
 * [Onomy Reserve](app-ecosystem/onomy-reserve.md)
-* [Onomy Bridge Hub](app-ecosystem/onomy-bridge-hub.md)
+* [Arc Bridge Hub](app-ecosystem/arc-bridge-hub.md)
 
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 
