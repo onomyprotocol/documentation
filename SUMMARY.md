@@ -6,11 +6,11 @@
 
 ## App Ecosystem
 
+* [Arc Bridge Hub](app-ecosystem/arc-bridge-hub.md)
+* [Access Wallet (iOS & Android)](app-ecosystem/access-wallet-ios-and-android.md)
+* [Onomy Reserve](app-ecosystem/onomy-reserve.md)
 * [Onomy Exchange (ONEX)](app-ecosystem/onex/README.md)
   * [ONEX EVM & Partners](app-ecosystem/onex/onex-evm-and-partners.md)
-* [Onomy Access Wallet](app-ecosystem/onomy-access-wallet.md)
-* [Onomy Reserve](app-ecosystem/onomy-reserve.md)
-* [Arc Bridge Hub](app-ecosystem/arc-bridge-hub.md)
 
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 

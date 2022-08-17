@@ -11,7 +11,7 @@ This is achieved through the Onomy Reserve - by [over-collateralizing each stabl
 #### Core Principles
 
 1. **Minimalism:** Institute only the necessary controls to stabilize Denoms
-2. **Constraint:** Base-layer virtual currency stabilization protocol, deploying no securities or contracts as defined by the SEC or CFTC
+2. **Constraint:** Base-layer virtual currency stabilization protocol, deploying no securities or contracts as defined by the SEC
 3. **Closed Loop:** No outside oracles. All economic control requiring information derived from outside information will be voted on by NOM holders
 4. **Separation of Concerns:** Network staking with ONET for security purposes is separated from the market stabilization of Denom
 
@@ -29,7 +29,7 @@ This is achieved through the Onomy Reserve - by [over-collateralizing each stabl
 
 **Collateral Liquidation Fee (CLF):** The collateral liquidation fee will be imposed upon any ORES accounts that are triggered for liquidation. After the balance of the Denoms is purchased with NOM in the defaulted account, an additional percentage of the NOM, determined by a vote of the NOM holders, will be deducted from the defaulted reserve balance before returning the account in good standing to the owner. NOM collected from CLF will be burned, distributing the value to all NOM holders by reducing the circulating supply.&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 When combined, these controls give a simple, yet robust way of managing deviations from parity as well as collateral risks. Because Onomy is a single-collateral and multi-stablecoin protocol, each Denom will have its own unique RR to cope with fluctuating market conditions across the multiple represented currencies. Since MCR and RCR are managing collateralization risk, RCR is applied equally no matter the Denom or instrument backed by ORES-generated NOM. All three controls are governed by staked node operators requiring no outside oracles for the system to function. Working groups will be established to suggest rates and build integrated services as part of the default node implementation based on market data feeds. Controls will then be voted on and decided through a Byzantine-tolerant averaging algorithm.
 

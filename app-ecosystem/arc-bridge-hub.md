@@ -6,9 +6,7 @@ description: Empowering an enhanced cross-chain experience.
 
 Arc is a hub-and-spoke model bridge that enables users to transfer tokens from an integrated chain to Onomy and back again by locking up tokens on integrated chain side, and minting equivalent tokens on the Onomy side. Arc is completely non-custodial, you only need to trust in the security of the Onomy chain itself - not some third party bridge administrators who could run off with your funds. The security of the Onomy chain, and thus Arc, is through the Onomy Validator Guild (OVG) which is comprised of a decentralized network of globally situated independent validator firms. Learn more about the criteria to join as a validator [here](../validators-staking/onomy-validator-guild-ovg.md).\
 \
-Arc integrates chains such as Avalanche, Aurora, Polygon, Moonbeam and others to create a more inclusive multi-chain DeFi hub. Arc pairs with the Onomy ecosystem of applications including the Onomy Exchange (hybrid orderbook + AMM DEX) and Onomy Access (multi-chain mobile wallet application) + more as the Onomy Ecosystem grows.\
-\
-The Arc Bridge Hub code repository can be found [here](https://github.com/onomyprotocol/arc).
+Arc integrates chains such as Avalanche, Aurora, Polygon, Moonbeam and others to create a more inclusive multi-chain DeFi hub. Arc pairs with the Onomy ecosystem of applications including the Onomy Exchange (hybrid orderbook + AMM DEX) and Onomy Access (multi-chain mobile wallet application) + more as the Onomy Ecosystem grows.
 
 ### Mint & Burn Mechanism
 
@@ -82,4 +80,4 @@ The **MultiSig Set** is a (possibly aged) mirror of the _Validator Set_ but with
 
 ### History
 
-Onomy Arc is a bridge extended from AltheaNet's Gravity Bridge that was designed to run on the [Cosmos SDK blockchains](https://github.com/cosmos/cosmos-sdk) like the [Cosmos Hub](https://github.com/cosmos/gaia) focused on maximum design simplicity and efficiency. While initially a Cosmos <-> Ethereum bridge, Onomy has extended Gravity Bridge functionality, integrated chains, performance, and security with Arc. Additional functionality and integrations are audited by NCC Group.
+Onomy Arc is a bridge extended from AltheaNet's Gravity Bridge that was designed to run on the [Cosmos SDK blockchains](https://github.com/cosmos/cosmos-sdk) like the [Cosmos Hub](https://github.com/cosmos/gaia) focused on maximum design simplicity and efficiency. While initially a Cosmos <-> Ethereum bridge, Onomy has extended Gravity Bridge functionality, integrated chains, performance, and security with Arc. Additional functionality and integrations are audited by NCC Group. The Arc Bridge Hub code repository containing additional documentation can be found [here](https://github.com/onomyprotocol/arc).
