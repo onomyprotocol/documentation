@@ -42,7 +42,7 @@ Given the high demand expressed by partner groups (with over 150+ active validat
 \
 **Validator Grants & Delegation**\
 \
-Validators may receive grants to assure the latest system specs are used, and to subsidize related costs to uphold performance required for the sustainability of the Onomy Network. Delegations may also be provided to enhance voting power distribution.&#x20;
+Validators may receive grants from the DAO treasury to assure the latest system specs are used, and to subsidize related costs to uphold performance required for the sustainability of the Onomy Network. Treasury tokens will be delegated based on a validator's self-bond amount in relation to the total self-bonded across all validators. Rather than a centrally-controlled Foundation controlling the keys to the treasury, and thus controlling delegations, the treasury exists in a DAO-governed on-chain wallet that programmatically rebalances delegations based on on-chain self-bond metrics.
 
 ### OVG Interest Form
 

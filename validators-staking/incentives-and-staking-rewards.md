@@ -1,4 +1,4 @@
-# Incentives & Rewards
+# Incentives & Staking Rewards
 
 {% hint style="info" %}
 _Staking provides rewards in return for delegating to validators who support the security and operations of a blockchain network._ _Note that staking rewards are calculated and distributed based on a predetermined protocol-level monetary policy regarding inflationary mechanics and are not to be construed as a form of dividends or interest paid on debt. Staking rewards are distributed in additional NOM added to supply._
@@ -30,6 +30,7 @@ Validators earn more revenue than their delegators through commission.
 * **Staking Rewards:** Detailed above, plus validators earn more revenue than their delegators through commission.&#x20;
 * **Product Rewards:** The Onomy Exchange, Onomy Reserve, and Onomy Bridge Hub each will uniquely have additional rewards for validators. Details will be added to documentation.
 * **Compute fees (gas)**: To prevent spamming, validators can set minimum gas fees for transactions to be included in their mempool. At the end of every block, compute fees are disbursed to the participating validators proportional to their stake.
+* **Delegation:** Treasury tokens will be delegated based on a validator's self-bond amount in relation to the total self-bonded across all validators. Rather than a centrally-controlled Foundation controlling the keys to the treasury, and thus controlling delegations, the treasury exists in a DAO-governed on-chain wallet that programmatically rebalances delegations based on on-chain self-bond metrics.
 * [_Learn more about becoming a validator_](onomy-validator-guild-ovg.md)__
 
 ### What is a validator’s commission?
