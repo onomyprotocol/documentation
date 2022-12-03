@@ -38,3 +38,16 @@ The [Arc Bridge Hub](../app-ecosystem/arc-bridge-hub.md) will require users to p
 The Onomy Exchange's AMM earnings are dispersed in two ways. Firstly, to pay the respective portion of AMM earnings to liquidity providers. Second, to purchase NOM and then burn the purchased NOM from the supply. \
 \
 This functionality is incentivized by providing a programmatic reward to any user who executes the buy and burn function - thus decentralizing this action and creating a competitive market amongst users to execute the function to receive the reward. Onomy carries no central management of this function.
+
+## $NOM Tokenomics <a href="#2794" id="2794"></a>
+
+The Onomy Network has a genesis supply of 100M NOM, distributed as such:
+
+* 45% in on-chain Treasury managed by DAO
+* 20% Ecosystem to support market makers, validators, exchange listings, incentives, and more
+* 20% to Early Backers and Partners
+* 15% Team and Advisory
+
+Backer, team, and advisor tokens are vested for 24–36 months, with a 12 month cliff, whereas DAO tokens are only usable following successful DAO governance votes, with the system programmatically funding proposals when approved, with no central key management by any Onomy contributor.
+
+The $NOM supply will increase from [inflationary rewards](https://docs.onomy.io/validators-staking/incentives-and-staking-rewards) and bridges from the [bonding curve](https://docs.onomy.io/nom-distribution/bonding-curve-offering).

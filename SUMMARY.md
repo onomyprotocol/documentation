@@ -15,7 +15,7 @@
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 
 * [Utility of NOM](nom-distribution/utility-of-nom.md)
-* [Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
+* [NOM's Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
 * [BCO API](nom-distribution/api-documentation.md)
 
 ## Architecture
@@ -29,6 +29,7 @@
 * [Incentives & Staking Rewards](validators-staking/incentives-and-staking-rewards.md)
 * [Transaction Fees (Gas)](validators-staking/transaction-fees-gas.md)
 * [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
+* [Testnet Guide](validators-staking/testnet-guide.md)
 
 ## Run a Full Node
 
