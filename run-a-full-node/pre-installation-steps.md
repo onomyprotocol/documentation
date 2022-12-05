@@ -29,9 +29,9 @@ $HOME
 
 1. Download the bin.sh script\
    \
-   `wget https://raw.githubusercontent.com/onomyprotocol/onomy/dev/deploy/testnet/scripts/bin.sh`
-2. Add the executable permission using `chmod +x bin.sh`
-3. Run the script using `bash bin.sh`
+   `wget https://raw.githubusercontent.com/onomyprotocol/onomy/main/deploy/scripts/bin-mainnet.sh`
+2. Add the executable permission using `chmod +x bin-mainnet.sh`
+3. Run the script using `bash bin-mainnet.sh`
 4. Restart terminal so changes made in environment can take effect
 
 This script downloads and compiles Onomy binary. A new directory `.onomy` will be created in your home directory. All the source code will be downloaded in the `.onomy/src` directory. Compiled binary will be in `.onomy/bin` directory.
