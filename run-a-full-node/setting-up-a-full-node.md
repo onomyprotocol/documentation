@@ -4,10 +4,10 @@
 
 Minimum system requirements:
 
-* A Linux server with any modern Linux distribution,
+* Any modern Linux distribution (RHEL 8 or Fedora 36 are preferred)
 * A quad-core CPU
-* 8 GB of RAM
-* 20GB of storage
+* 16 GB of RAM
+* 320 GB of storage
 
 Make sure you have gone through [Installation Steps](pre-installation-steps.md) prior to setting up a node.
 
