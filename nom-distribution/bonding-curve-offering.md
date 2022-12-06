@@ -53,6 +53,14 @@ The staking rewards incentivize _bNOM_ on the bonding curve to bridge into _NOM,
 
 The bonding curve is perpetual until all 100M _bNOM_ are issued. Thus, an arbitrage opportunity may appear from time to time as the _NOM_ price on exchanges exceeds that of _bNOM_ on the bonding curve. A potential arbitrager will purchase _bNOM_, bridge to _NOM_, and send to exchanges. This incentive will further drive positive feedback mechanisms driving value, community, and adoption of _NOM,_ as more _bNOM_ is minted at more valuable prices and then bridged.
 
+## Audits
+
+{% file src="../.gitbook/assets/NCC_Group_Onomy_LLC_CustomerFacingDocument-4-23-21.pdf" %}
+All findings were fixed and three informational findings were accepted.&#x20;
+{% endfile %}
+
+##
+
 ## Legal Disclaimer
 
 {% hint style="info" %}
