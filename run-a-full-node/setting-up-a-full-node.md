@@ -26,7 +26,13 @@ wget https://raw.githubusercontent.com/onomyprotocol/onomy/main/deploy/scripts/s
 
 2\. Add executable permissions to the scripts using `chmod +x *`
 
-3\. Run init-mainnet-full-node.sh script to initiate a new full node
+3\. Download genesis file
+
+```
+wget https://raw.githubusercontent.com/onomyprotocol/onomy/main/genesis/mainnet/genesis-mainnet-1.json
+```
+
+4\. Run init-mainnet-full-node.sh script to initiate a new full node
 
 `bash init-mainnet-full-node.sh`
 
