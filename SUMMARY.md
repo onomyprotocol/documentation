@@ -16,7 +16,6 @@
 
 * [Utility of NOM](nom-distribution/utility-of-nom.md)
 * [NOM's Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
-* [BCO API](nom-distribution/api-documentation.md)
 
 ## Architecture
 
