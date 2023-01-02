@@ -8,8 +8,7 @@
 
 * [Arc Bridge Hub](app-ecosystem/arc-bridge-hub.md)
 * [Access Wallet (iOS & Android)](app-ecosystem/access-wallet-ios-and-android.md)
-* [Onomy Exchange (ONEX)](app-ecosystem/onex/README.md)
-  * [ONEX EVM & Partners](app-ecosystem/onex/onex-evm-and-partners.md)
+* [Onomy Exchange (ONEX)](app-ecosystem/onex.md)
 * [Onomy Reserve](app-ecosystem/onomy-reserve.md)
 
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
@@ -28,7 +27,6 @@
 * [Incentives & Staking Rewards](validators-staking/incentives-and-staking-rewards.md)
 * [Transaction Fees (Gas)](validators-staking/transaction-fees-gas.md)
 * [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
-* [Testnet Guide](validators-staking/testnet-guide.md)
 
 ## Run a Full Node
 
@@ -41,7 +39,6 @@
 * [Concepts](governance/concepts.md)
 * [Parameters](governance/parameters.md)
 * [How to Use Governance](governance/how-to-use-governance.md)
-* [Treasury Management](governance/treasury-management.md)
 
 ## Founding Philosophy
 
@@ -59,4 +56,3 @@
 ## Contributors
 
 * [Joining Onomy](contributors/joining-onomy.md)
-* [Partnerships](contributors/proposals.md)

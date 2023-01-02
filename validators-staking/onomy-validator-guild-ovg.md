@@ -12,9 +12,7 @@ Validators support The Onomy Network (ONET), our layer-1 blockchain built with C
 
 ### How do I become a validator?
 
-**Given that validators must validate for the Onomy Network and operate nodes for bridges chains, the active validator set during testnets and betanet will be limited to assure stability of the network and methodical expansion of the set.** \
-\
-Any participant in the network meeting the criteria can signal their intent to become a validator by first filling out the [OVG Form](onomy-validator-guild-ovg.md#ovg-interest-form). The process then entails creating a validator and registering its validator profile. The candidate then broadcasts a `create-validator` transaction, which contains the following data:
+Any individual or entity may become a validator by first obtaining the minimum self-bond requirement of 250,000 NOM. The process then entails creating a validator and registering its validator profile. The candidate then broadcasts a `create-validator` transaction, which contains the following data:
 
 * **PubKey:** Validator operators can have different accounts for validating and holding liquid funds. The PubKey submitted must be associated with the private key the validator will use to sign _prevotes_ and _precommits_.
 * **Address:** A `onomyvaloper-` address. This is the address used to identify your validator publicly. The private key associated with this address is used to bond, unbond, and claim rewards.
@@ -36,10 +34,16 @@ Validators interested in applying must hold servers that match or exceed the fol
 * 32 core EPYC, 256GB of RAM, 5TB enterprise SSD
 * 10 GBPS dedicated internet connection
 
-#### Minimum NOM Stake for Validators <a href="#c05b" id="c05b"></a>
+#### Operations
 
-Given the high demand expressed by partner groups (with over 150+ active validators on testnet), our plans for long-term collaboration, and the inherent performance needs of the Onomy Network, _**the minimum self-bond NOM stake per validator group is 250,000 NOM**_.\
-\
+Validators run the following:&#x20;
+
+* A validator node (including an Onomy Network full node)
+* Full node for all integrated bridges to the Arc Bridge Hub
+* Required bridges/orchestrators
+* Optional sentry nodes, seed nodes, statesync nodes
+* Full nodes for all chains will require significant storage capacity. ETH Mainnet alone recommends 1TB.&#x20;
+
 **Validator Grants & Delegation**\
 \
 Validators may receive grants from the DAO treasury to assure the latest system specs are used, and to subsidize related costs to uphold performance required for the sustainability of the Onomy Network. Treasury tokens will be delegated based on a validator's self-bond amount in relation to the total self-bonded across all validators. Rather than a centrally-controlled Foundation controlling the keys to the treasury, and thus controlling delegations, the treasury exists in a DAO-governed on-chain wallet that programmatically rebalances delegations based on on-chain self-bond metrics.

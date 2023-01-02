@@ -18,26 +18,17 @@ Onomy has taken this a step further by integrating new functionality to the gove
 
 ## Collateral
 
-NOM is the single collateral to Onomy's Denom stablecoins. Upon locking the token into the Onomy Reserve, users may easily mint Denoms pegged to the world’s major currencies. Documentation on the minting and peg mechanism will be released [here](../app-ecosystem/onomy-reserve.md). Stablecoin minting will be a latter stage of Onomy's vertically integrated ecosystem to assure sufficient liquidity amongst a wide set of users and partner blockchain ecosystems.
-
-#### Properties of NOM as Perfect Collateral
-
-* **Malleable:** Ability to mint any denomination of a stabilized virtual currency
-* **Scarce:** Predefined release into circulating supply and burning of supply
-* **Transferable:** Transactions on the Onomy Network finalize near instantaneously
-* **Durable:** Secure decentralized system capable of self-stabilizing from attacks
-* **Verifiable:** Anonymous accounts are publicly verifiable on the network
-* **Fair:** Transactions are ordered by which arrives at the most nodes first
+NOM is a collateral type to Onomy's Denom stablecoins. Upon locking the token into the Onomy Reserve, users may easily mint Denoms pegged to the world’s major currencies.
 
 ## **Bridge Fees**
 
-The [Arc Bridge Hub](../app-ecosystem/arc-bridge-hub.md) will require users to pay for their bridge transaction in NOM.
+The [Arc Bridge Hub](../app-ecosystem/arc-bridge-hub.md) requires users to pay for their bridge transaction in NOM.
 
 ## **Buy & Burn from AMM Earnings**
 
-The Onomy Exchange's AMM earnings are dispersed in two ways. Firstly, to pay the respective portion of AMM earnings to liquidity providers. Second, to purchase NOM and then burn the purchased NOM from the supply. \
+The Onomy Exchange's AMM earnings are dispersed in two ways. Firstly, to pay the respective portion of AMM earnings to liquidity providers. Second, to programmatically purchase NOM and then burn the purchased NOM from the supply. This is done with no management by any central party, nor the DAO.\
 \
-This functionality is incentivized by providing a programmatic reward to any user who executes the buy and burn function - thus decentralizing this action and creating a competitive market amongst users to execute the function to receive the reward. Onomy carries no central management of this function.
+This functionality is incentivized by providing a programmatic reward to any user who executes the buy and burn function - thus decentralizing this action and creating a competitive market amongst users to execute the function to receive the reward.&#x20;
 
 ## $NOM Tokenomics <a href="#2794" id="2794"></a>
 
@@ -48,6 +39,6 @@ The Onomy Network has a genesis supply of 100M NOM, distributed as such:
 * 20% to Early Backers and Partners
 * 15% Team and Advisory
 
-Backer, team, and advisor tokens are vested for 24–36 months, with a 12 month cliff, whereas DAO tokens are only usable following successful DAO governance votes, with the system programmatically funding proposals when approved, with no central key management by any Onomy contributor.
+Backer, team, and advisor tokens are vested for 24–36 months linearly each month, with a 12 month cliff. DAO treasury tokens are only usable following successful DAO governance votes, with the system programmatically funding proposals when approved, with no central key management by any Onomy contributor.
 
 The $NOM supply will increase from [inflationary rewards](https://docs.onomy.io/validators-staking/incentives-and-staking-rewards) and bridges from the [bonding curve](https://docs.onomy.io/nom-distribution/bonding-curve-offering).

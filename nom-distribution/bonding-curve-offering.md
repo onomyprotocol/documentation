@@ -1,11 +1,5 @@
 # NOM's Bonding Curve Offering (BCO)
 
-## Launching: 6th of December, 3pm UTC
-
-**Onomy's Bonding Curve is launching on the 6th of December.**
-
-**Trading will be enabled at 3pm UTC.**&#x20;
-
 **Be mindful that the ONLY OFFICIAL LINK AND CONTRACT ADDRESS ARE:**&#x20;
 
 **Link:** [**https://bco.onomy.io/**](https://bco.onomy.io/)****
@@ -16,21 +10,21 @@
 
 ## Definition
 
-Bonding curves are cryptoeconomic token models that automate the relationship between price and supply. The tokens in this model are referred to as Continuous Tokens because their price is continuously calculated. In continuous token models, there is no ICO or token launch. Instead of pre-selling tokens during a launch phase, the tokens are minted continuously over time via an automated market maker contract. Tokens are minted when purchased as needed, in conjunction with demand, and used within the protocol or application when required or desired.
-
-Continuous Tokens have other properties such as instant liquidity and deterministic price. Bonding curves act as an automated market maker such that token buyers and sellers have an instant market. Additionally, bonding curve models don’t have central authorities responsible for issuing the tokens. Instead, users can buy a project’s token through a smart contract platform. The cost to buy these tokens is determined by the supply of those tokens. Unlike traditional models, the cost of these tokens increases as the supply increases. This price is determined by a pre-existing algorithm, further described below. A fee of 1% is applied per trade with the bonding curve.\
+Bonding curves are cryptoeconomic token models that automate the relationship between price and supply. \
+\
+It is a decentralized automated market maker that is on-chain and liqudity within the automated market maker cannot be controled by any central entity. The code cannot be adjusted after its deployment, either. The tokens in this model are referred to as Continuous Tokens because their price is continuously calculated. In continuous token models, there is no ICO or token launch. Instead of pre-selling tokens during a launch phase, the tokens are minted continuously over time via an automated market maker contract. Tokens are minted when purchased as needed, in conjunction with demand, and used within the protocol or application when required or desired.Continuous Tokens have other properties such as instant liquidity and deterministic price. Bonding curves act as an automated market maker such that token buyers and sellers have an instant market. Additionally, bonding curve models don’t have central authorities responsible for issuing the tokens. Instead, users can buy a project’s token through a smart contract platform. The cost to buy these tokens is determined by the supply of those tokens. Unlike traditional models, the cost of these tokens increases as the supply increases. This price is determined by a pre-existing algorithm, further described below. A fee of 1% is applied per trade with the bonding curve.\
 \
 The Bonding Curve Contract has been audited by NCC Group, an enterprise-level cybersecurity firm headquartered in the United Kingdom.
 
 ## bNOM to NOM Distribution
 
-The Onomy Protocol token (_**NOM**_) is primarily distributed through a bonding curve contract deployed on the Ethereum Network where bondingNOM (_**bNOM**_) tokens are purchased that are bridged 1:1 for _NOM_ on the Onomy Network. _NOM_ is the native utility token of the Onomy Network. An interface will be provided for this exchange, commonly referenced as "bridging" b_NOM_ tokens from Ethereum and into the Onomy ecosystem for _NOM_. When bridged, b_NOM_ is burned from the bonding curve, setting a new floor price of the bonding curve, and an equivalent amount of _NOM_ is issued on the Onomy Network.
+The Onomy Protocol token (_**NOM**_) is primarily distributed through a bonding curve contract deployed on the Ethereum Network where bondingNOM (_**bNOM**_) tokens are purchased that are bridged 1:1 for _NOM_ on the Onomy Network. _NOM_ is the native utility token of the Onomy Network. An interface is provided for this exchange at [bco.onomy.io](https://bco.onomy.io) - commonly referenced as "bridging" b_NOM_ tokens from Ethereum and into the Onomy ecosystem for _NOM_. When bridged, b_NOM_ is burned from the bonding curve, setting a new floor price of the bonding curve, and an equivalent amount of _NOM_ is provided on the Onomy Network.
 
 The following is the equation governing the bonding curve:
 
 ![](<../.gitbook/assets/image (6).png>)
 
-100,000,000 is the supply of _bNOM_ loaded into the bonding curve. Supply is issued as it is purchased, thereby acting as a minting mechanism over time.
+100,000,000 is the supply of _bNOM_ loaded into the bonding curve. Supply is provided as it is purchased, thereby acting as a minting mechanism over time. The emmission of tokens requires significant capital to prevent over-dilution of the NOM circulating supply.
 
 ![](<../.gitbook/assets/image (7).png>)
 
@@ -64,9 +58,9 @@ All findings were fixed and three informational findings were accepted.&#x20;
 ## Legal Disclaimer
 
 {% hint style="info" %}
-_Nothing in this post shall constitute or be construed as an offer to sell or the solicitation of an offer to purchase any securities. Nothing in this post shall be construed as investment advice, strategy, or investment recommendations by Onomy or any of its affiliates. This post is for informational purposes only._
+_Nothing in this post shall constitute or be construed as an offer to sell or the solicitation of an offer to purchase any securities. Nothing in this post shall be construed as investment advice, strategy, or investment recommendations by the Onomy DAO or any of its contributors and their affiliates. This post is for informational purposes only._
 
-_This communication may contain forward-looking statements that are based on Onomy’s beliefs and assumptions based on information currently available to Onomy. In some cases, you can identify forward-looking statements by the following words: “will,” “expect,” “would,” “intend,” “believe,” "anticipate," or other comparable terminology.These statements involve risks, uncertainties, assumptions, and other factors that may cause actual results or performance to be materially different. Onomy cannot assure you that the forward-looking statements will prove to be accurate. These forward-looking statements speak only as of the date hereof. Onomy disclaims any obligation to update these forward-looking statements._
+_This communication may contain forward-looking statements that are based on beliefs and assumptions based on information currently available. In some cases, you can identify forward-looking statements by the following words: “will,” “expect,” “would,” “intend,” “believe,” "anticipate," or other comparable terminology. These statements involve risks, uncertainties, assumptions, and other factors that may cause actual results or performance to be materially different. Onomy DAO, its contributors, or any of their affiliates cannot assure you that the forward-looking statements will prove to be accurate. These forward-looking statements speak only as of the date hereof. Onomy DAO, its contributors, or any of their affiliatesdisclaims any obligation to update these forward-looking statements._
 {% endhint %}
 
 ### Risk Disclosure
@@ -74,5 +68,5 @@ _This communication may contain forward-looking statements that are based on Ono
 {% hint style="info" %}
 _The Bonding Curve Automated Market Maker is a decentralized protocol that people can use to create liquidity and trade bNOM tokens, as well as convert bNOM (ERC-20) for NOM tokens on the Onomy Network one-for-one. Your use of the Bonding Curve Contract and its Platform involves various risks, including, but not limited to, losses due to the fluctuation of prices of tokens in a trading pair or smart contract vulnerabilities. You are responsible for doing your own diligence on those interfaces to understand the fees and risks they present._
 
-_THE BONDING CURVE CONTRACT AND PLATFORM IS PROVIDED "AS IS", AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND. Although NOM LABS LIMITED developed the code, it does not provide, own, or control the Bonding Curve Contract or Platform, which is run by smart contracts deployed on the blockchain. No developer or entity involved in creating the Bonding Curve Contract or Platform will be liable for any claims or damages whatsoever associated with your use, inability to use, or your interaction with other users of, the Bonding Curve Contract or Platform, including any direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits, cryptocurrencies, tokens, or anything else of value._
+_THE BONDING CURVE CONTRACT AND PLATFORM IS PROVIDED "AS IS", AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND. Although PENDULUM LABS LIMITED developed the code, it does not provide, own, or control the Bonding Curve Contract or Platform, which is run by smart contracts deployed on the blockchain. No developer or entity involved in creating the Bonding Curve Contract or Platform will be liable for any claims or damages whatsoever associated with your use, inability to use, or your interaction with other users of, the Bonding Curve Contract or Platform, including any direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits, cryptocurrencies, tokens, or anything else of value._
 {% endhint %}
