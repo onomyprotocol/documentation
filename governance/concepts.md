@@ -20,17 +20,17 @@ Any NOM holder, whether bonded or unbonded, can submit proposals by sending a `T
 
 In the initial version of the governance module, there are five types of proposals:
 
-* `TextProposal` All the proposals that do not involve a modification of the source code go under this type. For example, an opinion poll would use a proposal of type `TextProposal`.
-* `SoftwareUpgradeProposal`. If accepted, validators are expected to update their software in accordance with the proposal. They must do so by following a 2-steps process described in the Software Upgrade section below. Software upgrade roadmap may be discussed and agreed on via `TextProposals`, but actual software upgrades must be performed via `SoftwareUpgradeProposals`.
-* `CommunityPoolSpendProposal` details a proposal for use of community funds, together with how many coins are proposed to be spent, and to which recipient account.
-* `ParameterChangeProposal` defines a proposal to change one or more parameters. If accepted, the requested parameter change is updated automatically by the proposal handler upon conclusion of the voting period.
-* `CancelSoftwareUpgradeProposal` is a gov Content type for cancelling a software upgrade.
+* `TextProposal:` Proposals that do not incur any technical changes or community funding. These are generally recommended for defining Onomy’s next course of action, future releases, partnerships, and more, acting as a public opinion poll on certain matters important to the protocol.&#x20;
+* `SoftwareUpgradeProposal:` If accepted, validators are expected to update their software in accordance with the proposal. They must do so by following a 2-steps process described in the Software Upgrade section below. Software upgrade roadmap may be discussed and agreed on via `TextProposals`, but actual software upgrades must be performed via `SoftwareUpgradeProposals`.
+* `FundingProposal:`Typically used to fund 3rd party entities that would like to build/deploy onto Onomy, run activities on the ground, or become contributors. FundingProposals must include details on how the assets issued will be spent, the goals to be achieved, and which account should be credited via the on-chain treasury. A successful vote brings instant funding via the on-chain wallet, with no involvement from any contributor.&#x20;
+* `ParameterChangeProposal:D`efines a proposal to change one or more parameters. If accepted, the requested parameter change is updated automatically by the proposal handler upon conclusion of the voting period.
+* `CancelSoftwareUpgradeProposal:` Is a gov Content type for cancelling a software upgrade.
 
 Other modules may expand upon the governance module by implementing their own proposal types and handlers. These types are registered and processed through the governance module (eg. `ParamChangeProposal`), which then execute the respective module's proposal handler when a proposal passes. This custom handler may perform arbitrary state changes.
 
 ### # Deposit <a href="#deposit" id="deposit"></a>
 
-To prevent spam, proposals must be submitted with a deposit in the coins defined in the `MinDeposit` param. The voting period will not start until the proposal's deposit equals `MinDeposit`.
+To prevent spam, proposals must be submitted with a deposit in $NOM, as defined in the `MinDeposit` param. The voting period will not start until the proposal's deposit equals `MinDeposit`.
 
 When a proposal is submitted, it has to be accompanied by a deposit that must be strictly positive, but can be inferior to `MinDeposit`. The submitter doesn't need to pay for the entire deposit on their own. If a proposal's deposit is inferior to `MinDeposit`, other token holders can increase the proposal's deposit by sending a `Deposit` transaction. The deposit is kept in an escrow in the governance `ModuleAccount` until the proposal is finalized (passed or rejected).
 
@@ -58,7 +58,7 @@ This does not prevent _participant_ to vote with NOM bonded to other validators.
 
 #### # Voting period <a href="#voting-period" id="voting-period"></a>
 
-Once a proposal reaches `MinDeposit`, it immediately enters `Voting period`. We define `Voting period` as the interval between the moment the vote opens and the moment the vote closes. `Voting period` should always be shorter than `Unbonding period` to prevent double voting. The initial value of `Voting period` is 2 weeks.
+Once a proposal reaches `MinDeposit`, it immediately enters `Voting period`. We define `Voting period` as the interval between the moment the vote opens and the moment the vote closes. `Voting period` should always be shorter than `Unbonding period` to prevent double voting. The initial value of `Voting period` is 2 days.
 
 #### # Option set <a href="#option-set" id="option-set"></a>
 
@@ -77,6 +77,14 @@ The initial option set includes the following options:
 
 Quorum is defined as the minimum percentage of voting power that needs to be casted on a proposal for the result to be valid.
 
+#### # Weighted Votes <a href="#quorum" id="quorum"></a>
+
+ADR-037 introduces the weighted voting feature, which allows a staker to divide their votes among multiple options. For example, they may choose to allocate 70% of their voting power to vote Yes and 30% to vote No.
+
+It is common for the entity owning an address to be made up of multiple individuals, such as a company with various stakeholders who may have different voting preferences. Currently, it is not possible for these stakeholders to pass their voting rights to their tokens through "passthrough voting." However, with the weighted voting feature, exchanges can poll their users for their voting preferences and then cast votes on the blockchain in proportion to the results of the poll.
+
+For a weighted vote to be valid, the options field must not contain duplicate vote options, and the sum of weights of all options must be equal to 1.
+
 #### # Threshold <a href="#threshold" id="threshold"></a>
 
 Threshold is defined as the minimum proportion of `Yes` votes (excluding `Abstain` votes) for the proposal to be accepted.
@@ -92,11 +100,11 @@ If a delegator does not vote, it will inherit its validator vote.
 
 #### # Validator’s punishment for non-voting <a href="#validator-s-punishment-for-non-voting" id="validator-s-punishment-for-non-voting"></a>
 
-At present, validators are not punished for failing to vote.
+At present, validators are not punished for not voting.
 
 #### # Governance address <a href="#governance-address" id="governance-address"></a>
 
-Later, we may add permissioned keys that could only sign txs from certain modules. For the MVP, the `Governance address` will be the main validator address generated at account creation. This address corresponds to a different PrivKey than the Tendermint PrivKey which is responsible for signing consensus messages. Validators thus do not have to sign governance transactions with the sensitive Tendermint PrivKey.
+Later, permissioned keys that could only sign txs from certain modules may be added. For the MVP, the `Governance address` will be the main validator address generated at account creation. This address corresponds to a different PrivKey than the Tendermint PrivKey which is responsible for signing consensus messages. Validators thus do not have to sign governance transactions with the sensitive Tendermint PrivKey.
 
 ### # Software Upgrade <a href="#software-upgrade" id="software-upgrade"></a>
 

@@ -39,6 +39,8 @@
 
 * [Overview](governance/overview.md)
 * [Concepts](governance/concepts.md)
+* [Parameters](governance/parameters.md)
+* [How to Use Governance](governance/how-to-use-governance.md)
 * [Treasury Management](governance/treasury-management.md)
 
 ## Founding Philosophy
