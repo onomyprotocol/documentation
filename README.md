@@ -40,7 +40,7 @@ When NOM holders delegate their NOM to a validator, they are _**staking.**_ Stak
 
 DAO (Decentralized Autonomous Organization) is an organization represented by rules encoded as a transparent computer program, controlled by the organization members, and not influenced by a central governing entity. As the rules are embedded into the code, no managers are needed, thus removing any bureaucracy or hierarchy hurdles.
 
-Onomy will be governed by the Onomy DAO**, providing NOM holders with the opportunity to guide the decision-making process through NOM-weighed votes**. \
+Onomy is governed by the Onomy DAO**, providing NOM holders with the opportunity to guide the decision-making process through NOM-weighed votes**. \
 \
 Examples of items the Onomy DAO vote on include:
 
