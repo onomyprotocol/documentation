@@ -26,7 +26,7 @@ The [Arc Bridge Hub](../app-ecosystem/arc-bridge-hub.md) requires users to pay f
 
 ## **Buy & Burn from AMM Earnings**
 
-The Onomy Exchange's AMM earnings are dispersed in two ways. Firstly, to pay the respective portion of AMM earnings to liquidity providers. Second, to programmatically purchase NOM and then burn the purchased NOM from the supply. This is done with no management by any central party, nor the DAO.\
+The Onomy Exchange's AMM earnings are used in two ways. Firstly, to pay the respective portion of AMM earnings to liquidity providers. Second, to programmatically purchase NOM and then burn the purchased NOM from the supply. This is done with no management by any central party, nor the DAO.\
 \
 This functionality is incentivized by providing a programmatic reward to any user who executes the buy and burn function - thus decentralizing this action and creating a competitive market amongst users to execute the function to receive the reward.&#x20;
 
