@@ -24,7 +24,7 @@ Onomy consists of five pillars designed to be a self-governed monetary stabiliza
 
 * **Onomy Network:** An application specific Layer 1 blockchain leveraging Tendermint BFT consensus, built with the Cosmos SDK.
 * **Arc Bridge Hub:** Powers bi-directional bridges to prominent blockchains in and outside of the Cosmos ecosystem - such as IBC enabled chains and Avalanche, Polygon, Moonbeam, etc.
-* **Onomy Exchange (ONEX):** A decentralized exchange that aims to replicate a traditional centralized exchange experience to settle the world's high-volume demands on-chain, decentralized, and non-custodially. It combines AMM Liquidity Pools with an Orderbook UI, enabling Liquidity Providers to earn yield and traders to engage in familiar orderbook trading strategies supporting market, limit, stop, and conditional orders. The ONEX is both cross-chain and multi-chain. Paired with Onomy Access and Onomy's bridge network, ONEX enables users to seamlessly trade native assets between blockchains - or trade assets native to one specific blockchain.
+* **Onomy Exchange (ONEX):** A decentralized exchange that aims to replicate a traditional centralized exchange experience to settle the world's high-volume demands on-chain, decentralized, and in a non-custodial fashion. It combines AMM Liquidity Pools with an Orderbook UI, enabling Liquidity Providers to earn yield and traders to engage in familiar orderbook trading strategies supporting market, limit, stop, and conditional orders. The ONEX is both cross-chain and multi-chain. Paired with Onomy Access and Onomy's bridge network, ONEX enables users to seamlessly trade native assets between blockchains - or trade assets native to one specific blockchain.
 * **Onomy Access**: A non-custodial multi-chain mobile wallet app through which users may manage all assets from integrated blockchains. This includes staking, governance, transferring assets, and even viewing your NFT collections from multiple blockchains - all on one singular wallet app. Access makes cross-chain and multi-chain user experience seamless. Connect to dApps by scanning a QR code - gone are the days of connecting various browser extensions to access Web3.
 * **Onomy Reserve:** Governs minting of decentralized stablecoins named Denoms. The Onomy DAO votes on various parameters, including collateralization ratios. Denoms may be used for Forex, payment, remittance, lending, and settlement.
 
@@ -48,7 +48,7 @@ Examples of items the Onomy DAO vote on include:
 * Exchange and other product features
 * Choosing stablecoin collateral types, currencies, and collateralization ratios
 * Liquidity deployment to the Onomy Exchange from the treasury
-* Treasury management (Funds inside of the treasury are placed in an on-chain wallet governed by the DAO. No central entity, contributor, or founding team member have access to the treasury. Funds inside of the treasury may only be accessed through scucessfull funding proposals passed by the Onomy DAO)\
+* Treasury management (Funds inside of the treasury are placed in an on-chain wallet governed by the DAO. No central entity, contributor, or founding team member have access to the treasury. Funds inside of the treasury may only be accessed through successful funding proposals passed by the Onomy DAO)\
 
 
 {% hint style="info" %}
