@@ -16,7 +16,7 @@ description: >-
 \
 **Market Data:** \
 \
-[CoinMarketCap](https://coinmarketcap.com/currencies/onomy-protocol/) - [CoinGecko](https://www.coingecko.com/en/coins/onomy-protocol)
+[CoinMarketCap](https://coinmarketcap.com/currencies/onomy-protocol/) - [CoinGecko](https://www.coingecko.com/en/coins/onomy-protocol) - [Mintscan](https://www.mintscan.io/onomy-protocol/) - [Onomy Explorer](https://explorer.onomy.io/)
 
 ## Onomy Core Pillars
 
