@@ -30,6 +30,8 @@ Onomy consists of five pillars designed to be a self-governed monetary stabiliza
 
 ## The NOM Token
 
+<figure><img src=".gitbook/assets/spaces_-MPNbyL50sj6RDwgFBJr_uploads_4H4sNpttYt8vm663thuT_image.png" alt=""><figcaption></figcaption></figure>
+
 The **native coin of Onomy Protocol is $NOM.** NOM is used to secure the network through staking, payment for transaction and bridge fees, as a collateral type for the minting of Denoms through the Onomy Reserve, and for governance in the Onomy DAO. NOM is heavily integrated into various products of the Onomy Ecosystem, such as they programmatic buy & burn utilizing AMM earnings fromt the Onomy Exchange.
 
 When NOM holders delegate their NOM to a validator, they are _**staking.**_ Staking provides rewards in return for delegating to validators who support the security and operations of a blockchain network.
