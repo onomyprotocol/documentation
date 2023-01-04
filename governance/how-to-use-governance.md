@@ -18,17 +18,17 @@ A user can query and interact with the `gov` module using the CLI.
 
 The `query` commands allow users to query `gov` state.
 
-&#x20;`simd query gov --help`
+&#x20;`onomyd query gov --help`
 
 ### **deposit**
 
 The `deposit` command allows users to query a deposit for a given proposal from a given depositor.
 
-`simd query gov deposit [proposal-id] [depositer-addr] [flags]`
+`onomyd query gov deposit [proposal-id] [depositer-addr] [flags]`
 
 Example:
 
-`simd query gov deposit 1 onomy1..`
+`onomyd query gov deposit 1 onomy1..`
 
 Example Output:&#x20;
 
@@ -40,11 +40,11 @@ Example Output:&#x20;
 
 The `deposits` command allows users to query all deposits for a given proposal.
 
-`simd query gov deposits [proposal-id] [flags]`
+`onomyd query gov deposits [proposal-id] [flags]`
 
 Example:&#x20;
 
-`simd query gov deposits 1`
+`onomyd query gov deposits 1`
 
 Example Output:
 
@@ -58,11 +58,11 @@ Example Output:
 
 The `param` command allows users to query a given parameter for the `gov` module.
 
-`simd query gov param [param-type] [flags]`
+`onomyd query gov param [param-type] [flags]`
 
 Example:&#x20;
 
-`simd query gov param voting`
+`onomyd query gov param voting`
 
 Example Output:
 
@@ -72,11 +72,11 @@ Example Output:
 
 The `params` command allows users to query all parameters for the `gov` module.
 
-`simd query gov params [flags]`
+`onomyd query gov params [flags]`
 
 Example:&#x20;
 
-`simd query gov params`
+`onomyd query gov params`
 
 Example Output:&#x20;
 
@@ -86,11 +86,11 @@ Example Output:&#x20;
 
 The `proposal` command allows users to query a given proposal.
 
-`simd query gov proposal [proposal-id] [flags]`
+`onomyd query gov proposal [proposal-id] [flags]`
 
 Example:&#x20;
 
-`simd query gov proposal 1`
+`onomyd query gov proposal 1`
 
 Example Output:&#x20;
 
@@ -100,11 +100,11 @@ Example Output:&#x20;
 
 The `proposals` command allows users to query all proposals with optional filters.
 
-`simd query gov proposals [flags]`
+`onomyd query gov proposals [flags]`
 
 Example:&#x20;
 
-`simd query gov proposals`
+`onomyd query gov proposals`
 
 Example Output:&#x20;
 
@@ -114,11 +114,11 @@ Example Output:&#x20;
 
 The `proposer` command allows users to query the proposer for a given proposal.
 
-`simd query gov proposer [proposal-id] [flags]`
+`onomyd query gov proposer [proposal-id] [flags]`
 
 Example:&#x20;
 
-`simd query gov proposer 1`
+`onomyd query gov proposer 1`
 
 Example Output:&#x20;
 
@@ -128,11 +128,11 @@ Example Output:&#x20;
 
 The `tally` command allows users to query the tally of a given proposal vote.
 
-`simd query gov tally [proposal-id] [flags]`
+`onomyd query gov tally [proposal-id] [flags]`
 
 Example:&#x20;
 
-`simd query gov tally 1`
+`onomyd query gov tally 1`
 
 Example Output:
 
@@ -148,11 +148,11 @@ Example Output:
 
 The `vote` command allows users to query a vote for a given proposal.
 
-`simd query gov vote [proposal-id] [voter-addr] [flags]`
+`onomyd query gov vote [proposal-id] [voter-addr] [flags]`
 
 Example:&#x20;
 
-`simd query gov vote 1 onomy1..`
+`onomyd query gov vote 1 onomy1..`
 
 Example Output:&#x20;
 
@@ -170,11 +170,11 @@ Example Output:&#x20;
 
 The `votes` command allows users to query all votes for a given proposal.
 
-`simd query gov votes [proposal-id] [flags]`
+`onomyd query gov votes [proposal-id] [flags]`
 
 Example:&#x20;
 
-`simd query gov votes 1`
+`onomyd query gov votes 1`
 
 Example Output:&#x20;
 
@@ -184,73 +184,59 @@ Example Output:&#x20;
 
 The `tx` commands allow users to interact with the `gov` module.
 
-`simd tx gov --help`
+`onomyd tx gov --help`
 
 #### **Deposit**
 
 The `deposit` command allows users to deposit tokens for a given proposal.
 
-`simd tx gov deposit [proposal-id] [deposit] [flags]`
+`onomyd tx gov deposit [proposal-id] [deposit] [flags]`
 
 Example:
 
-`simd tx gov deposit 1 10000000stake --from onomy1..`
+`onomyd tx gov deposit 1 10000000stake --from onomy1..`
 
 #### **submit-proposal**
 
 The `submit-proposal` command allows users to submit a governance proposal and to optionally include an initial deposit.
 
-`simd tx gov submit-proposal [command] [flags]`
+`onomyd tx gov submit-proposal [command] [flags]`
 
 Example:
 
-`simd tx gov submit-proposal --title="Test Proposal" --description="testing, testing, 1, 2, 3" --type="Text" --deposit="10000000stake" --from onomy1..`
+`onomyd tx gov submit-proposal --title="Test Proposal" --description="testing, testing, 1, 2, 3" --type="Text" --deposit="10000000stake" --from onomy1..`
 
 Example (`cancel-software-upgrade`):
 
-`simd tx gov submit-proposal cancel-software-upgrade --title="Test Proposal" --description="testing, testing, 1, 2, 3" --deposit="10000000stake" --from onomy1..`
-
-Example (`community-pool-spend`):
-
-`simd tx gov submit-proposal community-pool-spend proposal.json --from onomy1..`
-
-`{`
-
-`"title": "Test Proposal", "description": "testing, testing, 1, 2, 3",`
-
-`"recipient": "onomy1..",`
-
-`"amount": "10000000stake", "deposit": "10000000stake"`
-
-`}`
+`onomyd tx gov submit-proposal cancel-software-upgrade --title="Test Proposal" --description="testing, testing, 1, 2, 3" --deposit="10000000stake" --from onomy1..`
 
 Example (`param-change`):
 
-`simd tx gov submit-proposal param-change proposal.json --from onomy1..`
+`onomyd tx gov submit-proposal param-change proposal.json --from onomy1..`
 
 Example (`software-upgrade`):
 
-`simd tx gov submit-proposal software-upgrade v2 --title="Test Proposal" --description="testing, testing, 1, 2, 3" --upgrade-height 1000000 --from onomy1..`
+`onomyd tx gov submit-proposal software-upgrade v2 --title="Test Proposal" --description="testing, testing, 1, 2, 3" --upgrade-height 1000000 --from onomy1..`
 
 **Vote**
 
 The `vote` command allows users to submit a vote for a given governance proposal.
 
-`simd tx gov vote [command] [flags]`
+`onomyd tx gov vote [command] [flags]`
 
 Example:&#x20;
 
-`simd tx gov vote 1 yes --from onomy1..`
+`onomyd tx gov vote 1 yes --from onomy1..`
 
 **Weighted-vote**
 
 The `weighted-vote` command allows users to submit a weighted vote for a given governance proposal.
 
-`simd tx gov weighted-vote [proposal-id] [weighted-options]`
+`onomyd tx gov weighted-vote [proposal-id] [weighted-options]`
 
 Example:&#x20;
 
-`simd tx gov weighted-vote 1 yes=0.5,no=0.5 --from onomy1`
+`onomyd tx gov weighted-vote 1 yes=0.5,no=0.5 --from onomy1`
 
 ### **gRPC**
 
