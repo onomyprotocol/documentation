@@ -14,7 +14,7 @@
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 
 * [Utility of NOM](nom-distribution/utility-of-nom.md)
-* [NOM's Bonding Curve Offering (BCO)](nom-distribution/bonding-curve-offering.md)
+* [NOM's Bonding Curve (BC)](nom-distribution/bonding-curve.md)
 
 ## Architecture
 
