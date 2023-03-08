@@ -1,25 +1,20 @@
 # Table of contents
 
-## Introduction
+## Overview
 
-* [Overview & Core Pillars](README.md)
+* [Introduction & Important Links](README.md)
+* [Arc Bridge Hub](overview/arc-bridge-hub.md)
 
-## App Ecosystem
+## Onomy Improvement Proposals (OIPs)
 
-* [Arc Bridge Hub](app-ecosystem/arc-bridge-hub.md)
-* [Access Wallet (iOS & Android)](app-ecosystem/access-wallet-ios-and-android.md)
-* [Onomy Exchange (ONEX)](app-ecosystem/onex.md)
-* [Onomy Reserve](app-ecosystem/onomy-reserve.md)
+* [Onomy Exchange (ONEX)](onomy-improvement-proposals-oips/onomy-exchange-onex.md)
+* [Onomy Reserve (ORES)](onomy-improvement-proposals-oips/onomy-reserve-ores.md)
 
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 
 * [Utility of NOM](nom-distribution/utility-of-nom.md)
+* [NOM's Genesis Metrics](nom-distribution/noms-genesis-metrics.md)
 * [NOM's Bonding Curve (BC)](nom-distribution/bonding-curve.md)
-
-## Architecture
-
-* [Application Specific Blockchain](architecture/application-specific-blockchain.md)
-* [Tendermint BFT](architecture/tendermint-bft.md)
 
 ## Validators & Staking <a href="#validators-staking" id="validators-staking"></a>
 
@@ -35,11 +30,10 @@
 
 ## Governance
 
-* [Overview](governance/overview.md)
-* [Concepts](governance/concepts.md)
-* [Parameters](governance/parameters.md)
+* [Overview & Concepts](governance/overview-and-concepts.md)
 * [How to Use Governance](governance/how-to-use-governance.md)
 
-## Contributors
+## Architecture
 
-* [Joining Onomy](contributors/joining-onomy.md)
+* [Application Specific Blockchain](architecture/application-specific-blockchain.md)
+* [Tendermint BFT](architecture/tendermint-bft.md)

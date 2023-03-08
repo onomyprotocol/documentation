@@ -47,7 +47,3 @@ Validators run the following:&#x20;
 **Validator Grants & Delegation**\
 \
 Validators may receive grants from the DAO treasury to assure the latest system specs are used, and to subsidize related costs to uphold performance required for the sustainability of the Onomy Network. Treasury tokens will be delegated based on a validator's self-bond amount in relation to the total self-bonded across all validators. Rather than a centrally-controlled Foundation controlling the keys to the treasury, and thus controlling delegations, the treasury exists in a DAO-governed on-chain wallet that programmatically rebalances delegations based on on-chain self-bond metrics.
-
-### OVG Interest Form
-
-{% embed url="https://dq8zk5x8w7j.typeform.com/to/EiXBpya5" %}

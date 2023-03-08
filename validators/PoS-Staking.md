@@ -14,9 +14,7 @@ It is possible and encouraged for any user to run full nodes even if they do not
 
 When NOM holders delegate their NOM to a validator, they are _**staking.**_ Staking increases a validator’s weight, which helps them, and in return delegators get rewarded.
 
-A validator’s weight (total stake) is determined by the amount of staking tokens (NOM) they self-bond from their own holdings plus the NOM bonded to them by external delegators. Validators for the Onomy Network must self-bond a minimum 250,000 NOM to be an active validator. Additional NOM bonded by external delegators boosts their weight. Validators with a higher weight will propose more blocks, and in turn make more revenue.
-
-**Given that validators must validate for the Onomy Network and operate nodes for bridged chains, the active validator set during testnets and betanet will be limited to assure stability of the network and methodical expansion of the set.**&#x20;
+A validator’s weight (total stake) is determined by the amount of staking tokens (NOM) they self-bond from their own holdings plus the NOM bonded to them by external delegators. Validators for the Onomy Network must self-bond a minimum 250,000 NOM to be an active validator. Additional NOM bonded by external delegators boosts their weight. Validators with a higher weight will propose more blocks, and in turn earn more rewards.
 
 The minimum self-bond, hardware specifications, and the bottom validator’s stake always forms the barrier for entry into the active set of validators. If validators double-sign, or are frequently offline, they risk their staked NOM, including NOM delegated by users, being slashed by the protocol to penalize negligence and misbehavior.\
 \
