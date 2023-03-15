@@ -9,7 +9,7 @@ Obtaining the binary can be done by either of the following methods:
 ### Download Binary from GitHub
 
 1. First make sure you have golang installed and $PATH is pointing to where go binary is installed. Also set the $GOPATH environment variable.
-2. Head over to our [Releases Page](https://github.com/onomyprotocol/onomy/releases) and download the latest version of the Onomy Binary.
+2. Head over to the [Releases Page](https://github.com/onomyprotocol/onomy/releases) and download the latest version of the Onomy Binary.
    * Default structure for Onomy files:
 
 ```

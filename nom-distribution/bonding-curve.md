@@ -12,7 +12,7 @@
 
 Bonding curves are crypto-economic token models that automate the relationship between price and supply. \
 \
-It is a decentralized automated market maker that is on-chain with community-driven liquidity. Liqudity within the automated market maker cannot be controled by any central entity. The code cannot be adjusted after its deployment. The tokens in this model are referred to as Continuous Tokens because their price is continuously calculated. In continuous token models, there is no ICO or token launch. Instead of pre-selling tokens during a launch phase, the tokens are minted continuously over time via an automated market maker contract. Tokens are minted when purchased as needed, in conjunction with demand, and used within the protocol or application when required or desired. Continuous Tokens have other properties such as instant liquidity and deterministic price. Bonding curves act as an automated market maker such that token buyers and sellers have an instant market. Additionally, bonding curve models don’t have central authorities responsible for issuing the tokens. Instead, users can buy a project’s token through a smart contract platform. The cost to buy these tokens is determined by the supply of those tokens. Unlike traditional models, the cost of these tokens increases as the supply increases. This price is determined by a pre-existing algorithm, further described below. A fee of 1% is applied per trade with the bonding curve.\
+It is a decentralized automated market maker that is on-chain with community-driven liquidity. Liquidity within the automated market maker cannot be controlled by any central entity. The code cannot be adjusted after its deployment. The tokens in this model are referred to as Continuous Tokens because their price is continuously calculated. In continuous token models, there is no ICO or token launch. Instead of pre-selling tokens during a launch phase, the tokens are minted continuously over time via an automated market maker contract. Tokens are minted when purchased as needed, in conjunction with demand, and used within the protocol or application when required or desired. Continuous Tokens have other properties such as instant liquidity and deterministic price. Bonding curves act as an automated market maker such that token buyers and sellers have an instant market. Additionally, bonding curve models don’t have central authorities responsible for issuing the tokens. Instead, users can buy a project’s token through a smart contract platform. The cost to buy these tokens is determined by the supply of those tokens. Unlike traditional models, the cost of these tokens increases as the supply increases. This price is determined by a pre-existing algorithm, further described below. A fee of 1% is applied per trade with the bonding curve.\
 \
 The Bonding Curve Contract has been audited by NCC Group, an enterprise-level cybersecurity firm headquartered in the United Kingdom.
 
@@ -24,7 +24,7 @@ The following is the equation governing the bonding curve:
 
 ![](<../.gitbook/assets/image (6).png>)
 
-100,000,000 is the supply of _bNOM_ loaded into the bonding curve. Supply is provided as it is purchased, thereby acting as a minting mechanism over time. The emmission of tokens requires significant capital to prevent over-dilution of the NOM circulating supply.
+100,000,000 is the supply of _bNOM_ loaded into the bonding curve. Supply is provided as it is purchased, thereby acting as a minting mechanism over time. The emission of tokens requires significant capital to prevent over-dilution of the NOM circulating supply.
 
 ![](<../.gitbook/assets/image (7).png>)
 
@@ -45,7 +45,7 @@ The Onomy Network Staking Curve carries a tight relationship with the Bonding Cu
 
 The staking rewards incentivize _bNOM_ on the bonding curve to bridge into _NOM,_ thereby driving value into the Onomy Ecosystem. Once bridged, bonding curve participants formalize their entry into Onomy and relinquish the ability to sell back to the bonding curve. Liquidity for NOM is not guaranteed, nor are secondary markets.
 
-The bonding curve is perpetual until all 100M _bNOM_ are issued. Thus, an arbitrage opportunity may appear from time to time as the _NOM_ price on exchanges exceeds that of _bNOM_ on the bonding curve. A potential arbitrager will purchase _bNOM_, bridge to _NOM_, and send to exchanges. This incentive will further drive positive feedback mechanisms driving value, community, and adoption of _NOM,_ as more _bNOM_ is minted at more valuable prices and then bridged.
+The bonding curve is perpetual until all 100M _bNOM_ are issued.&#x20;
 
 ## Audits
 
@@ -66,7 +66,7 @@ _This communication may contain forward-looking statements that are based on bel
 ### Revenue Disclosure
 
 {% hint style="info" %}
-_The Bonding Curve Automated Market Maker (AMM) earns revenue in two ways. The first is a 1% transaction fee applied to each trade with the AMM. The second is the release of Ether used to purchase bNOM in proportion to the amount of bNOM bridged to the Onomy Network. These two methods together consitute the "Revenue" of the bonding curve. Revenue is currently distributed to PENDULUM LABS LIMITED. PENDULUM LABS LIMITED_ may only obtain the Revenue in the manner described above and has no ability to change, manage, or otherwise alter the Bonding Curve smart contract that has been deployed to the Ethereum Mainnet.&#x20;
+_The Bonding Curve Automated Market Maker (AMM) earns revenue in two ways. The first is a 1% transaction fee applied to each trade with the AMM. The second is the release of Ether used to purchase bNOM in proportion to the amount of bNOM bridged to the Onomy Network. These two methods together constitute the "Revenue" of the bonding curve. Revenue is currently distributed to PENDULUM LABS LIMITED. PENDULUM LABS LIMITED_ may only obtain the Revenue in the manner described above and has no ability to change, manage, or otherwise alter the Bonding Curve smart contract that has been deployed to the Ethereum Mainnet.&#x20;
 {% endhint %}
 
 ### Risk Disclosure

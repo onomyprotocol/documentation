@@ -8,7 +8,7 @@ description: Joining the Onomy Validator Guild (OVG)
 
 ## Joining the Onomy Validator Guild (OVG) <a href="#0a33" id="0a33"></a>
 
-Validators support The Onomy Network (ONET), our layer-1 blockchain built with Cosmos SDK / Tendermint BFT proof-of-stake (PoS). To optimize network-wide performance, maintain decentralization, and ensure security, the OVG maintains a high standard in operational performance and sustainability for the _bettermint_ of Onomy Protocol.
+Validators support The Onomy Network (ONET), a layer-1 blockchain built with Cosmos SDK / Tendermint BFT proof-of-stake (PoS). To optimize network-wide performance, maintain decentralization, and ensure security, the OVG maintains a high standard in operational performance and sustainability for the _bettermint_ of Onomy Protocol.
 
 ### How do I become a validator?
 

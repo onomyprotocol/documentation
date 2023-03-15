@@ -1,6 +1,6 @@
 # Overview & Concepts
 
-_Disclaimer:  Mechanisms are susceptible to change._
+_Disclaimer:  Mechanisms are susceptible to change at anytime. It is your responsibility to confirm the mechanisms in place at a given time via the Onomy DAO and on-chain parameters accessible via explorers like_ [_Mintscan_](https://www.mintscan.io/onomy-protocol/parameters) _and_ [_BigDipper_](https://explorer.onomy.io/params)_._
 
 ### Onomy DAO (Governance) <a href="#onomy-dao-governance" id="onomy-dao-governance"></a>
 
@@ -8,7 +8,7 @@ DAO (Decentralized Autonomous Organization) is an organization represented by ru
 
 #### Governance Actions <a href="#governance-actions" id="governance-actions"></a>
 
-* **Submit Proposals:** Any holder of $NOM can submit a proposal as long as they put up the minimum deposit of 500 $NOM. Once submitted, it automatically enters the voting period.
+* **Submit Proposals:** Any holder of $NOM can submit a proposal as long as they put up the minimum deposit of 500 $NOM (MinDeposit). Once submitted, it automatically enters the voting period.
 * **Voting:** Delegators and validators who stake the governance coin $NOM are welcome to vote on any and all proposals that are currently running (has reached MinDeposit).
 * **Voting Override:** Delegators override their validator's vote by placing a vote themselves, otherwise they will inherit their validator's vote.
 * **Claiming deposit:** Users that deposited on proposals can recover their deposits if the proposal was accepted OR if the proposal never entered voting period.
@@ -56,11 +56,11 @@ Note that some _participants_ can be forbidden to vote on a proposal under a cer
 * _participant_ bonded or unbonded NOM to said validator after proposal entered voting period.
 * _participant_ became validator after proposal entered voting period.
 
-This does not prevent _participant_ to vote with NOM bonded to other validators. For example, if a _participant_ bonded some NOM to validator A before a proposal entered voting period and other NOM to validator B after proposal entered voting period, only the vote under validator B will be forbidden.
+This does not prevent a _participant_ from voting with NOM bonded to other validators. For example, if a _participant_ bonded some NOM to validator A before a proposal entered voting period and other NOM to validator B after proposal entered voting period, only the vote under validator B will be forbidden.
 
 #### [#](https://docs.cosmos.network/v0.46/modules/gov/01\_concepts.html#voting-period) Voting period <a href="#voting-period" id="voting-period"></a>
 
-Once a proposal reaches `MinDeposit`, it immediately enters `Voting period`. We define `Voting period` as the interval between the moment the vote opens and the moment the vote closes. `Voting period` should always be shorter than `Unbonding period` to prevent double voting. The `Voting period` is 3 Days.
+Once a proposal reaches `MinDeposit`, it immediately enters `Voting period`. The `Voting period` is defined as the interval between the moment the vote opens and the moment the vote closes. `Voting period` should always be shorter than `Unbonding period` to prevent double voting. The `Voting period` is 3 Days.
 
 #### [#](https://docs.cosmos.network/v0.46/modules/gov/01\_concepts.html#option-set) Option set <a href="#option-set" id="option-set"></a>
 
