@@ -66,7 +66,7 @@ _This communication may contain forward-looking statements that are based on bel
 ### Revenue Disclosure
 
 {% hint style="info" %}
-_The Bonding Curve Automated Market Maker (AMM) earns revenue in two ways. The first is a 1% transaction fee applied to each trade with the AMM. The second is the release of Ether used to purchase bNOM in proportion to the amount of bNOM bridged to the Onomy Network. These two methods together constitute the "Revenue" of the bonding curve. Revenue is currently distributed to PENDULUM LABS LIMITED. PENDULUM LABS LIMITED_ may only obtain the Revenue in the manner described above and has no ability to change, manage, or otherwise alter the Bonding Curve smart contract that has been deployed to the Ethereum Mainnet.&#x20;
+_The Bonding Curve Automated Market Maker (AMM) earns revenue in two ways. The first is a 1% transaction fee applied to each trade with the AMM. The second is the release of Ether used to purchase bNOM in proportion to the amount of bNOM bridged to the Onomy Network. These two methods together constitute the "Revenue" of the bonding curve. Revenue is currently distributed to PENDULUM LABS LIMITED as voted by the Onomy DAO Proposal 5. PENDULUM LABS LIMITED_ may only obtain the Revenue in the manner described above and has no ability to change, manage, or otherwise alter the Bonding Curve smart contract that has been deployed to the Ethereum Mainnet.&#x20;
 {% endhint %}
 
 ### Risk Disclosure
