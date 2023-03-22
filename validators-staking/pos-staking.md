@@ -1,4 +1,4 @@
-# Concepts
+# NOM Staking Concepts
 
 ### What is a validator?
 
@@ -14,15 +14,15 @@ It is possible and encouraged for any user to run full nodes even if they do not
 
 When NOM holders delegate their NOM to a validator, they are _**staking.**_ Staking increases a validator’s weight, which helps them, and in return delegators get rewarded.
 
-A validator’s weight (total stake) is determined by the amount of staking tokens (NOM) they self-bond from their own holdings plus the NOM bonded to them by external delegators. Validators for the Onomy Network must self-bond a minimum 250,000 NOM to be an active validator. Additional NOM bonded by external delegators boosts their weight. Validators with a higher weight will propose more blocks, and in turn earn more rewards.
+A validator’s weight (total stake) is determined by the amount of staking tokens (NOM) they self-bond from their own holdings plus the NOM bonded to them by external delegators. Validators for the Onomy Network must self-bond a minimum 225,000 NOM to be an active validator. Additional NOM bonded by external delegators boosts their weight. Validators with a higher weight will propose more blocks, and in turn earn more rewards.
 
 The minimum self-bond, hardware specifications, and the bottom validator’s stake always forms the barrier for entry into the active set of validators. If validators double-sign, or are frequently offline, they risk their staked NOM, including NOM delegated by users, being slashed by the protocol to penalize negligence and misbehavior.\
 \
-**Read more about expected** [**NOM staking rewards**](../validators-staking/incentives-and-staking-rewards.md)**.**
+**Read more about expected** [**NOM staking rewards**](nom-staking-rewards.md)**.**
 
 ### What is a delegator?
 
-Delegators are NOM holders who want to receive staking rewards without the responsibility of running a validator. Through Onomy Access and Cosmos-based wallets, a user can delegate NOM to a validator and in exchange receive a part of a validator’s revenue. For more detail on how revenue is distributed, see [What are the incentives to stake?](../validators-staking/incentives-and-staking-rewards.md#what-are-the-incentives-to-stake) and [What is a validator’s commission?](../validators-staking/incentives-and-staking-rewards.md#what-is-a-validators-commission)
+Delegators are NOM holders who want to receive staking rewards without the responsibility of running a validator. Through Onomy Access and Cosmos-based wallets, a user can delegate NOM to a validator and in exchange receive a part of a validator’s revenue. For more detail on how revenue is distributed, see [What are the incentives to stake?](nom-staking-rewards.md#what-are-the-incentives-to-stake) and [What is a validator’s commission?](nom-staking-rewards.md#what-is-a-validators-commission)
 
 Delegators share the benefits and rewards of staking with their Validator. If a Validator is successful, its delegators will consistently share in the rewards structure. If a Validator is slashed, the delegator’s stake will also be slashed. This is why delegators should perform due-diligence on validators before delegating. Delegators can also diversify by spreading their stake over multiple validators.
 

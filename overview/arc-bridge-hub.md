@@ -6,7 +6,7 @@ description: Empowering an enhanced cross-chain experience.
 
 [Arc](https://github.com/onomyprotocol/arc) is a hub-and-spoke model bridge that enables users to transfer tokens from an integrated chain to Onomy and back again - or to another integrated chain - by locking up tokens on integrated chain side of Arc, and minting equivalent tokens on the Onomy side of Arc. \
 \
-Arc is completely non-custodial, meaning there is no central intermediary or third party bridge administrators who could run off with your funds. The security of the Onomy Network, and thus Arc, is through the Onomy Validator Guild (OVG) which is comprised of a decentralized network of globally situated independent validator firms. Learn more about the criteria to join as a validator [here](../validators-staking/onomy-validator-guild-ovg.md). **Joining Onomy's validator set is permissionless.**&#x20;
+Arc is completely non-custodial, meaning there is no central intermediary or third party bridge administrators who could run off with your funds. The security of the Onomy Network, and thus Arc, is through the Onomy Validator Guild (OVG) which is comprised of a decentralized network of globally situated independent validator firms. Learn more about the criteria to join as a validator [here](../start-a-validator/onomy-validator-guild-ovg.md). **Joining Onomy's validator set is permissionless.**&#x20;
 
 | ARC Mainnet (A-Z) | ARC Testnet (A-Z)       | ARC Accepted Proposals |
 | ----------------- | ----------------------- | ---------------------- |

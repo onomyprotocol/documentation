@@ -16,12 +16,16 @@
 * [NOM's Genesis Metrics](nom-distribution/noms-genesis-metrics.md)
 * [NOM's Bonding Curve (BC)](nom-distribution/bonding-curve.md)
 
-## Validators & Staking <a href="#validators-staking" id="validators-staking"></a>
+## Governance
 
-* [Concepts](validators/PoS-Staking.md)
-* [Incentives & Staking Rewards](validators-staking/incentives-and-staking-rewards.md)
-* [Transaction Fees (Gas)](validators-staking/transaction-fees-gas.md)
-* [Onomy Validator Guild (OVG)](validators-staking/onomy-validator-guild-ovg.md)
+* [Overview & Concepts](governance/overview-and-concepts.md)
+* [How to Use Governance](governance/how-to-use-governance.md)
+
+## Concepts <a href="#validators-staking" id="validators-staking"></a>
+
+* [NOM Staking Concepts](validators-staking/pos-staking.md)
+* [NOM Staking Rewards](validators-staking/nom-staking-rewards.md)
+* [NOM Transaction Fees (Gas)](validators-staking/nom-transaction-fees-gas.md)
 
 ## Run a Full Node
 
@@ -30,12 +34,8 @@
 
 ## START A VALIDATOR
 
+* [Onomy Validator Guild (OVG)](start-a-validator/onomy-validator-guild-ovg.md)
 * [Creating a Validator](start-a-validator/creating-a-validator.md)
-
-## Governance
-
-* [Overview & Concepts](governance/overview-and-concepts.md)
-* [How to Use Governance](governance/how-to-use-governance.md)
 
 ## Architecture
 

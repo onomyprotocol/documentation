@@ -33,7 +33,7 @@ You can join Onomy's community social channels to connect with 60,000+ fellow _N
 
 ### The NOM Token
 
-The **native coin of Onomy Protocol is NOM.** NOM is used to secure the network through staking, payment for transaction and bridge fees, and for governance in the Onomy DAO. When NOM holders delegate their NOM to a validator, they are _**staking.**_ [Staking provides rewards](validators-staking/incentives-and-staking-rewards.md) in return for supporting the security and operations of a blockchain network.
+The **native coin of Onomy Protocol is NOM.** NOM is used to secure the network through staking, payment for transaction and bridge fees, and for governance in the Onomy DAO. When NOM holders delegate their NOM to a validator, they are _**staking.**_ [Staking provides rewards](validators-staking/nom-staking-rewards.md) in return for supporting the security and operations of a blockchain network.
 
 ### Onomy DAO (Governance)
 

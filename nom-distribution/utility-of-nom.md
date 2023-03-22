@@ -8,7 +8,7 @@
 
 ### Staking&#x20;
 
-When NOM holders delegate their NOM to a validator, they are _**staking.**_ Staking provides rewards in return for delegating to validators who support the security and operations of a blockchain network. Read more about [NOM staking rewards](../validators-staking/incentives-and-staking-rewards.md)**.**
+When NOM holders delegate their NOM to a validator, they are _**staking.**_ Staking provides rewards in return for delegating to validators who support the security and operations of a blockchain network. Read more about [NOM staking rewards](../validators-staking/nom-staking-rewards.md)**.**
 
 ### Governance&#x20;
 
