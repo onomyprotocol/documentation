@@ -28,6 +28,10 @@
 * [Installation Steps](run-a-full-node/pre-installation-steps.md)
 * [Starting a Full Node](run-a-full-node/setting-up-a-full-node.md)
 
+## START A VALIDATOR
+
+* [Creating a Validator](start-a-validator/creating-a-validator.md)
+
 ## Governance
 
 * [Overview & Concepts](governance/overview-and-concepts.md)
