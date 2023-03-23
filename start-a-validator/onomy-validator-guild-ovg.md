@@ -31,12 +31,12 @@ Any individual or entity may become a validator by first obtaining the minimum s
 
 ### Validator Criteria <a href="#f86e" id="f86e"></a>
 
-#### Hardware <a href="#f86e" id="f86e"></a>
+#### Recommended Hardware <a href="#f86e" id="f86e"></a>
 
-Validators interested in applying must hold servers that match or exceed the following criteria:
+Validators interested in joining the active set should match or exceed the following criteria:
 
 * 32 core EPYC, 256GB of RAM, 5TB enterprise SSD
-* 10 GBPS dedicated internet connection
+* 1+ GBPS dedicated internet connection
 
 #### Operations
 
