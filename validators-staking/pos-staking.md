@@ -1,5 +1,9 @@
 # NOM Staking Concepts
 
+{% hint style="info" %}
+_Staking provides rewards in return for delegating to validators who support the security and operations of a blockchain network._ _Note that staking rewards are calculated and distributed based on a predetermined protocol-level monetary policy regarding inflationary mechanics and are not to be construed as a form of dividends or interest paid on debt. Staking rewards are distributed in additional NOM added to supply._
+{% endhint %}
+
 ### What is a validator?
 
 Onomy Protocol is powered by Tendermint BFT Proof-of-Stake consensus. Validators run full nodes, participate in consensus by broadcasting votes, commit new blocks to the blockchain, and participate in governance of the blockchain. Validators are able to cast votes on behalf of their delegators. A validator’s voting power is weighted according to their total stake.
