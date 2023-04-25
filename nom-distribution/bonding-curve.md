@@ -2,11 +2,11 @@
 
 **Be mindful that the ONLY OFFICIAL LINK AND CONTRACT ADDRESS ARE:**&#x20;
 
-**Link:** [**https://bnom.onomy.io/**](https://bnom.onomy.io)****
+**Link:** [**https://bnom.onomy.io/**](https://bnom.onomy.io)
 
 **Bonding Curve Contract: `0x264C13cfEd981e3137Fb43B198D14D8D5D64977E`**
 
-****[**Learn everything about interacting with the mainnet Bonding Curve via this tutorial.** ](https://onomy.notion.site/onomy/The-Onomy-Bonding-Curve-A-Step-by-Step-Tutorial-fa4d92c142cc4eb68e3eabb4a2d6a46b#a0b52eb7c79144a5bc3ec969abb742f9)****
+[**Learn everything about interacting with the mainnet Bonding Curve via this tutorial.** ](https://onomy.notion.site/onomy/The-Onomy-Bonding-Curve-A-Step-by-Step-Tutorial-fa4d92c142cc4eb68e3eabb4a2d6a46b#a0b52eb7c79144a5bc3ec969abb742f9)
 
 ## Definition
 

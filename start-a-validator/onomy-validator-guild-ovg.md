@@ -7,7 +7,7 @@ description: About the Onomy Validator Guild (OVG)
 ![](https://miro.medium.com/max/1400/0\*IGJBZqooWrXh7o2R)
 
 {% hint style="info" %}
-_Want to skip ahead and get right into it?_ [_View instructions to join the validator set here_](creating-a-validator.md)__[_._](creating-a-validator.md)__
+_Want to skip ahead and get right into it?_ [_View instructions to join the validator set here_](creating-a-validator.md)[_._](creating-a-validator.md)
 {% endhint %}
 
 ## About the Onomy Validator Guild (OVG) <a href="#0a33" id="0a33"></a>

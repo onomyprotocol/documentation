@@ -60,8 +60,8 @@ onomyd tx staking create-validator \
 
 {% hint style="info" %}
 _anom_ is the smallest denomination of _NOM_. The minimum required _225,000 NOM self-delegation amount_ is written as _225000000000000000000000anom. Update with the correct value you are self-delegating, as well as the other variables._\
-__\
-__**Descriptions:**
+\
+**Descriptions:**
 
 * **`amount`** : Amount of aNOMs to self delegate. 1 NOM = 10^18 aNOMs
 * **`pubkey`** : Public key of the validator. Can be found using:

@@ -16,8 +16,7 @@ The NOM supply will increase from [inflationary rewards](https://docs.onomy.io/v
 {% hint style="info" %}
 **Track current supply and network stats via Onomy Network Explorers**\
 \
-_**BigDipper by Forbole:** _ [_explorer.onomy.io_](https://explorer.onomy.io)__\
+_**BigDipper by Forbole:**_ [_explorer.onomy.io_](https://explorer.onomy.io)\
 _**Mintscan by Cosmostation:**_ [_mintscan.io/onomy-protocol_](https://mintscan.io/onomy-protocol)
 {% endhint %}
 
-__

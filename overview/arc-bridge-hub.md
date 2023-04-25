@@ -22,7 +22,7 @@ Arc is completely non-custodial, meaning there is no central intermediary or thi
 
 **Production Uses**
 
-* ****[**Bonding Curve Platform**](https://bnom.onomy.io)**:**  Powers the Ethereum <> Onomy bridge for bonding curve users.
+* [**Bonding Curve Platform**](https://bnom.onomy.io)**:**  Powers the Ethereum <> Onomy bridge for bonding curve users.
 * **Bridge Interface @** [**app.onomy.io**](https://app.onomy.io)**:** Powers bridges between integrated chains.
 
 ## How Arc Works

@@ -25,6 +25,7 @@
 
 * [NOM Staking Concepts](validators-staking/pos-staking.md)
 * [NOM Staking Rewards](validators-staking/nom-staking-rewards.md)
+* [How to Stake NOM?](validators-staking/how-to-stake-nom.md)
 * [NOM Transaction Fees (Gas)](validators-staking/nom-transaction-fees-gas.md)
 
 ## Run a Full Node
