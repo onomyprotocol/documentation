@@ -32,6 +32,3 @@ Delegators share the benefits and rewards of staking with their Validator. If a 
 
 Delegators play a critical role in the system, as they are responsible for choosing validators. Being a delegator is not a passive role. Delegators should remain vigilant, actively monitor the actions of their validators, and re-delegate whenever they feel their current validator does not meet their needs.
 
-
-
-![](<../.gitbook/assets/Staking Curve.png>)
