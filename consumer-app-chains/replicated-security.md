@@ -6,7 +6,7 @@ By leveraging replicated security, developers are empowered to initiate a "consu
 
 This makes building sovereign app-chains in Cosmos significantly easier, whilst also enabling seamless IBC interoperability between these chains.&#x20;
 
-The benefits of Replicated Security&#x20;
+## **The benefits of Replicated Security**&#x20;
 
 * Full provider security. At launch, consumer chains are secured by the full validator set and market cap of the provider chain.
 * Independent block-space. Transactions on consumer chains do not compete with any other applications. This means that there will be no unexpected congestion, and performance will generally be much better than on a shared smart contract platform such as Ethereum.
