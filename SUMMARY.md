@@ -10,6 +10,12 @@
 * [Onomy Exchange (ONEX)](onomy-improvement-proposals-oips/onomy-exchange-onex.md)
 * [Onomy Reserve (ORES)](onomy-improvement-proposals-oips/onomy-reserve-ores.md)
 
+## Consumer App-Chains
+
+* [Replicated Security](consumer-app-chains/replicated-security.md)
+* [The Technicals](consumer-app-chains/the-technicals.md)
+* [Replicated Security FAQs](consumer-app-chains/replicated-security-faqs.md)
+
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 
 * [Utility of NOM](nom-distribution/utility-of-nom.md)
