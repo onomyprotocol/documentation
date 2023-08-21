@@ -5,16 +5,20 @@
 * [Introduction & Important Links](README.md)
 * [Arc Bridge Hub](overview/arc-bridge-hub.md)
 
-## Onomy Improvement Proposals (OIPs)
+## ONEX - Onomy Exchange
 
-* [Onomy Exchange (ONEX)](onomy-improvement-proposals-oips/onomy-exchange-onex.md)
-* [Onomy Reserve (ORES)](onomy-improvement-proposals-oips/onomy-reserve-ores.md)
+* [Feature Overview](onex-onomy-exchange/feature-overview.md)
+* [Under The Hood](onex-onomy-exchange/under-the-hood.md)
 
 ## Consumer App-Chains
 
 * [Replicated Security](consumer-app-chains/replicated-security.md)
 * [The Technicals](consumer-app-chains/the-technicals.md)
 * [Replicated Security FAQs](consumer-app-chains/replicated-security-faqs.md)
+
+## Consumer Chain Proposals
+
+* [Onomy Reserve (ORES)](consumer-chain-proposals/onomy-reserve-ores.md)
 
 ## The NOM Token <a href="#nom-distribution" id="nom-distribution"></a>
 

@@ -8,14 +8,7 @@ description: Empowering an enhanced cross-chain experience.
 \
 Arc is completely non-custodial, meaning there is no central intermediary or third party bridge administrators who could run off with your funds. The security of the Onomy Network, and thus Arc, is through the Onomy Validator Guild (OVG) which is comprised of a decentralized network of globally situated independent validator firms. Learn more about the criteria to join as a validator [here](../start-a-validator/onomy-validator-guild-ovg.md). **Joining Onomy's validator set is permissionless.**&#x20;
 
-| ARC Mainnet (A-Z) | ARC Testnet (A-Z)       | ARC Accepted Proposals |
-| ----------------- | ----------------------- | ---------------------- |
-| Ethereum          | Avalanche               | BNB Chain              |
-| Cosmos Hub        | Aurora (NEAR EVM)       |                        |
-| OKX Chain         | Fantom                  |                        |
-| Osmosis           | Moonbeam (Polkadot EVM) |                        |
-|                   | Neon (Solana EVM)       |                        |
-|                   | Polygon                 |                        |
+<table><thead><tr><th width="251">ARC Mainnet (A-Z)</th><th width="253.33333333333331">ARC Testnet (A-Z)</th><th>ARC Accepted Proposals</th></tr></thead><tbody><tr><td>Ethereum</td><td>Avalanche</td><td>BNB Chain</td></tr><tr><td>Cosmos Hub</td><td>Aurora (NEAR EVM)</td><td></td></tr><tr><td>OKX Chain</td><td>Fantom</td><td></td></tr><tr><td>Osmosis</td><td>Moonbeam (Polkadot EVM)</td><td></td></tr><tr><td></td><td>Neon (Solana EVM)</td><td></td></tr><tr><td></td><td>Polygon</td><td></td></tr></tbody></table>
 
 * **Total Bridge Txs:** 2,024+
   * _Timeframe: December 3, 2022 - February 26, 2023_
