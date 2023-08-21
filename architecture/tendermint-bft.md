@@ -14,7 +14,7 @@ Given a state S and a transaction T, the state machine will return a new state S
 
 In practice, the transactions are bundled in blocks to make the process more efficient. Given a state S and a block of transactions B, the state machine will return a new state S'.
 
-![​ Cosmos SDK Tendermint Documentation](<../.gitbook/assets/image (11).png>)
+![​ Cosmos SDK Tendermint Documentation](<../.gitbook/assets/image (11) (1).png>)
 
 In a blockchain context, the state machine is deterministic. This means that if a node is started at a given state and replays the same sequence of transactions, it will always end up with the same final state.
 

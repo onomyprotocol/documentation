@@ -22,11 +22,11 @@ The Onomy Protocol token (_**NOM**_) is primarily distributed through a bonding 
 
 The following is the equation governing the bonding curve:
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (2).png>)
 
 100,000,000 is the supply of _bNOM_ loaded into the bonding curve. Supply is provided as it is purchased, thereby acting as a minting mechanism over time. The emission of tokens requires significant capital to prevent over-dilution of the NOM circulating supply.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (2).png>)
 
 ## Distribution Benefits
 
