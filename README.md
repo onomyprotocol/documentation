@@ -14,7 +14,7 @@ A cornerstone of the Onomy Protocol is its Decentralized Autonomous Organization
 
 ### Onomy Improvement Proposals (OIPs)
 
-Current major OIPs in progress include the [**Onomy Exchange**](broken-reference) (a hybrid orderbook+AMM DEX) and the [**Onomy Reserve**](consumer-chain-proposals/onomy-reserve-ores.md) (decentralized stablecoin issuance).
+Current major OIPs in progress include the **Onomy Exchange** (a hybrid orderbook+AMM DEX) and the **Onomy Reserve** (decentralized stablecoin issuance).
 
 You can join Onomy's community social channels to connect with 60,000+ fellow _NOMads_ and view information about the Onomy Ecosystem.
 

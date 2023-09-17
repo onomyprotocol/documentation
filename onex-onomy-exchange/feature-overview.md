@@ -87,15 +87,18 @@ This section explains the ONEX buy and burn mechanism, including rewards calcula
 
 ### **Rewards Calculation & Percentage Utilization**
 
-* Rewards for liquidity pools are calculated as the current value of the drops (shares) minus the initial deposit value. Whenever drops from any pool on ONEX are redeemed, the respective rewards are distributed to the LP (80%), the LP Leaders (10%), and the buy and burn mechanism (10%).
-* Along with the other distributions, the distribution to the buy and burn mechanism is paid in the assets that the redeemed drops represent. For example, if drops were redeemed from an ETH/USDT pair on ONEX, then the redeemed drops would provide ETH and USDT to the buy and burn mechanism.&#x20;
+* Rewards for liquidity pools are calculated as the current value of the drops (shares of liquidity) minus the initial deposit value. Whenever drops from any pool on ONEX are redeemed, the respective rewards are distributed to the LP (80%) and the LP Leaders (10%). The remaining 10% is distributed toward the programmatic buy and burn mechanism on a per-trade basis rather than on drop redemption.
 
 ### **Buy and Burn Process**
 
-* Using the received assets from the redeemed drops, market orders are placed on pairs with NOM to buy NOM tokens on ONEX. Following this example, the ETH would be used to enter market buys of NOM on the NOM/ETH pair and the USDT would be used to enter market buys of NOM on the NOM/USDT pair.&#x20;
-* The purchased NOM are then programmatically destroyed via the \`Burn\` coins function.&#x20;
-* If a pair does not yet exist between NOM and the asset received from a redeemed drop, then the funds remain in the exchange module address until the pair is created.
-* Once the missing pair is created, the buy and burn mechanism will be triggered upon any drop redemption.
+* Along with the other distributions, the distribution to the buy and burn mechanism is completed with the same assets that the rewards are generated in. For example, this means that if the AMM fills a trade on the ETH/USDT pair on ONEX, then 10% of the rewards geneated would be distributed to the buy and burn mechanism in ETH and USDT.&#x20;
+* Using the received assets from the redeemed drops, market orders are placed on pairs with NOM to buy NOM tokens on ONEX. Following our example, the ETH would be used to enter market buys of NOM on the NOM/ETH pair and the USDT would be used to enter market buys of NOM on the NOM/USDT pair.&#x20;
+* The purchased NOM are then programmatically destroyed via the `` `Burn` `` coins function of the SDK.&#x20;
+
+### Edge Cases
+
+* If a pair does not yet exist between NOM and the asset distributed from the AMM for the buy and burn mechanism, then the funds remain in the exchange module address until the pair is created.
+* Once the missing pair is created, the buy and burn mechanism will be triggered upon any trade on that pair.
 
 For a more detailed look at ONEX, check [Under The Hood](under-the-hood.md)
 

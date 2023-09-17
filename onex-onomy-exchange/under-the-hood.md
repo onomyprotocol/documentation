@@ -94,8 +94,8 @@ One of the available permissions within the Bank module is the "Burner" permissi
 
 ONEX leverages the Burner permission within the Cosmos SDK's Bank module to execute its buy and burn function. This process involves the following steps:
 
-1. **Asset Utilization**: Upon redemption of drops (liquidity shares), the corresponding assets are received as part of the rewards distribution to the Buy and Burn Mechanism. These assets are then utilized to programmatically place market orders on pairs with NOM within ONEX
-   * **Example Execution**: Following a specific example, if ETH and USDT are received from redeemed drops, they would be used to enter market buys of NOM on the respective NOM/ETH and NOM/USDT pairs
+1. **Asset Utilization**: Upon each completed trade with the AMM on any pair, the corresponding assets are received as part of the rewards distribution to the Buy and Burn Mechanism. These assets are then utilized to programmatically place market orders on pairs with NOM within ONEX
+   * **Example Execution**: Following a specific example, if ETH and USDT are received from the AMM rewards, they would be used to enter market buys of NOM on the respective NOM/ETH and NOM/USDT pairs
 2. **Burning Process**: The purchased NOM tokens are programmatically destroyed via the `Burn` coins function within the Cosmos SDK's Bank module.
 3. **No Central Management:** This operation within ONEX is executed through an autonomous and programmatic process, adhering to the predefined permissions set within the Cosmos SDK's Bank module. This decentralized design ensures that the burn function aligns with the network's protocols, without any central oversight or intervention to enact the process.&#x20;
 
@@ -105,7 +105,7 @@ ONEX leverages the Burner permission within the Cosmos SDK's Bank module to exec
 2. **Pair Creation**: Once the missing pair is created, the funds will activate upon a trigger event.
 3. **Triggering Buy and Burn**: The buy and burn mechanism is then triggered upon any subsequent drop redemption, utilizing the previously held funds to execute the market buys.
 
-By embedding this functionality directly into the protocol, ONEX ensures a transparent and controlled mechanism for token burn, contributing to the stability and integrity of the platform and aligning with the principles of decentralized finance.
+Embedding this functionality directly into the protocol ensures a transparent and programmatic mechanism for token burn without manual intervention, contributing to the stability and integrity of the platform and aligning with the principles of decentralized finance.
 
 ## TLA+ Specification
 
