@@ -87,7 +87,7 @@ This section explains the ONEX buy and burn mechanism, including rewards calcula
 
 ### **Rewards Calculation & Percentage Utilization**
 
-* Rewards for liquidity pools are calculated as the current value of the drops (shares of liquidity) minus the initial deposit value. Whenever drops from any pool on ONEX are redeemed, the respective rewards are distributed to the LP (80%) and the LP Leaders (10%). The remaining 10% is distributed toward the programmatic buy and burn mechanism on a per-trade basis rather than on drop redemption.
+* Rewards for liquidity pools are calculated as the current value of the drops (shares of liquidity) minus the initial deposit value. Whenever drops from any pool on ONEX are redeemed, the respective rewards are distributed to the Liquidity Providers (80%). The remaining rewards are sent to the Liquidity Provider Leaders of their respective pools (10%) and the programmatic buy and burn mechanism (10%) on a per-trade basis rather than on drop redemption.
 
 ### **Buy and Burn Process**
 
