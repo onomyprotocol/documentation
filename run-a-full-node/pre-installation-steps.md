@@ -87,15 +87,15 @@ Check if go installation is working&#x20;
 
 4. Compile Onomy
 
-Download onomy repo and compile binary&#x20;
+Download onomy repo and compile binary. Be sure to use the latest release.
 
 ```
-git clone -b v1.0.1 https://github.com/onomyprotocol/onomy.git 
+git clone -b v1.1.4 https://github.com/onomyprotocol/onomy.git 
 cd onomy 
 make build 
 ```
 
-If using Cosmsovisor, move the binary to Cosmovisor directory &#x20;
+If using Cosmovisor, move the binary to Cosmovisor directory &#x20;
 
 `mv onomyd $HOME/.onomy/cosmovisor/genesis/bin/onomyd`
 
