@@ -118,7 +118,17 @@ cp cosmovisor/cosmovisor $HOME/.onomy/bin/cosmovisor
 
 6. Post-installation&#x20;
 
-&#x20;Make binaries executable&#x20;
+&#x20;**Verify `$ONOMY_HOME` Environment Variable**
+
+Ensure that the `$ONOMY_HOME` environment variable is correctly set to point to your `~/.onomy` directory. You can verify this by echoing the variable:\
+\
+`echo $ONOMY_HOME`
+
+If the output is not your `~/.onomy` path or is empty, you need to set it correctly. Add the following line to your `~/.bashrc` or `~/.profile` file to ensure it's set in every session:
+
+`source ~/.bashrc` or `source ~/.profile`
+
+Now, make the binaries executable&#x20;
 
 ```
 chmod +x $ONOMY_HOME/bin/* 
