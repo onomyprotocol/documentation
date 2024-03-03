@@ -141,7 +141,7 @@ You can also open the `http://localhost:26657` in your browser and check availab
 ### Note for cloud/server hosted versions of Ubuntu
 
 {% hint style="info" %}
-Ensure you are using GLIBC 2.32 or higher, which typically comes with Ubuntu 22.04 LTS. To upgrade Ubuntu to the next available release, you can use the <mark style="color:blue;">`do-release-upgrade`</mark> tool. However, this tool is only recommended for server editions without a GUI. If you're running a desktop version, the update manager should prompt you to upgrade when a new release is available.
+Ensure you are using GLIBC 2.34 or higher, which typically comes with Ubuntu 22.04 LTS. To upgrade Ubuntu to the next available release, you can use the <mark style="color:blue;">`do-release-upgrade`</mark> tool. However, this tool is only recommended for server editions without a GUI. If you're running a desktop version, the update manager should prompt you to upgrade when a new release is available.
 
 1.  **Prepare for the Upgrade**:
 
@@ -158,8 +158,6 @@ Ensure you are using GLIBC 2.32 or higher, which typically comes with Ubuntu 22.
 
 &#x20;       <mark style="color:blue;">`sudo do-release-upgrade`</mark>
 
-
-
-Follow the on-screen instructions to complete the upgrade process.
+Follow the on-screen instructions to complete the upgrade process. After completion and restarting your server, you may check the version with <mark style="color:blue;">`ldd --version`</mark> to ensure you are up-to-date.
 {% endhint %}
 
