@@ -56,7 +56,9 @@ After the script is done, you will find `node-id` in the output. Make sure to ta
 
 4\. **Optionally** allow CORS using the command `bash allow-cors.sh`
 
-5\. You can start and stop the node using `start-onomyd.sh` and `stop-onomyd.sh`. When you first start the node, give it enough time to sync with the blockchain.
+5\. Start your node `./start-onomyd.sh`! When you first start the node, give it enough time to sync with the blockchain.
+
+In future, you may use  `./stop-onomyd.sh` to stop the node at any time.&#x20;
 
 ## Method 2: Initialize and start a full node manually
 
