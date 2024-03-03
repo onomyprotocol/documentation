@@ -14,8 +14,8 @@ Make sure you have gone through [Installation Steps](pre-installation-steps.md) 
 
 There are a couple of ways to initialize and start a full node
 
-1. **Method 1:** Initialize and start a full node using scripts (Recommended)
-2. **Method 2:** Initialize and start a full node manually
+* **Method 1:** Initialize and start a full node using scripts (Recommended)
+* **Method 2:** Initialize and start a full node manually
 
 ## Method 1: Initialize and start a full node using scripts
 
@@ -54,11 +54,18 @@ This script will ask you for the following...
 
 After the script is done, you will find `node-id` in the output. Make sure to take a note of the node id as you might need it afterwards. If you forgot to save your node id, you can find it using `onomyd tendermint show-node-id` in future.
 
-4\. **Optionally** allow CORS using the command `bash allow-cors.sh`
+6. **Optionally** allow CORS using the command `bash allow-cors.sh`
+7. Increase ulimit to > 65535 with the command `ulimit -n 65536`
+8. **Recommended:** Use StateSync to quickly sync with the blockchain. Download the `init-statesync.sh` script using:
 
-5\. Start your node `./start-onomyd.sh`! When you first start the node, give it enough time to sync with the blockchain.
+```
+wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scripts/init-statesync.sh
+```
 
-In future, you may use  `./stop-onomyd.sh` to stop the node at any time.&#x20;
+&#x20; Then, enter `bash init-statesync.sh`
+
+9. Now, start your node `./start-onomyd.sh`. When you first start the node, give it enough time to sync with the blockchain.
+10. **Success! Your node should be running.** In future, you may use  `./stop-onomyd.sh` to stop the node at any time.&#x20;
 
 ## Method 2: Initialize and start a full node manually
 
