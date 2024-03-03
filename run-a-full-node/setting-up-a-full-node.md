@@ -4,58 +4,60 @@
 
 Minimum system requirements:
 
-* Any modern Linux distribution (RHEL 8 or Fedora 36 are preferred)
-* A quad-core CPU
-* 16 GB of RAM
-* 320 GB of storage
+* Any modern Linux distribution
+* 8 Core CPU (16+ Preferred)
+* 32 GB of RAM (64+ Preferred)
+* 500 GB of NVMe Gen 4+ storage
 
 Make sure you have gone through [Installation Steps](pre-installation-steps.md) prior to setting up a node.
 
 There are a couple of ways to initialize and start a full node
 
-1. [Initialize and start a full node using scripts](setting-up-a-full-node.md#initialize-and-start-a-full-node)
-2. Initialize and start a full node manually
+1. **Method 1:** [Initialize and start a full node using scripts](setting-up-a-full-node.md#initialize-and-start-a-full-node) (Recommended)
+2. **Method 2:** Initialize and start a full node manually
 
-## Initialize and start a full node using scripts
+## Method 1: Initialize and start a full node using scripts
 
-1. To start the Onomy full node, download scripts from the [GitHub](https://github.com/onomyprotocol/onomy/tree/main/deploy/scripts).
+1. First, create the `.onomy/scripts` directory and cd into the newly created scripts folder.
 
 ```
 mkdir $HOME/.onomy/scripts
 cd $HOME/.onomy/scripts
-wget https://raw.githubusercontent.com/onomyprotocol/onomy/main/deploy/scripts/allow-cors.sh
-wget https://raw.githubusercontent.com/onomyprotocol/onomy/main/deploy/scripts/init-mainnet-full-node.sh
-wget https://raw.githubusercontent.com/onomyprotocol/onomy/main/deploy/scripts/start-onomyd.sh
-wget https://raw.githubusercontent.com/onomyprotocol/onomy/main/deploy/scripts/stop-onomyd.sh
 ```
 
-2\. Add executable permissions to the scripts using `chmod +x *`
-
-3\. Download genesis file
+2. Download scripts from GitHub using the commands below:
 
 ```
-wget https://raw.githubusercontent.com/onomyprotocol/onomy/main/genesis/mainnet/genesis-mainnet-1.json
+wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scripts/allow-cors.sh
+wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scripts/init-full-node.sh
+wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scripts/start-onomyd.sh
+wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scripts/stop-onomyd.sh
 ```
 
-4\. Run init-mainnet-full-node.sh script to initiate a new full node
+3. Add executable permissions to the scripts using `chmod +x *`
+4. Download the genesis file found on GitHub using the following command:
 
-`bash init-mainnet-full-node.sh`
+```
+wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/genesis/genesis-mainnet-1.json
+```
 
-This script will ask you for several details
+5. Start the initialization process with the following command:
+
+`bash init-full-node.sh`
+
+This script will ask you for the following...
 
 * Node Name \[Text]: A name for your full node
 * Seed IPs \[Comma separated list of IPs]: IP Addresses of seed nodes, There are a couple of IPs pre-configured, If you want to point your node to custom Seed node, you can do that here
 * Your IP Address \[IP Address]
 
-After the script is done, you will find node-id in the output. Make sure to take a note of the node id as you might need it afterwards. If you forgot to save your node id, you can find it using
+After the script is done, you will find `node-id` in the output. Make sure to take a note of the node id as you might need it afterwards. If you forgot to save your node id, you can find it using `onomyd tendermint show-node-id` in future.
 
-`onomyd tendermint show-node-id`
+4\. **Optionally** allow CORS using the command `bash allow-cors.sh`
 
-4\. \[Optional] you can allow CORS using the script `allow-cors.sh`
+5\. You can start and stop the node using `start-onomyd.sh` and `stop-onomyd.sh`. When you first start the node, give it enough time to sync with the blockchain.
 
-5\. You can start and stop the node using `start-onomyd.sh` and `stop-onomyd.sh`. When you first start the node, give it enough time to sync with the blockchain
-
-## Initialize and start a full node manually
+## Method 2: Initialize and start a full node manually
 
 1. Initialize onomy node and config files&#x20;
 
@@ -94,7 +96,7 @@ We can setup state-sync to quickly sync up the node
 
 These are the IP addresses for state sync nodes: `52.70.182.125, 44.195.221.88`
 
-Open one RPC endpoint of one of the state-sync nodes to get the details of latest block: [http://52.70.182.125:26657/block](http://52.70.182.125:26657/block).&#x20;
+Open one RPC endpoint of one of the state-sync nodes to get the details of latest block
 
 * Get latest block height from result.block.header.height parameter and latest block hast from result.block\_id.hash parameter&#x20;
 * Change the following parameters in config.toml file&#x20;
