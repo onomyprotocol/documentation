@@ -14,7 +14,7 @@ Make sure you have gone through [Installation Steps](pre-installation-steps.md) 
 
 There are a couple of ways to initialize and start a full node
 
-1. **Method 1:** [Initialize and start a full node using scripts](setting-up-a-full-node.md#initialize-and-start-a-full-node) (Recommended)
+1. **Method 1:** Initialize and start a full node using scripts (Recommended)
 2. **Method 2:** Initialize and start a full node manually
 
 ## Method 1: Initialize and start a full node using scripts
