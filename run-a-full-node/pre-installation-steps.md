@@ -26,6 +26,8 @@ $HOME
 
 5\. To make changes in PATH variable persistent, run the following command, which will add an export command to your `.bashrc` file. `echo "export PATH=$PATH`:$HOME/.onomy/bin`" >> ~/.bashrc`
 
+[Move on to installing the full node](setting-up-a-full-node.md)
+
 ### Method 2: Compile Binary Locally Using Script
 
 1. Download the bin.sh script
@@ -40,7 +42,7 @@ wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scri
 
 This script downloads and compiles Onomy binary. A new directory `.onomy` will be created in your home directory. All the source code will be downloaded in the `.onomy/src` directory. Compiled binary will be in `.onomy/bin` directory.
 
-You are done and ready to go!
+You are done and ready to go! [Move on to installing the full node](setting-up-a-full-node.md)
 
 ## Method 3: Compile Binary Manually
 
@@ -158,7 +160,7 @@ echo "export DAEMON_NAME=onomyd" >> ~/.bashrc
 echo "export DAEMON_RESTART_AFTER_UPGRADE=true" >> ~/.bashrc 
 ```
 
-
+[Move on to installing the full node](setting-up-a-full-node.md)
 
 {% hint style="danger" %}
 NOTE: Do not run the script as a super user. If you run script as a super user, then the .onomy directory will be created in home directory of super user. Script will ask for super user privileges while installing and updating packages.&#x20;
