@@ -76,3 +76,15 @@ onomyd query staking validator $(onomyd keys show validator --bech val --address
 You have succeeded if the status is `BOND_STATUS_BONDED`
 
 **Welcome to the Onomy Validator Guild!**
+
+#### **Migrating servers**
+
+To migrate your validator to a new server, you first sync up a new node (check the instruction on using snapshot or state sync). Then:
+
+1. Shut down your old node
+2. Copy your `priv_validator_key.json` and `priv_validator_state.json` to the new node
+3. Restart your new node
+
+NOTE: Step (1) must be done first, or your validator may double-sign!
+
+Optional: Copy `node_key.json` to the new server as well. This is not mandatory, but helps your node to establish P2P connections faster.
