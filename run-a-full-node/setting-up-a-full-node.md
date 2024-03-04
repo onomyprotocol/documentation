@@ -70,11 +70,21 @@ wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scri
 wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scripts/add-service.sh
 ```
 
-Then, give it executable permissions with `chmod +x add-service.sh`. Next, run it from sudo user with `sudo ./add-service.sh onomyd ${PWD}/start-onomyd.sh`.
+Then, give it executable permissions with `chmod +x add-service.sh`.&#x20;
 
-**Success! Your node should be running.** When you first start the node, give it enough time to sync with the blockchain. In future, you may use  `./stop-onomyd.sh` to stop the node at any time.  Use the same command above to restart it!
+10. Change the `User` from root to your username. First, enter the command `sudo vim /etc/systemd/system/onomyd.service` then press `i` to enter insert mode. Navigate to `User=root` and change `root` to your own username (the one you use to log in to the terminal).
+11. **Save and Exit** by pressing `Esc` to exit insert mode. Then, type `:wq` and press `Enter` to write the changes to the file and quit `vim`.
+12. **Reload systemd**: After making changes to the service file, reload the systemd configuration to apply them:
 
-* _**Alternatively,**_ if you wish to run the node without using it in a background process, then simply start your node with `./start-onomyd.sh`
+```
+sudo systemctl daemon-reload
+```
+
+13. Next, run it from sudo user with `sudo ./add-service.sh onomyd ${PWD}/start-onomyd.sh`
+14. You may view the node log with the command `journalctl -f -u onomyd --output cat` and exit the log mode using ctrl+c.&#x20;
+15. To quickly view the status of the node with details such as the latest block height it is synced to, use the command `onomyd status 2>&1 | jq`
+
+**Success! Your node should be running.** When you first start the node, give it enough time to sync with the blockchain. Once synced up, [proceed to setting up your validator](../start-a-validator/creating-a-validator.md)!
 
 ## Method 2: Initialize and start a full node manually
 
