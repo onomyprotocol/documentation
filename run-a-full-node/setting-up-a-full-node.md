@@ -64,8 +64,17 @@ wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scri
 
 &#x20; Then, enter `bash init-statesync.sh`
 
-9. Now, start your node `./start-onomyd.sh`. When you first start the node, give it enough time to sync with the blockchain.
-10. **Success! Your node should be running.** In future, you may use  `./stop-onomyd.sh` to stop the node at any time.&#x20;
+9. It is recommended to run the node as a background service, enabling you to enter commands and utilize your terminal while the node operates. To do this, download the add-service.sh script.&#x20;
+
+```
+wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scripts/add-service.sh
+```
+
+Then, give it executable permissions with `chmod +x add-service.sh`. Next, run it from sudo user with `sudo ./add-service.sh onomyd ${PWD}/start-onomyd.sh`.
+
+**Success! Your node should be running.** When you first start the node, give it enough time to sync with the blockchain. In future, you may use  `./stop-onomyd.sh` to stop the node at any time.  Use the same command above to restart it!
+
+* _**Alternatively,**_ if you wish to run the node without using it in a background process, then simply start your node with `./start-onomyd.sh`
 
 ## Method 2: Initialize and start a full node manually
 
