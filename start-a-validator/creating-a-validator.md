@@ -83,6 +83,7 @@ To migrate your validator to a new server, you first sync up a new node (check t
 
 1. Shut down your old node
 2. Copy your `priv_validator_key.json` and `priv_validator_state.json` to the new node
+   * You may use `scp` command to download it from remote host to local machine, then upload it to the new remote host. Be sure to exit ssh before using `scp`
 3. Restart your new node
 
 NOTE: Step (1) must be done first, or your validator may double-sign!
