@@ -72,15 +72,16 @@ wget https://raw.githubusercontent.com/onomyprotocol/validator/main/mainnet/scri
 
 Then, give it executable permissions with `chmod +x add-service.sh`.&#x20;
 
-10. Change the `User` from root to your username. First, enter the command `sudo vim /etc/systemd/system/onomyd.service` then press `i` to enter insert mode. Navigate to `User=root` and change `root` to your own username (the one you use to log in to the terminal).
-11. **Save and Exit** by pressing `Esc` to exit insert mode. Then, type `:wq` and press `Enter` to write the changes to the file and quit `vim`.
-12. **Reload systemd**: After making changes to the service file, reload the systemd configuration to apply them:
+10. Next, run it from sudo user with `sudo ./add-service.sh onomyd ${PWD}/start-onomyd.sh`
+11. Change the `User` from root to your username if needed. First, enter the command `sudo vim /etc/systemd/system/onomyd.service` then press `i` to enter insert mode. Navigate to `User=root` and change `root` to your own username (the one you use to log in to the terminal).
+12. **Save and Exit** by pressing `Esc` to exit insert mode. Then, type `:wq` and press `Enter` to write the changes to the file and quit `vim`.
+13. **Reload systemd**: After making changes to the service file, reload the systemd configuration to apply them:
 
 ```
 sudo systemctl daemon-reload
 ```
 
-13. Next, run it from sudo user with `sudo ./add-service.sh onomyd ${PWD}/start-onomyd.sh`
+13. Run `sudo ./add-service.sh onomyd ${PWD}/start-onomyd.sh`
 14. You may view the node log with the command `journalctl -f -u onomyd --output cat` and exit the log mode using ctrl+c.&#x20;
 15. To quickly view the status of the node with details such as the latest block height it is synced to, use the command `onomyd status 2>&1 | jq`
 
