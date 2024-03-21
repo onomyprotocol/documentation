@@ -24,7 +24,9 @@ $HOME
 
 4\. Add `$HOME/.onomy/bin` to $PATH environment variable. `export PATH=$PATH:$HOME/.onomy/bin`
 
-5\. To make changes in PATH variable persistent, run the following command, which will add an export command to your `.bashrc` file. `echo "export PATH=$PATH`:$HOME/.onomy/bin`" >> ~/.bashrc`
+5\. To make changes in PATH variable persistent, run the following command, which will add an export command to your `.bashrc` file:
+
+`echo "export PATH=$PATH:$HOME/.onomy/bin" >> ~/.bashrc`
 
 [Move on to installing the full node](setting-up-a-full-node.md)
 
